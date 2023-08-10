@@ -1,9 +1,18 @@
+title: MCR
+author: A.M.B.
+url: https://dh4ih.github.io/MCR/ # root address of the site
+description: > # description of the site (multiple lines allowed)
+ Notes from MCR Master degree.
+ 
+permalink: /:slug
+
 theme: minima
 
-collections:
-  cristianismo:
-    output: true
-  judaismo:
-    output: true
-  islam:
-    output: true
+highlighter: rouge
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-soopr-seo-tag
