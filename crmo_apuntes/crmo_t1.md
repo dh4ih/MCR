@@ -1,4 +1,4 @@
-# **Historia del Cristianismo**
+# **Tema 1: Los orígenes del cristianismo** (ss. I-II)
 
 Se puede dividir en tres periodos: 
 
@@ -9,7 +9,6 @@ Se puede dividir en tres periodos:
  
 - S. IV-V: Fase de **institucionalización** del cristianismo: el Imperio cristiano. Expulsa a las otras religiones politeístas del Mediterráneo.
 
-# **Tema 1: Los orígenes del cristianismo** (ss. I-II)
 
 ## **Las fuentes**: Introducción al NT. Evangelios canónicos y apócrifos. 
 
