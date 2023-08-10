@@ -15,4 +15,4 @@
 - **III-II a.C.**: Teocracia bajo dominio helenístico: ketuvim; helenización vs. hasidismo. 
 
 
-- **63 a.C.-70 d.C.**: primera etapa romana. El territorio pasa a ser la provincia de Siria. Gobierno republicano. Instauración de la monarquía de Herodes. Destrucción del templo 70.
+- **63 a.C.-70 d.C.**: primera etapa romana. El territorio pasa a ser la provincia de Siria. Gobierno republicano. Instauración de la monarquía de Herodes. Destrucción del templo en el 70.
