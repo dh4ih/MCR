@@ -1,15 +1,19 @@
-Welcome to the MCR notes and materials page. Here you'll find notes organized by subject, as well as supplementary materials in PDF format.
+## Materias
 
-# Subjects
+### [Cristianismo](/cristianismo/index.md)
+- [Tema 1: Los orígenes del cristianismo](/cristianismo/apuntes/crmo_t1.md)
+- [Tema 2: El cristianismo en los siglos II y III](/cristianismo/apuntes/crmo_t2.md)
+- [Materiales](/cristianismo/materiales/)
 
-|MATERIA|	APUNTES|	MATERIALES|
-|---|---|---|
-|[cristianismo](/cristianismo/index.md)|[Tema 1](/cristianismo/apuntes/crmo_t1.md)<br>[Tema 2](/cristianismo/apuntes/crmo_t2.md)|	[materiales](/cristianismo/materiales/)|
-|[judaísmo](/judaismo/index.md/)|[apuntes](/judaismo/apuntes/)	|materiales|
+### [Judaísmo](/judaismo/index.md)
+- [Repaso](/judaismo/apuntes/jdmo_repaso.md)
+- [Tema 1: La religión del antiguo Israel](/judaismo/apuntes/jdmo_t1.md)
+- [Tema 2: Del helenismo al Talmud](/judaismo/apuntes/jdmo_t2/)
 
-
-If you have any questions or comments, please feel free to [contact me](mailto:youremail@example.com).
+## Contacto
+Si tienes alguna pregunta o comentario, no dudes en [contactarnos](mailto:correo@example.com).
 
 © 2023 - a.moron
+
 ---
 
