@@ -1,6 +1,6 @@
 # CRISTIANISMO 
 
-[Tema 1](crmo_t1.md)
+[Apuntes](_crmo_apuntes)
 [Tema 2](crmo_t2.md)
 
 # JUDAÍSMO
