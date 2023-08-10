@@ -1,0 +1,18 @@
+title: MCR
+author: A.M.B.
+url: https://dh4ih.github.io/mcr1
+description: > # description of the site (multiple lines allowed)
+ Notes from MCR Master degree.
+ 
+permalink: /:slug
+
+theme: minima
+
+highlighter: rouge
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-soopr-seo-tag
