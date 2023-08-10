@@ -4,17 +4,7 @@ url: https://dh4ih.github.io/mcr1/ # root address of the site
 description: > # description of the site (multiple lines allowed)
  Notes from MCR!
  
-permalink: /:slug
-
-favicon: "./logo.png" # relative path to site's favicon
-
 theme: minima
-
-sass:
-  style: :compressed
-
-plugins:
-  - jekyll-feed
 
 header_pages:
   - cristianismo/index.md
