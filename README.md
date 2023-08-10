@@ -1,6 +1,6 @@
 | **MATERIA**     | **APUNTES** | **MATERIALES** |
 |-------------|---------|------------|
-| **CRISTIANISMO**|         |            |
+| **CRISTIANISMO**| [1](crmo_t1.md) [2](crmo_t2.md) |            |
 | **JUDAÍSMO**    |         |            |
 | **ISLAM**       |         |            |
 | **TEORÍA**      |         |            |
