@@ -4,8 +4,8 @@ Bienvenida a la sección de Cristianismo. Aquí encontrarás apuntes relacionado
 
 ## Apuntes
 
-### [Tema 1: **Los orígenes del cristianismo**](apuntes/crmo_t1.md)
-### [Tema 2: **El cristianismo en los siglos II y III**](apuntes/crmo_t2.md)
+### [Tema 1: Los orígenes del cristianismo](apuntes/crmo_t1.md)
+### [Tema 2: El cristianismo en los siglos II y III](apuntes/crmo_t2.md)
 
 ## Materiales complementarios
 
