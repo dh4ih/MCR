@@ -9,7 +9,7 @@ Bienvenida a la sección de Cristianismo. Aquí encontrarás apuntes relacionado
 
 ## Materiales complementarios
 
-### [Material 1](materiales/material1.pdf)
+### [The christianization of a topos](https://github.com/dh4ih/mcr1/blob/main/cristianismo/materiales/%20THE%20CHRISTIANIZATION%20OF%20A%20TOPOS.pdf)
 ### [Material 2](materiales/material2.pdf)
 ---
 
