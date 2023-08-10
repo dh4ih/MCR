@@ -1,5 +1,3 @@
-
-# MCR notes
 Welcome to the MCR notes and materials page. Here you'll find notes organized by subject, as well as supplementary materials in PDF format.
 
 # Subjects
