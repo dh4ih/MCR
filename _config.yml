@@ -1,1 +1,9 @@
 theme: minima
+
+collections:
+  cristianismo:
+    output: true
+  judaismo:
+    output: true
+  islam:
+    output: true
