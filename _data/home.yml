@@ -2,7 +2,7 @@ navbar_entries:
   - title: "Master's Notes"
     url: /
   - title: "Cristianismo"
-    url: /cristianismo/
+    url: cristianismo
   - title: "Judaísmo"
     url: /judaismo/
   - title: "Islam"
