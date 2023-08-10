@@ -7,5 +7,5 @@ description: > # description of the site (multiple lines allowed)
 theme: minima
 
 header_pages:
-  - [cristianismo](https://dh4ih.github.io/mcr1/cristianismo/)
-  - [judaísmo](https://dh4ih.github.io/mcr1/judaismo/)
+  - cristianismo: https://dh4ih.github.io/mcr1/cristianismo/
+  - judaísmo: https://dh4ih.github.io/mcr1/judaismo/
