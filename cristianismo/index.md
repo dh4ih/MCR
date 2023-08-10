@@ -1,3 +1,8 @@
+---
+layout: default
+title: cristianismo
+---
+
 Bienvenida a la sección de Cristianismo. Aquí encontrarás apuntes relacionados con el estudio del cristianismo, así como materiales complementarios en formato PDF.
 
 ## Apuntes

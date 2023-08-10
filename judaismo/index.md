@@ -1,3 +1,8 @@
+---
+layout: default
+title: judaismo
+---
+
 Bienvenida a la sección de Judaísmo. Aquí encontrarás apuntes relacionados con el estudio del judaísmo, así como materiales complementarios en formato PDF.
 
 ## Apuntes
