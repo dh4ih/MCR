@@ -1,12 +1,10 @@
 navbar_entries:
-  - title: cristianismo
-    url: about
+  - title: crmo_t1
+    url: crmo_t1.md
 
-  - title: blog
-    url: blog
+  - title: crmo_t1
+    url: crmo_t2.md
 
-  - title: website
-    url: https://www.abhinav.co
 
 # project_entries:
 #   - title: Project 1
