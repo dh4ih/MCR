@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tema 1
+---
+
 # Introducción
 
 ## Planteamiento del problema <br> Cómo organizar la crítica a los censos oficiales.

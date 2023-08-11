@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tema 2
+---
+
 # **Tema 2** <br> **El cristianismo en los siglos II y III**
 
 Distintos movimientos atestiguados: 
