@@ -1,4 +1,7 @@
-# Materias
+---
+layout: default
+title: home
+---
 
 ## Comunes
 
