@@ -1,36 +1,127 @@
-# Cómo organizar la crítica a los censos oficiales.
+# Introducción
 
-Los datos de carácter estadístico no reflejan una realidad religiosa que pesa aunque sea minoritaria frente a una mayoría católica es más compleja y más numerosa. 
-Los censos no siempre abarcan la categoría Protestante/Evangélico en el conjunto de una población que tanto en el campo como en la ciudad ha preferido históricamente esconderse bajo ítems como los de ‘ninguna religión’ u ‘otra religión’ por temor a la persecución. Estos dos ítems han estado poblados de una cantidad enorme de protestantes y evangélicos. Esto lo ha estudiado Jean Pierre Bastien (en México). La persecución por parte de la mayoría católica tanto en el plano institucional como en el plano local. También las propias autoridades indígenas locales, que, también siendo partidarias de algo que no era exactamente catolicismo (el costumbre: una combinación sincrética de tradiciones rituales prehispánicos y de liturgia católica muy adaptada a las condiciones locales). Todo esto es lo que se ha usado como capital simbólico contra la población iindígena que se convertía (ahora menos) masivamente al protestantismo (pentecostal o no). 
-Censo general de población con un clasificador específico dedicado a religiones (Para México, 2010): 
-82 católica
-7 protestante y evangélica
-2 religiones bíblicas no evangélicas (JW, adventistas del 7 día, mormones)
-7 no religión – sin filiación religiosa alguna
-Ibidem, 2020
-	76 católica
-	11 protestantes
-	2 RRBBNE
-	9 no religión
+## Planteamiento del problema <br> Cómo organizar la crítica a los censos oficiales.
 
-Expresión campo religioso: Pierre Bourdieu: campo, habitus, capital y práctica. 
-Talcott Parsons: estructura de la acción social: propósito: intentar fusionar a Weber y Durkheim en una teoría completa de la acción social. Acabó siendo más Durkheimiano que weberiano. A Bourdieu se le considera postparsoniano como autor que intenta reconciliar subjetividad y objetividad, weber y durkheim… 
-Noción de campo religioso: muy utilizada en la antropología de la religión (científico social LATAM). Tan usada que muchas veces acaba desligada de su definición original. Hay un uso casi pop que está tan extendido que prácticamente se ha desdibujado el concepto de bourdieu. El campo es una estructura de posiciones objetivas. Todos actuamos dentro de un campo de fuerzas, de relaciones. 
-Habitus: es la parte subjetivista y constructivista de bourdieu. Para él es una estructura social internalizada. Hay un campo de relaciones objetivas, pero este campo no puede existir sin que la estructura no sea procesada por el individuo. Que tiene suficiente capacidad de agencia como para procesar toda esa información que procede de la estructura de posiciones objetivas en el campo y actuar en consecuencia siguiendo el juego con las reglas que más les pueden convenir. No cree que la estructura condicione hasta determinar la actuación de los sujetos. La capacidad de jugar con las reglas que le vienen impuestas es el habitus. 
+Los datos de carácter estadístico no reflejan una realidad religiosa que pese aunque sea minoritaria frente a una mayoría católica es más compleja y más numerosa. 
 
-	La noción de campo religioso ha avanzado desde Bourdieu, él innovó sobre sus posiciones y escribió un ensayito titulado La disolución de lo religioso y está en un libro que se llama Cosas dichas por Pierre Bourdieu. (También Sociólogos de la creencia y la creencia de los sociólogos).  
-Campo religioso > campo de la manipulación simbólica de la conducta de la vida privada. En La disolución de lo religioso reconstruye lo dicho en Génesis y estructura del campo religioso. 
-	El término ha cobrado vida propia a pesar de que Bourdieu se desmarca de su propio concepto. 
+Los censos no siempre abarcan la categoría Protestante/Evangélico en el conjunto de una población que tanto en el campo como en la ciudad ha preferido históricamente esconderse bajo ítems como los de *ninguna religión* u *otra religión* por temor a la persecución. Estos dos ítems han estado poblados de una cantidad enorme de protestantes y evangélicos. 
 
-La información relativa a los grupos que conocemos como cristianos protestantes evangélicos pentecostales (y muy particularmente el último porque es el más dinámico) no es en absoluto confiable. De hecho, para los años previos al censo del 2010 ya se había detectado que la iglesia católica había experimentado la disminución más importante de creyentes en toda la historia de México. Se decía que prácticamente un 6/7% de disminución en los años previos al censo. Simultáneamente se había registrado el crecimiento más explosivo de los protestantes evangélicos y fundamentalmente de los grupos pentecostales. Esto ha conllevado una gran cantidad de interpretaciones, de análisis y de explicaciones. En general las explicaciones de los estudiosos se centraban mucho en la incapacidad de la iglesia católica para desarrollar propuestas sociales, culturales y espirituales más dinámicas, más novedosas, más adaptadas a las nuevas realidades. Tenía que ver con la rigidez de la iglesia católica frente a la evidentísima y muy dinámica eficacia de las estrategias de los evangélicos y su gran capacidad para identificar tácticas proselitistas y pastorales más novedosas y receptivas a las necesidades de la población. Es un asunto de legitimación social, no de márketing. 
-Crecimiento orgánico a través de la diferenciación celular. Nadie puede expulsar a nadie, excomulgar a nadie, ya que el llamado de Jesucristo es personal. Si a mí me ha llamado para seguirle yo puedo fundar mi propia iglesia. A lo mejor al principio somos tres, quizás después es mayor de la anterior en la que yo estuve (diferenciación celular). Esto ha llevado a un crecimiento tremendo
-Hoy el pentecostalismo constituye el 75% de todo el protestantismo mundial. Está muy globalizado a pesar de estar muy fijado en LATAM. (Movida de que los latam vienen a españa a restaurar el pecado más grande de la cristiandad o sea la idolatría). 
-	Un elemento básico para atraer nuevos creyentes es el renacimiento o born again. El testimonio de conversión es, por ende, la joya preciada de la corona en la vida de cualquier evangélico. El momento en que se marca el antes y el después entre una antigua vida de pecado y una nueva vida de bendiciones. Esto tiene sólo una correspondencia parcial con la “vida real”. 
-*el pentecostalismo es un invento norteamericano. De iglesias negras de california. La religión evangélica pentecostal tiene su origen en Estados Unidos y de ahí parte hacia toda América latina. Lo de bolivianos, ecuatorianos y peruanos de españa, son evangélicos por estados unidos. Ocurre que va de vuelta a estados unidos igual que ocurre que viene de vuelta a españa. El born again se dice en inglés por eso. 
-El contingente duro del evangelismo español es gitano. La iglesia evangélica de Filadelfia es exclusivamente española. En el resto de Europa los hay pero con otros nombres. El origen del evangelismo gitano tb es latam (asambleas de dios) a través de un payo francés empiezan a convertir gitanos en francia que eran españoles vendimiadores. Los primeros convertidos en Francia a principios del XX empiezan a evangelizar España. En el resto de España se llama vida y luz (vie et lumiere, life and light). 
-En 2009 la iglesia católica mexicana contaba con 18644 ministros de culto (sacerdotes) frente a 27212 pastores evangélicos. Esto da una idea del compromiso, la dinamización, la diferenciación celular, la rotación y renovación continua de los pastores. Un teólogo católico dirá que los números son ciertos pero que las razones son otras. Dirán que la formación teológica de los pastores es deficiente en comparación con la de los sacerdotes porque es muy fácil convertirse en pastor y no en sacerdote. Esto es cierto relativamente, es más fácil convertirse en pastor evangélico, conoces la biblia, montas tu iglesia y hale. Pero hay una parte oculta. De los 80 millones de católicos nominales, asistían a su servicio religioso menos de una hora promedio al mes. Mientras que de los 10 millones de evangélicos, asistían en promedio 15 horas a su servicio religioso. Más recursos humanos, más horizontalidad, más pastores, más organización, el grado de implicación, mayor versatilidad estructural, una teología mucho más accesible (lo que los católicos llaman iglesias con hache; todo aquél que se haya criado en un hogar católico sabe que la Biblia no se podía tocar): mucha gente aprende a leer sólo para leer la biblia. Están subrayadas, coloreadas, manoseadas, etc. Cultos más participativos… Todo esto explica e ilustra el crecimiento brutal del 50% en diez años. 
-	Segundo problema. Los censos no registran el creciente número de seguidores de prácticas religioso-espirituales diversas que son no-cristianas o sincretizadas/hibridadas. Como las derivadas de la New Age, lo que se conoce actualmente como ambiente holístico, (del reiki al neochamanismo) o las sincretizadas como la santa muerte mexicana, los cultos afro-caribeños (afro-cubanos) y afro-brasileños, el chamanismo. Esto tiene que ver con cómo construimos nuestros objetos de análisis. 
-	Nosotros construimos con el valor heurístico de las quiebras epistemológicas. Hay discursos y prácticas crecientes que no esperábamos ni buscábamos. Mito de la secularización: qué hace esto aquí cuando debería haber desaparecido? La figura del ateo es interesantísima poque forma parte de una investigación sobre las religiones. Entra dentro del estudio. No para muchos ateos. La figura del escéptico cambia de una cultura a otra y el ateo es una forma particular de nuestra cultura religiosa. Veamos en el caso de España, somos líderes mundiales en blasfemia. Nadie blasfema más que nosotros. Estudios sobre la blasfemia: Manuel Delgado Ruiz. Blasfemias connotaciones religiosas, de género… Mónica Cornejo: catolicismo popular. La construcción teórica de la religión. En rituales como la misa de domingo, tienen que ser aburridos para ser eficaces socialmente. Pensamiento paradójico iluminador-iluminado. ¿Cómo la gente acude aquí de manera monótona a hacer siempre los mismos gestos y a pensar en las mismas cosas y a repetir todo de manera mecánica? Uno de los mayores elementos de subversión frente a esos rituales aburridos es la iglesia que se monta en las iglesias pentecostales, donde el ES se mueve libremente, danza entre ellos. Por eso los pentecostales dicen que no son religión. Tienen la religión asociados con rituales muy mecánicos en los que no se siente el ES; por eso ellos danzan, gritan, lloran y se desmayan. Trance. Muchas de estas prácticas ocurren en domicilios particulares: no tienen un espacio específicamente dedicado al culto. En términos de Thomas Luckmann: religiones privadas. El giro subjetivizador/privatizador tb llamadas religiones invisibles. 
+Jean Pierre Bastien ha estudiado este fenómeno en México, donde la persecución por la mayoría católica ha sido evidente a nivel institucional y local. Las propias autoridades indígenas locales, siendo partidarias de algo que no era exactamente catolicismo (el **costumbre**: una combinación sincrética de tradiciones rituales prehispánicos y de liturgia católica muy adaptada a las condiciones locales) han usado combinaciones sincréticas como capital simbólico contra la población indígena que se convertía (ahora menos) masivamente al protestantismo (pentecostal o no).
+
+
+### Censo de población (con un clasificador específico para religiones) en México para los años 2010 y 2020:
+
+| Categoría                              | 2010 | 2020 |
+|----------------------------------------|------|------|
+| Católica                               | 82%  | 76%  |
+| Protestante y Evangélica               | 7%   | 11%  |
+| Religiones Bíblicas No Evangélicas     | 2%   | 2%   |
+| Sin filiación religiosa                | 7%   | 9%   |
+
+---
+
+### El Campo Religioso
+
+
+**1. Pierre Bourdieu: Campo, Habitus, Capital y Práctica**
+
+Pierre Bourdieu es conocido por sus conceptos de campo, habitus, capital y práctica. Él articula la noción de **campo religioso**, una idea profundamente arraigada en la antropología de la religión. Su concepto del campo es una estructura de posiciones objetivas donde todos actuamos dentro de un entramado de relaciones y fuerzas.
+
+El **habitus**, por otro lado, es la parte subjetivista y constructivista de Bourdieu. Representa una estructura social internalizada y reconoce al individuo como un agente capaz de procesar y actuar dentro de la estructura, sin estar completamente condicionado por ella. Bourdieu no cree que la estructura determine completamente la acción de los sujetos; la capacidad de jugar con las reglas impuestas es lo que él llama habitus.
+
+**2. Talcott Parsons: Estructura de la Acción Social**
+
+Talcott Parsons buscó fusionar las ideas de Weber y Durkheim en una teoría completa de la acción social. Sin embargo, su enfoque acabó siendo más cercano a Durkheim que a Weber. Bourdieu es considerado postparsoniano, ya que intenta reconciliar subjetividad + objetividad, Weber + Durkheim.
+
+**3. El concepto de *campo religioso***
+
+La noción de campo religioso es muy utilizada en la antropología de la religión, tanto que a veces acaba desligada de su definición original. Hay un uso casi *pop* que ha desdibujado el concepto original de Bourdieu. El campo es una estructura de posiciones objetivas. Todos actuamos dentro de un campo de fuerzas, de relaciones.
+
+El campo religioso ha avanzado desde Bourdieu, quien innovó y escribió un ensayo titulado *La disolución de lo religioso*, contenido en el libro *Cosas dichas por Pierre Bourdieu* (También *Sociólogos de la creencia y la creencia de los sociólogos*). Su concepto del campo religioso se ha expandido para abarcar el campo de la manipulación simbólica de la conducta de la vida privada. A pesar de que Bourdieu posteriormente se distanció de su propio concepto, el término ha cobrado vida propia.
+
+
+### Cambios en el paisaje religioso mexicano
+
+La dinámica religiosa en México ha experimentado cambios notables en las últimas décadas, principalmente en lo que respecta a los grupos ***cristianos protestantes evangélicos pentecostales***. Es importante destacar especialmente el último de estos grupos, ya que es considerado el más dinámico.
+
+Sin embargo, encontrar información confiable sobre estos movimientos no es tarea fácil. En los años previos al censo de 2010, se había detectado una disminución importante en el número de creyentes de la iglesia católica en México, la más significativa en toda su historia. Se estimaba que esta disminución era de aproximadamente un 6% a 7% en los años anteriores al censo.
+
+Paralelamente, se registró un crecimiento explosivo de los protestantes evangélicos, y en particular de los grupos pentecostales. Este fenómeno ha generado una gran cantidad de interpretaciones, análisis y explicaciones.
+
+**Incapacidad de la Iglesia Católica**
+
+Los expertos en el tema suelen centrarse en la incapacidad de la iglesia católica para desarrollar propuestas sociales, culturales y espirituales más dinámicas y adaptadas a las nuevas realidades. Argumentan que esto tiene que ver con la rigidez de la iglesia católica en contraste con la eficacia y dinamismo de las estrategias de los evangélicos.
+
+**Estrategias Dinámicas de los Grupos Evangélicos**
+
+Los grupos evangélicos, especialmente los pentecostales, han demostrado una gran habilidad para identificar tácticas proselitistas y pastorales más novedosas y receptivas a las necesidades de la población. Esto no es simplemente una cuestión de marketing, sino un asunto de **legitimación social**. 
+
+**Crecimiento orgánico a través de la diferenciación celular** 
+
+Nadie puede expulsar a nadie, excomulgar a nadie, ya que **el llamado de Jesucristo es personal**. Si a mí me ha llamado para seguirle, yo puedo fundar mi propia iglesia. A lo mejor al principio somos tres, quizás después es mayor que la anterior en la que yo estuve (diferenciación celular).
+
+Hoy el **pentecostalismo constituye el 75% de todo el protestantismo** mundial. Está muy globalizado a pesar de estar muy fijado en LATAM. (Movida de que los latam vienen a españa a restaurar el pecado más grande de la cristiandad: la idolatría). 
+
+Un elemento básico para atraer nuevos creyentes es el renacimiento o *born again*. El **testimonio de conversión** es, por ende, la joya preciada de la corona en la vida de cualquier evangélico. El momento en que se marca el antes y el después entre **una antigua vida de pecado y una nueva vida de bendiciones**. Esto tiene sólo una correspondencia parcial con la *vida real*. 
+
+**El pentecostalismo es un invento norteamericano**
+
+De iglesias negras de California, la religión evangélica pentecostal tiene su origen en Estados Unidos y de ahí parte hacia toda América latina. Lo de bolivianos, ecuatorianos y peruanos de España, son evangélicos por Estados Unidos. Ocurre que va de vuelta a EEUU  igual que ocurre que viene de vuelta a España. El *born again* se dice en inglés por eso.
+
+**El contingente duro del evangelismo español es gitano**
+
+La *Iglesia Evangélica de Filadelfia* es exclusivamente española. En el resto de Europa los hay pero con otros nombres. 
+
+El origen del evangelismo gitano también es latinoamericano (asambleas de dios). A través de un payo francés empiezan a convertir gitanos españoles vendimiadores en Francia. Los primeros convertidos en Francia a principios del XX empiezan a evangelizar España. En el resto de España se llama **Vida y Luz** (vie et lumiere, life and light). 
+
+---
+
+
+### Comparación Entre la Iglesia Católica y Evangélica en México
+
+En 2009, la iglesia católica mexicana contaba con **18644 ministros de culto (sacerdotes)**, en comparación con **27212 pastores evangélicos**. Esta diferencia arroja luz sobre varios aspectos de ambas comunidades religiosas.
+
+#### Compromiso y Dinamización
+
+La mayor cantidad de pastores evangélicos refleja un alto nivel de compromiso, dinamización, diferenciación celular y una continua rotación y renovación.
+
+#### Formación Teológica
+
+Un teólogo católico puede argumentar que la formación teológica de los pastores es deficiente en comparación con la de los sacerdotes. Esto se debe a que es más fácil convertirse en pastor evangélico: basta con conocer la Biblia y fundar una iglesia.
+
+#### Asistencia y Participación
+
+Sin embargo, hay una parte oculta en esta comparación. De los 80 millones de católicos nominales, asistían a su servicio religioso menos de una hora promedio al mes. En contraste, de los 10 millones de evangélicos, asistían en promedio **15 horas** a su servicio religioso al mes.
+
+#### Accesibilidad y Cultura
+
+Los evangélicos ofrecen más recursos humanos, horizontalidad, organización y una teología mucho más accesible. Mucha gente aprende a leer solo para leer la Biblia, y sus textos sagrados están subrayados, coloreados y manoseados. Además, los cultos son más participativos.
+
+Todos estos factores contribuyen a explicar e ilustrar el crecimiento brutal del **50%** en diez años en la comunidad evangélica en México. La mayor implicación, versatilidad estructural y accesibilidad de la teología son elementos clave en este fenómeno.
+
+### Segundo Problema: La Diversidad y Privatización de la Práctica Religiosa
+
+#### La Falta de Registro en los Censos
+
+Los censos no registran el creciente número de seguidores de prácticas religioso-espirituales diversas que son no-cristianas o sincretizadas/hibridadas. Esto incluye tendencias derivadas de la **New Age**, como el ambiente holístico (del reiki al neochamanismo), y prácticas sincretizadas como la santa muerte mexicana, los cultos afro-caribeños (afro-cubanos) y afro-brasileños, y el chamanismo.
+
+#### Construcción de Objetos de Análisis
+
+Esto plantea cuestiones sobre cómo construimos nuestros objetos de análisis. Nosotros lo hacemos con el valor heurístico de las quiebras epistemológicas, reconociendo discursos y prácticas crecientes que no esperábamos ni buscábamos.
+
+##### Mito de la Secularización: ¿qué hace esto aquí cuando debería haber desaparecido?
+
+La figura del ateo es interesantísima en la investigación sobre religiones, entra dentro del estudio, aunque no para muchos ateos. La figura del escéptico cambia de una cultura a otra, y el ateo es una forma particular de nuestra cultura religiosa.
+
+En España, somos líderes mundiales en blasfemia. Nadie blasfema más que nosotros. Investigadores como Manuel Delgado Ruiz han estudiado las connotaciones religiosas y de género en la blasfemia. Mónica Cornejo ha trabajado en el catolicismo popular y la construcción teórica de la religión: los rituales, como la misa de domingo, tienen que ser aburridos (pensamiento paradójico iluminador-iluminado) para ser eficaces socialmente. 
+
+**¿Cómo la gente acude aquí de manera monótona a hacer siempre los mismos gestos y a pensar en las mismas cosas y a repetir todo de manera mecánica?** Uno de los mayores elementos de subversión frente a esos rituales aburridos es la fiesta que se monta en las iglesias pentecostales, donde el Espíritu Santo se mueve libremente y danza entre ellos. Los pentecostales dicen que no son religión, asociando la religión con rituales muy mecánicos en los que no se siente el ES. Por eso ellos danzan, gritan, lloran y se desmayan (trance). 
+
+Muchas de estas prácticas ocurren en domicilios particulares, sin un espacio específicamente dedicado al culto. En términos de Thomas Luckmann, se habla de religiones privadas, también conocidas como el giro subjetivizador/privatizador o *religiones invisibles*.
+
+La diversidad y privatización de la práctica religiosa presentan un problema en la comprensión y el estudio de la religión en la sociedad moderna. La complejidad de estas prácticas desafía las nociones tradicionales de religión y ofrece una ventana a la forma en que la espiritualidad se manifiesta en la cultura contemporánea. 
+
+--- 
 
 La sociología(?) busca no tanto identificar totalidades compactas sino identificar la heterogeneidad o la diversidad. 
 
@@ -93,4 +184,4 @@ creencia en el ES. creencia en los dones/carismas del espíritu: la iglesia cari
 
 la enfermedad concebida como producto del pecado. en este caso la medicina es eficiente pero debe intervenir dios para que haya curación
 o 
-la enfermedad puede ser concebida como prueba de dios sobre la fe de sus fieles. enermedad=resultado de señal divina para reforzra la fe. esta enfermedad solo sep uede curar con acción divina porque su origen es místico.la medicina podría ser un arma diabólica. 
+la enfermedad puede ser concebida como prueba de dios sobre la fe de sus fieles. enfermedad=resultado de señal divina para reforzar la fe. esta enfermedad solo se puede curar con acción divina porque su origen es místico.la medicina podría ser un arma diabólica. 

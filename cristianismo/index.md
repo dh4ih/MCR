@@ -8,12 +8,12 @@ Bienvenida a la sección de Cristianismo. Aquí encontrarás apuntes relacionado
 ## Apuntes
 
 ### [Tema 1: Los orígenes del cristianismo](https://dh4ih.github.io/mcr1/cristianismo/apuntes/crmo_t1)
-### [Tema 2: El cristianismo en los siglos II y III](https://dh4ih.github.io/mcr1/cristianismo/apuntes/crmo_t2)
+### [Tema 2: El cristianismo en los siglos II y III](apuntes/crmo_t2.md)
 
 ## Materiales complementarios
 
 
-[Todos los Evangelios - Antonio Piñero](materiales/todoslosevangelios_ap.pdf)
+[Todos los Evangelios - Antonio Piñero](/materiales/todoslosevangelios_ap.pdf)
 
 [Apologetas y heresiólogos](https://dh4ih.github.io/mcr1/cristianismo/materiales/apologetas.pdf)
 
@@ -29,45 +29,45 @@ Bienvenida a la sección de Cristianismo. Aquí encontrarás apuntes relacionado
 
 [Jesús histórico](https://www.jotdown.es/2018/11/jesus-de-nazaret-i-el-jesus-historico/)
 
-[El nacimiento de la Cristandad Occidental](https://drive.google.com/file/d/1lZFEhYMvodH_zVXYGqS9gTro43qx06MG/view?usp=drive_link)
+[El nacimiento de la Cristandad Occidental](materiales/cristiandadoccidental.pdf)
 
-[Evangelios apócrifos - Piñero](https://drive.google.com/file/d/1eY3QJxmptKEGO2HPVCG7JV7-iIKT8eFZ/view?usp=drive_link) 
+[Evangelios apócrifos - Piñero](materiales/evapocrifospiñero.pdf) 
 
-[Evangelios Apócrifos](https://drive.google.com/file/d/1V7VaMSlzlZJHZgf6b8WdhGifxNVk4lxj/view?usp=drive_link) 
+[Evangelios Apócrifos](materiales/evapocrifos.pdf) 
 
-[Genealogía del cristianismo primitivo como religión romana](https://drive.google.com/file/d/1KBa_bwaJoJs2njeQJkIIvjsecHMcqYnM/view?usp=drive_link)
+[Genealogía del cristianismo primitivo como religión romana](materiales/genealogia.pdf)
 
-[La cristiandad más allá de Occidente](https://drive.google.com/file/d/1nZVCf-0warfu5DalO4vBTEWXx9QhBs_4/view?usp=drive_link) 
+[La cristiandad más allá de Occidente](materiales/cris_masalla.pdf) 
 
-[Guión y Textos Ortodoxia y herejía](https://docs.google.com/document/d/1O2Os2q177h5jNvce1ZHTkGJOYddIEFYD/edit?usp=drive_link&ouid=116977574416002340680&rtpof=true&sd=true) 
+[Guión y Textos Ortodoxia y herejía](materiales/guion.doc) 
 
-[Herejes en la historia](https://drive.google.com/file/d/1hKaO-cRivcT8J4-7JeSVK-w25wb3ttHp/view?usp=drive_link)
+[Herejes en la historia](materiales/herejes.pdf)
 
-[Jesús de Nazaret: profeta y más que profeta (Jesús-María-Pablo)](https://drive.google.com/file/d/1cFdLqZV6XAUC44-PrrTjUoLQxmWzZQz_/view?usp=drive_link)
+[Jesús de Nazaret: profeta y más que profeta (Jesús-María-Pablo)](materiales/jesusmariapablo.pdf)
 
-[La ocupación de espacios sagrados - Juana Torres](https://drive.google.com/file/d/1_dxEz-_WACyG1vX7jsL8F_U_ek-QHHA9/view?usp=drive_link) 
+[La ocupación de espacios sagrados - Juana Torres](materiales/ocupacion.pdf) 
 
-[La crisis del pontificado y el gobierno de la Iglesia](https://drive.google.com/file/d/1JVYr7WMTxOFAJk8ANVWh234ZQJ_Js7bC/view?usp=drive_link) 
+[La crisis del pontificado y el gobierno de la Iglesia](materiales/crisispont.pdf) 
 
-[La religiosidad bajomedieval](https://drive.google.com/file/d/1j0_8OSv6bCeoppBL_iLMGT5Tv8nPdqDz/view?usp=drive_link) 
+[La religiosidad bajomedieval](materiales/relibajomedieval.pdf) 
 
-[El monacato medieval: Santos viajeros y patronos regios](https://drive.google.com/file/d/1BBsxre0XToXUC1iE1cdxv7oYtxBvid9R/view?usp=drive_link)
+[El monacato medieval: Santos viajeros y patronos regios](materiales/monacatomedieval.pdf)
 
-[Literatura neotestamentaria](https://drive.google.com/file/d/1fyPi-5M1ku06nJPSHfi6ebnByRs4rkdb/view?usp=drive_link)
+[Literatura neotestamentaria](materiales/litneotest.pdf)
 
-[Los cristianos y el Imperio romano](https://docs.google.com/document/d/1WgIeDHNj8m2RE00xuqTnfZUKBDwWWEUM/edit?usp=drive_link&ouid=116977574416002340680&rtpof=true&sd=true) 
+[Los cristianos y el Imperio romano](materiales/cristianosimperio.docx) 
 
-[Tradición y novedad en las leyes contra la magia y el paganismo de los emperadores cristianos](https://drive.google.com/file/d/1_BNtl-XumcunW0fvCuzCRmke0pbLzegc/view?usp=drive_link) 
+[Tradición y novedad en las leyes contra la magia y el paganismo de los emperadores cristianos](materiales/leyespaganismo.pdf) 
 
-[Mapas cristianismo](https://docs.google.com/presentation/d/1czbHt4gPOeH1utEZD4AZJ4SfMQS98JG4/edit?usp=drive_link&ouid=116977574416002340680&rtpof=true&sd=true) 
+[Mapas cristianismo](materiales/mapas.ppt) 
 
-[El cristianismo primitivo - Ramón Teja](https://drive.google.com/file/d/1gkslNvIKpcU4iH1NuZSc21uDURmcs4mf/view?usp=drive_link)
+[El cristianismo primitivo - Ramón Teja](materiales/crmoprimitivo.pdf)
 
-[Siglo XXI: rabinas, sacerdotas, obispas y ayatolas](https://drive.google.com/file/d/1uLThn9_X1pfUtl5iCtiqd81tIBX-v73a/view?usp=drive_link)
+[Siglo XXI: rabinas, sacerdotas, obispas y ayatolas](materiales/sacerdotas.pdf)
 
-[Textos Jesús Histórico](https://docs.google.com/document/d/1byUWRe3Pv7ypX2uJKnkjvh8EVuzTnVAa/edit?usp=drive_link&ouid=116977574416002340680&rtpof=true&sd=true)
+[Textos Jesús Histórico](materiales/textosjesus.doc)
 
-[J. Torres y el culto a los mártires](https://drive.google.com/file/d/1t_soyRlGx7GpX7ZCmJ-gCEdgwWYyqerx/view?usp=drive_link)
+[J. Torres y el culto a los mártires](materiales/cultomartires.pdf)
 
 ---
 
