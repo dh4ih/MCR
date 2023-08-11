@@ -7,9 +7,10 @@ description: > # description of the site (multiple lines allowed)
 theme: minima
 
 header_pages:
-  - cristianismo/index.md
-  - judaismo/index.md
-  - islam/index.md
-  - orientales/index.md
   - americanas/index.md
   - biblia/index.md
+  - cristianismo/index.md
+  - islam/index.md
+  - judaismo/index.md
+  - orientales/index.md
+  - politeismo/index.md
