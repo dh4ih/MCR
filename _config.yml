@@ -9,3 +9,7 @@ theme: minima
 header_pages:
   - cristianismo/index.md
   - judaismo/index.md
+  - islam/index.md
+  - orientales/index.md
+  - americanas/index.md
+  - biblia/index.md
