@@ -15,7 +15,7 @@ Bienvenida a la sección de Cristianismo. Aquí encontrarás apuntes relacionado
 
 [Todos los Evangelios - Antonio Piñero](https://drive.google.com/file/d/1Kt2NhqHATBH-fOi5nRkUgN-o2M9CqU7e/view?usp=drive_link)
 
-[Apologetas y heresiólogos](/mcr1/cristianismo/materiales/apologetas.pdf)
+[Apologetas y heresiólogos](https://dh4ih.github.io/mcr1/cristianismo/materiales/apologetas.pdf)
 
 [Canon del Nuevo Testamento](https://docs.google.com/document/d/1F0vRAYdkpPRWCRHjwFqRdXxnmSm8YqBv/edit?usp=drive_link&ouid=116977574416002340680&rtpof=true&sd=true)
 
