@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tema 1
+---
+
 # **Tema 1** <br> **Los orígenes del cristianismo** (ss. I-II)
 
 Se puede dividir en tres periodos: 
