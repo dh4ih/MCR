@@ -54,11 +54,11 @@ O sea, en qué cosas se distingue el cristianismo del resto de religiones del Me
 
 2. **Exclusivismo**
    
-  Si bien el cristianismo es monoteísta, lo que lo distingue fundamentalmente del resto de rr. del MT es su **exclusivismo**: el monoteísmo cristiano excluye cualquier otra opción religiosa. (Cf. [*monoteísmo pagano*](/politeismo/materiales/chaniotis.pdf), que era inclusivista: no rechaza ningún sistema religioso). Los cristianos son una comunidad cerrada que requiere una **conversión**, un acto de renuncia a cualquier otra religión. 
+  Si bien el cristianismo es monoteísta, lo que lo distingue fundamentalmente del resto de rr. del MT es su **exclusivismo**: el monoteísmo cristiano excluye cualquier otra opción religiosa. (Cf. [*monoteísmo pagano*](https://dh4ih.github.io/mcr1/politeismo/materiales/chaniotis.pdf), que era inclusivista: no rechaza ningún sistema religioso). Los cristianos son una comunidad cerrada que requiere una **conversión**, un acto de renuncia a cualquier otra religión. 
 
   El *ethos* religioso normal de las personas que viven en el MT durante el IR era una estampa de colores, que hacía que una persona pudiera rendir culto a un abanico variado de divinidades, muchas extranjeras, que convivían de manera pacífica. El cristianismo es **una religión radical** y este radicalismo hace que sea peligroso para las demás religiones con las que convive durante el II y el III.
 
-3. **Ambición de universalidad**
+1. **Ambición de universalidad**
 
   Singularidad que distingue el cristianismo del judaísmo. El judaísmo es una religión étnica, existe el proselitismo pero de manera muy limitada, muy exclusivista, hay que pasar por al menos dos fases dentro del judaísmo y para ser un 'judío perfecto' hay que pasar por unas cribas rituales, incluyendo prácticas como la circuncisión, que eran extrañas para el ámbito helenístico romano.
 
@@ -126,7 +126,15 @@ En la antigüedad todos los niveles, incluído el obispo, podían **contraer mat
 
 Estas son las cualidades que debía tener un buen cristiano, que son exactamente las cualidades del **estoicismo**.
 
+El nivel intelectual y teológico de muchos sacerdotes era muy bajo (todavía pasa hoy). Deja claro también que el presbítero debe estar preparado y gozar de *buena fama*. Un choque que tiene el cristianismo con el IR es que los cristianos eran difamados tanto por los intelectuales (que entraban a fondo en dogmas como el de la resurrección) como por el pueblo, que criticaba sus conductas inmorales. 
+
+Conclusión: las comunidades pasan de ser comunidades líquidas, fluidas, a comunidades estructuradas, en las cuales se pone orden en la interpretación del mensaje cristiano a través de un mediador (con el tiempo éste será el obispo). Las mujeres son excluidas de los cargos eclesiásticos y de toda forma de profecía de manera espontánea. En resumen, el cristianismo se va convirtiendo poco a poco, sobre todo a partir del siglo II, en una religión grecorromana que pretende ser socialmente aceptable. A finales del siglo III la Iglesia estará ya perfectamente jerarquizado.
 
 ## **El conflicto religioso en el Imperio Romano** 
+
+El conflicto está presente en el cristianismo **desde sus mismos orígenes**. 
+
+La variedad de cristianismos está presente desde los orígenes. Se tiende a hablar de "**el cristianismo**". [Ver](/cristianismo/materiales/herejes.pdf) o [ver](/cristianismo/materiales/herejes.pdf)
+
 ### **El conflicto interno**: ortodoxia y herejía. La literatura heresiológica
 ### **El conflicto con el Estado romano**: las persecuciones. Literatura apologética.
