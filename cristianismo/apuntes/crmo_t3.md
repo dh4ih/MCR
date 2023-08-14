@@ -20,23 +20,15 @@ Cuando fallece en Occidente el emperador Constancio Cloro le sucede **Constantin
 |**Diocleciano** <br> Galerio  | **Maximiano** <br> Constancio Cloro|
 |**Licinio** <br> Maximino Daya|**Constantino** (306) <br> Majencio |
 
-Constantino le declara la guerra a Majencio igual que en oriente Licinio se la declara a M. Daya. 
-
-**Constantino** accede al poder en el año 306, nombrado augusto por su propio ejército en York. Desde ese momento intentó imponer su poder a Majencio. Se desató una guerra civil y en el **312** se produce la batalla de Puente Milvio decisiva que consagra a Constantino como único gobernante en la parte occidental frente a Majencio. 
+En el año 303, **Diocleciano** decreta una persecución general, la más duradera y cruel. A partir de ese año, se emiten cuatro edictos que recrudecen progresivamente las **medidas represivas contra los cristianos**: destrucción y confiscación de los lugares de culto y de los libros sagrados, torturas, cárcel y la exigencia (304) a todos los habitantes del Imperio de realizar un sacrificio en honor de los dioses y de los emperadores. Legalmente, la persecución **cesó en 311**, aunque fue más suave y más breve en Occidente. En Oriente, **Galerio emitió un [edicto de tolerancia](https://es.wikipedia.org/wiki/Edicto_de_Tolerancia_de_Nicomedia)** poco antes de morir, reconociendo a los cristianos el derecho a ejercer libremente su religión y a recuperar los bienes confiscados.
 
 ### **La victoria del puente Milvio**
 
-El **Puente Milvio** era un puente de madera antiguo en mal estado. Cuando los soldados de Majencio cruzan el puente, éste se viene abajo y la mayoría de los soldados, incluido Majencio, son arrastrados y muertos por el Tíber.
+**Constantino** accede al poder en el año 306, nombrado augusto por su propio ejército en York. Desde ese momento intentó imponer su poder a Majencio. Se desató una guerra civil y en el **312** se produce la decisiva batalla de Puente Milvio, que consagra a Constantino como único gobernante en la parte occidental frente a Majencio.
 
-Después en **324**, en su enfrentamiento con Licinio (que había derrotano a Maximino Daya), Constantino vence en la batalla de **Crisópolis**, Nicomedia, convirtiéndose en emperador único.
+El **Puente Milvio** era un antiguo puente de madera en mal estado. Cuando los soldados de Majencio cruzan el puente, éste se viene abajo y la mayoría de los soldados, incluido Majencio, son arrastrados y muertos por el Tíber.
 
-En el 303 **Diocleciano** decreta una persecución general, la más duradera y cruel. 
-
-A partir de ese año, se emiten cuatro edictos que recrudecen progresivamente las **medidas represivas contra los cristianos**: destrucción y confiscación de los lugares de culto y de los libros sagrados, torturas, cárcel y la exigencia (304) a todos los habitantes del Imperio de realizar un sacrificio en honor de los dioses y de los emperadores.
-
-Legalmente, la persecución **cesó en 311**, aunque fue más suave y más breve en Occidente.
-
-En Oriente, **Galerio emitió un [edicto de tolerancia](https://es.wikipedia.org/wiki/Edicto_de_Tolerancia_de_Nicomedia)** poco antes de morir, reconociendo a los cristianos el derecho a ejercer libremente su religión y a recuperar los bienes confiscados.
+Después en **324**, en su enfrentamiento con Licinio (que había derrotado a Maximino Daya), Constantino vence en la batalla de **Crisópolis**, Nicomedia, convirtiéndose en emperador único.
 
 **Edicto de Nicomedia, 311**:
 

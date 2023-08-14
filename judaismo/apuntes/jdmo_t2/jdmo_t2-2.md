@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tema 2.2.
+---
+
 # 2.2. Romanización y Judeocristianismo (63 aec - 70 ec)
 
 

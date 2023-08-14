@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tema 1
+---
+
 # Tema 1 <br> La religión del antiguo Israel: Religión del 2º templo (500 a.C. - 70 d.C.)
 
 ## Creencias

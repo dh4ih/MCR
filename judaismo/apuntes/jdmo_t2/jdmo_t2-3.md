@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tema 2.3.
+---
+
 # 2.3. Rabinismo: Tanaj y Talmud (70-500)
 
 
