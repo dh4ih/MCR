@@ -158,7 +158,7 @@ El teólogo alemán [Walter Bauer](https://en.wikipedia.org/wiki/Walter_Bauer) (
 
 Su tesis es: la heterodoxia no es una desviación de la ortodoxia, es decir, **no existió en el principio del cristianismo una δόξα** perfectamente establecida a partir de la cual hay disensiones, sino que el proceso es exactamente el contrario. A través de los muchos cristianismos y las diversas interpretaciones del mensaje cristiano se fue conformando, paulatinamente, una ortodoxia que fue dejando fuera movimientos disidentes por motivos muy diversos. 
 
-Para una visión más extendida sobre esto, ver [este documento](https://dh4ih.github.io/mcr1/cristianismo/materiales/ortodoxiayherejia.pdf). 
+Para una visión más extendida sobre esto, consultar [este](https://dh4ih.github.io/mcr1/cristianismo/materiales/ortodoxiayherejia.pdf) documento. 
 
 #### Literatura heresiológica
 
@@ -190,7 +190,7 @@ Para defenderse de estas acusaciones nace la **apología**, contemporánea del g
 
 El objetivo es demostrar que el cristianismo es una **religión respetable**, si bien no muy antigua (la falta de antigüedad era un punto débil del crmo) y que el cristianismo era una religión **compatible** con la sociedad grecorromana y con el régimen Imperial: que los cristianos eran muy buenos ciudadanos.
 
-Muchos apologetas, recién convertidos desde la **filosofía griega**, ponen racionalidad al cristianismo y elaboran una religión compleja **apta** para los intelectuales. Los primeros apologetas grietos, Arístides, Justino, Taciano, vienen todos de la filosofía y contribuyeron de manera notabilísima a hacer del cristianismo una religión filosófica apta para ser entendida y consumida por los intelectuales del mundo grecorromano. 
+Muchos apologetas, recién convertidos desde la **filosofía griega**, ponen racionalidad al cristianismo y elaboran una religión compleja **apta** para los intelectuales. Los primeros apologetas grietos, [Arístides](https://es.wikipedia.org/wiki/Ar%C3%ADstides), [Justino](https://es.wikipedia.org/wiki/Justino_M%C3%A1rtir), [Taciano](https://es.wikipedia.org/wiki/Taciano), vienen todos de la filosofía y contribuyeron de manera notabilísima a hacer del cristianismo una religión filosófica apta para ser entendida y consumida por los intelectuales del mundo grecorromano. 
 
 A finales del siglo II nace la **apologética latina** (Tertuliano, Minucio Félix) en el norte de África. 
 
