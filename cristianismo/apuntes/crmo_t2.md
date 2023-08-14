@@ -132,9 +132,70 @@ Conclusión: las comunidades pasan de ser comunidades líquidas, fluidas, a comu
 
 ## **El conflicto religioso en el Imperio Romano** 
 
+### **El conflicto interno**: ortodoxia y herejía. La literatura heresiológica
+
 El conflicto está presente en el cristianismo **desde sus mismos orígenes**. 
 
-La variedad de cristianismos está presente desde los orígenes. Se tiende a hablar de "**el cristianismo**". [Ver](/cristianismo/materiales/herejes.pdf) o [ver](/cristianismo/materiales/herejes.pdf)
+La variedad de **cristianismos** está presente desde los orígenes. Se tiende a hablar de "el cristianismo", más que nada porque *cristianismo* es una palabra abstracta que no tiene plural, de forma coherente con la herencia antigua de la unidad dogmática de la religión. Con todo, cuando leemos las fuentes nos damos cuenta de que hay una enorme variedad de mundos cristianos desde el principio. 
 
-### **El conflicto interno**: ortodoxia y herejía. La literatura heresiológica
+[Resumen](https://dh4ih.github.io/mcr1/cristianismo/materiales/herejes.pdf) que explica muy bien las características que la antigua literatura cristiana atribuye a la figura del heterodoxo. 
+
+En [*Los cristianismos derrotados*](https://dh4ih.github.io/mcr1/cristianismo/materiales/crmosderrotados.pdf) de Piñero se explica el panorama diverso de los cristianismos en los siglos II/III. 
+
+El término ***herejía***, con el que los cristianos se refieren a estos grupos que se alejan de la ortodoxia, viene del término griego **αἵρεσις** (secta) que designa una escuela religiosa en el ámbito clásico. Los cristianos redujeron el significado de esta palabra y pasó a significar *secta peligrosa*. Hetero-doxo (ἑτερό-δοξος) o hereje es el que se desvía de la norma, de lo que es mayoritario. 
+
+En la Iglesia hubo divisiones desde los mismos orígenes. Se encuentra ya en las cartas de Pablo. 
+
+**Tito 1, 10-16**
+
+> Porque hay aún muchos contumaces, habladores de vanidades y engañadores, mayormente los de la circuncisión, a los cuales es preciso tapar la boca; que trastornan casas enteras, enseñando por ganancia deshonesta lo que no conviene. Uno de ellos, su propio profeta, dijo: Los cretenses, siempre mentirosos, malas bestias, glotones ociosos. Este testimonio es verdadero; por tanto, repréndelos duramente, para que sean sanos en la fe, no atendiendo a fábulas judías, ni a mandamientos de hombres que se apartan de la verdad. Todas las cosas son puras para los puros, mas para los corrompidos e incrédulos nada les es puro; pues hasta su mente y su conciencia están corrompidas. Profesan conocer a Dios, pero con sus actos lo niegan, siendo abominables y rebeldes, reprobados en cuanto a toda buena obra.
+
+Rivalidad interna de predicación, característica de las rr. del MT. 
+
+#### El concepto de ortodoxia y herejía
+
+El teólogo alemán [Walter Bauer](https://en.wikipedia.org/wiki/Walter_Bauer) (s. XX) marcó la comprensión sobre la gestación de la heterodoxia. Su obra, *La ortodoxia y la herejía en el cristianismo antiguo* se publicó en 1934 en alemán y fue posteriormente conocida por la comunidad científica tras su traducción en 1971. 
+
+Su tesis es: la heterodoxia no es una desviación de la ortodoxia, es decir, **no existió en el principio del cristianismo una δόξα** perfectamente establecida a partir de la cual hay disensiones, sino que el proceso es exactamente el contrario. A través de los muchos cristianismos y las diversas interpretaciones del mensaje cristiano se fue conformando, paulatinamente, una ortodoxia que fue dejando fuera movimientos disidentes por motivos muy diversos. 
+
+Para una visión más extendida sobre esto, ver [este documento](https://dh4ih.github.io/mcr1/cristianismo/materiales/ortodoxiayherejia.pdf). 
+
+#### Literatura heresiológica
+
+De los siglos II y III poseemos mucha literatura **heresiológica**. Este género literario se especializa en refutar los grupos heterodoxos: Justino, Ireneo de Lyon, Tertuliano, Epifanio de Salamina, *De haeresibus* de Agustín de Hipona... 
+
+Los grupos heréticos más importantes son los **gnósticos** y los **marcionitas**, que no aceptan la Biblia Hebrea como parte de la enseñanza cristiana. 
+
 ### **El conflicto con el Estado romano**: las persecuciones. Literatura apologética.
+
+El carácter monoteísta, exclusivista, combativo del cristianismo y su ambición universalista provocaron choques frecuentes con la sociedad politeísta romana. 
+
+#### Acusaciones a los cristianos
+
+Podemos dividir en dos niveles las acusaciones que recibieron los cristianos. 
+
+- **Quién acusaba** a los cristianos:
+  - **Intelectuales**: Celso, Porfirio: "el cristianismo es una religión teológicamente muy simple y con principios inasumibles por los intelectuales: la divinidad de Jesucristo (en igualdad con el padre); o sea, tener un dios hecho un hombre (que para los griegos era un héroe) y, sobre todo, el dogma de la **resurrección**, que para los intelectuales griegos era totalmente inaceptable. Sabemos que muchos intelectuales alentaron las persecuciones de la época de Diocleciano contra los *ignorantes cristianos*. 
+  - **Clases populares**: rumores y lugares comunes. La crítica se centra en la **inmoralidad** de los cristianos: que como se llaman hermanos habían tenido relaciones incestuosas, que mantenían reuniones ocultas, que en la misa se mataban niños y se bebía su sangre... *Fake news* que contribuyeron al malestar.
+  - Los **emperadores** y magistrados locales, que llevaron a cabo las persecuciones durante los siglos II y III. 
+
+- **De qué se acusaba**
+  - Ateísmo y misantropía
+  - Deslealtad al Imperio: por rechazar los cargos públicos, el ejército o los espectáculos. 
+  - Conducta inmoral.
+
+#### El género apologético
+
+Para defenderse de estas acusaciones nace la **apología**, contemporánea del género heresiológico. 
+
+El objetivo es demostrar que el cristianismo es una **religión respetable**, si bien no muy antigua (la falta de antigüedad era un punto débil del crmo) y que el cristianismo era una religión **compatible** con la sociedad grecorromana y con el régimen Imperial: que los cristianos eran muy buenos ciudadanos.
+
+Muchos apologetas, recién convertidos desde la **filosofía griega**, ponen racionalidad al cristianismo y elaboran una religión compleja **apta** para los intelectuales. Los primeros apologetas grietos, Arístides, Justino, Taciano, vienen todos de la filosofía y contribuyeron de manera notabilísima a hacer del cristianismo una religión filosófica apta para ser entendida y consumida por los intelectuales del mundo grecorromano. 
+
+A finales del siglo II nace la **apologética latina** (Tertuliano, Minucio Félix) en el norte de África. 
+
+La apologética contribuyó a la **definición de la identidad** cristiana en diálogo con la cultua grecorromana.
+
+### Recapitulación
+
+El conflicto religioso de los siglos II-III, tanto interno como externo, robusteció el cristianismo y lo convirtió en una religión apta y adaptada al mundo grecorromano.
