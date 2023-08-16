@@ -3,7 +3,7 @@ layout: default
 title: Tema 2
 ---
 
-# **Tema 2** <br> **El cristianismo en los siglos II y III**
+# **Tema 2**: **El cristianismo en los siglos II y III**
 
 Distintos movimientos atestiguados: 
 - Morado oscuro: los centros fuertemente cristianizados a mediados del siglo III. Las áreas de expansión del cristianismo están sobre todo en el Oriente, en las zonas costeras de Asia Menor y de Grecia. En Egipto, donde hubo una comunidad antigua, y en Cirene (Tripolitania, hoy Argelia); también en Roma; luego, norte de África, Cartago (cristianismo ya a finales del II) y en el extremo Occidente tenemos Galia y sur de la P. Ibérica. 
