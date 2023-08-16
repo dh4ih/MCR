@@ -69,11 +69,19 @@ Licinio y Constanino se reúnen en **Milán** y para aprobar una serie de acuerd
 
 Hasta ese momento, los cultos politeístas eran **completamente aceptados**. Las religiones mistéricas se consideraban de ábito privado, eran religiones orientales, con unos cultos diferentes pero que no interferían en los tradicionales grecorromanos. La única religión monoteísta, el **judaísmo**, era considerada una religión étnica seguida únicamente por los judíos. Por tanto, hasta que el cristianismo comienza a difundirse, **no había problemas de convivencia religiosa**, no había intolerancia. El carácter universalista y proselitista del cristianismo causó los choques. 
 
-El conjunto de acuerdos a los que llegaron Constantino y Licinio en el 313 se conoce como ***[Edicto de Milán](/cristianismo/materiales/edictomilan.pdf)***, que no fue un Edicto, una disposición legal. Estas disposiciones se nos han conservado por dos autores cristianos: 
-- En latín por Lactancio en DMP
-- En griego por Eusebio de Cesarea (pp. del IV).
+El conjunto de acuerdos a los que llegaron **Constantino y Licinio** en el **313** se conoce como ***[Edicto de Milán](https://dh4ih.github.io/mcr1/cristianismo/materiales/edictomilan.pdf)***, que no fue un Edicto, una disposición legal. Estas disposiciones se nos han conservado por dos autores cristianos: 
+- En latín por **Lactancio** en DMP
+- En griego por **Eusebio de Cesarea** en la HE.
+Los cristianos pasan a disponer de total libertad para practicar su culto y la Iglesia se puede desarrollar tranquilamente. 
+
+Estos acuerdos entre los emperadores de las dos partes del Imperio son un **pacto interesado de colaboración entre la Iglesia y el Estado**. El Estado reconoce a la Iglesia la propiedad de sus bienes, la libertad para desplegar su culto, disponer de nuevos bienes... A cambio, la Iglesia deberá permitir al **Estado**, sobre todo a la figura del emperador, **intervenir** y participar **en las decisiones** de tipo eclesiástico.
+
+Aunque puede parecer que la parte más beneficiada es la Iglesia, más adelante se verá como el Estado sacó más partido de estas medidas.
 
 ---
+Nota: la *cuestión constantiniana*.
+
+Cuando Constantino se convierte en emperador único, decide trazar una especie de monoteísmo sincrético entre el dios Sol y el dios cristiano que no sabemos exactamente cuándo abandonó. Paulatinamente se va inclinando en favor del cristianismo y se produce una asimilación entre el poder religioso y el civil (entre la Iglesia y el Estado: un único Dios y un único emperador = monoteísmo en ambos lados), o sea, una **concepción teocrática del Estado**: el **cesaropapismo**, que consiste en que el emperador debe intervenir en todos los asuntos de la Iglesia para procurar el bienestar de su pueblo en los planos político y religioso.
 
 ## **Las reformas de Constantino**
 ### **Innovaciones literarias**
