@@ -85,6 +85,16 @@ Cuando Constantino se convierte en emperador único, decide trazar una especie d
 
 ## **Las reformas de Constantino**
 ### **Innovaciones literarias**
+1. La **oratoria**. Discursos *de aparato*/*epidícticos*, grandilocuentes, ostentosos... Esta práctica seguía cultivándose, era la última fase de la educación de los jóvenes: convencer hablando. Los cristianos dan especial importancia a estos discursos porque se pronuncian en las grandes celebraciones litúrgicas.
+2. La **exégesis** bíblica: género nuevo. La mayoría de los cristianos no sabían leer y les costaba muchísimo entender lo que el NT contenía, de ahí que los grandes autores se dedicaran a interpretar los textos y a hacer exégesis de ellos. [a.moron: en algunas clases se dice que el mensaje cristiano es populista, que lo entiende todo el mundo, que no requiere interpretación, que es accesible, etc. Aquí la exégesis nace para accesibilizar el contenido del NT?]
+   - Escuela **alejandrina** (**Clemente y Orígenes**): alegorizante. 
+   - Escuela **antioquena** (**Juan Crisóstomo**): literal.
+3. **Historiografía** eclesiástica: otro género completamente nuevo > **Eusebio de Cesarea** (de Palestina). Fue el autor de la primera Historia de la Iglesia (***Historia Ecclesiastica***), y escribió la *Vita Constantini*, totalmente encomiástica, en que presenta al emperador como un hombre completamente perfecto, como el príncipe ideal y el imitador de Dios, y cuyo poder derivaba de él. Eusebio escribe esta *historia* recopilando las fuentes primarias (ἱστορία), lejos de buscar causas y consecuencias de los hechos.
+4. El género **epistolar**: este género no es nada nuevo. En el NT están las cartas de Pablo, de Pedro y de Juan. Predominio de las normas retóricas: *typoi* clásicos. De la mayoría de los autores cristianos, tanto de LG como de LL, conservamos muchísimas colecciones epistolares. Un género muy cultivado para comunicar ideas, intentar resolver conflictos o simplemente conocer/comunicar de la vida...
+5. **Tratados doctrinales**. Gran producción literaria debido a las controversias doctrinales y cristológicas/trinitarias; difíciles de entender salvo por teólogos, etc.
+6. **Cánones conciliares**: como consecuencia de los conflictos doctrinales y disciplinares se convocan estos concilios. Las actas se convierten en cánones con medidas $\rightarrow$ Derecho canónico. 
+7. **Literatura apologética**. Defensa de los ataques contra el cristianismo. 
+8. **Literatura hagiográfica** y ascética: *Vida de Antonio* de Atanasio de Alejandría. Desarrollo del monacato. 
 ### **Privilegios eclesiásticos y evergetismo imperial**
 ### **Controversias doctrinales y concilios**
 
