@@ -92,10 +92,41 @@ Cuando Constantino se convierte en emperador único, decide trazar una especie d
 3. **Historiografía** eclesiástica: otro género completamente nuevo > **Eusebio de Cesarea** (de Palestina). Fue el autor de la primera Historia de la Iglesia (***Historia Ecclesiastica***), y escribió la *Vita Constantini*, totalmente encomiástica, en que presenta al emperador como un hombre completamente perfecto, como el príncipe ideal y el imitador de Dios, y cuyo poder derivaba de él. Eusebio escribe esta *historia* recopilando las fuentes primarias (ἱστορία), lejos de buscar causas y consecuencias de los hechos.
 4. El género **epistolar**: este género no es nada nuevo. En el NT están las cartas de Pablo, de Pedro y de Juan. Predominio de las normas retóricas: *typoi* clásicos. De la mayoría de los autores cristianos, tanto de LG como de LL, conservamos muchísimas colecciones epistolares. Un género muy cultivado para comunicar ideas, intentar resolver conflictos o simplemente conocer/comunicar de la vida...
 5. **Tratados doctrinales**. Gran producción literaria debido a las controversias doctrinales y cristológicas/trinitarias; difíciles de entender salvo por teólogos, etc.
-6. **Cánones conciliares**: como consecuencia de los conflictos doctrinales y disciplinares se convocan estos concilios. Las actas se convierten en cánones con medidas $\rightarrow$ Derecho canónico. 
-7. **Literatura apologética**. Defensa de los ataques contra el cristianismo. 
-8. **Literatura hagiográfica** y ascética: *Vida de Antonio* de Atanasio de Alejandría. Desarrollo del monacato. 
-### **Privilegios eclesiásticos y evergetismo imperial**
+6. **Cánones conciliares**: como consecuencia de los conflictos doctrinales y disciplinares se convocan estos concilios. Las actas se convierten en cánones con medidas → Derecho canónico. 
+7. **Literatura apologética**: se sigue cultivando, no para defenderse de las autoridades paganas, sino de los intelectuales (Porfirio, Juliano, etc).
+8. **Literatura hagiográfica** y ascética: *Vida de Antonio* de Atanasio de Alejandría. Desarrollo del monacato durante el s. IV.
+
+En estos ocho enunciados se introducen las innovaciones literarias que conllevó la política de Constantino. Sin embargo, el favorecimiento del cristianismo, sobre todo del clero, y la actitud evergética frente a algunas obras supusieron también enormes cambios de tipo social y político.
+
+### **Privilegios eclesiásticos y evergesía imperial**
+
+**Privilegios eclesiásticos**
+
+1. Exención de **cargas fiscales** y de **servicios públicos** al clero. Esto supone libertad económica y laboral para dedicarse a los asuntos de la Iglesia.
+2. Capacidad para la Iglesia de **recibir donaciones** y herencias de los laicos.
+3. Concesión de la ***audientia episcopalis***, la autoridad episcopal para ejercer la justicia: los jueces civiles debían reconocer la total capacidad por parte de los obispos para juzgar a los ciudadanos y estos, por su parte, podían elegir ser juzgados por sus causas pendientes tanto por un obispo como por un juez. En cualquier caso, **la sentencia dictada por el obispo tenía carácter ejecutivo** y no se podía modificar.
+4. Declarar festivo el día del sol (*dies solis*), que pasó a ser el *dies dominicus*.
+5. Celebración del nacimiento de Jesús el 25 de diciembre, en lugar del nacimiento del sol (solsticio de invierno).
+6. Ayuda económica a la Iglesia para la restauración de los edificios de culto cristianos y subvención para edificar suntuosas basílicas en las ciudades más importantes del Imperio: Roma, Jerusalén, Belén y Constantinopla. **Vd. *Carta de Constantino a Anulino*** en **Eusebio, *HE* X, 5, 15-17 y 7, 1-2**.
+
+Hay evidencia de estas actitudes y medidas favorables hacia el cristianismo por parte de Constantino en el ***Codex Th.*** (XVI, 2, 4) y en el ***C. Iust.*** (III, 12, 2). También en ***Vit. Const.*** (IV, 18-28).
+
+**Evergetismo imperial**
+
+**Eusebio**, *V. C.*, III, 25-48
+
+>Se le ocurrió pensar que era su deber hacer que el benedictísimo **lugar de la resurrección del Salvador** en Jerusalén llegara a ser eximio y venerable. Ordenó construir un edificio dedicado a la oración [...] Al obispo Macario, que por entonces estaba al frente de la comunidad de Jerusalén envió un escrito expresándose en estos términos: Es preciso que tu solicitud disponga y provea de toda cosa necesaria, de tal modo que la **basílica resulte mejor que las de otros sitios**.
+
+|Ciudad|Templo|
+|---|---|
+|Belén|Iglesia de la Natividad|
+|Jerusalén|Basílica del Sto. Sepulcro <br> Basílica del Monte de los Olivos|
+|Constantinopla|Iglesia de los Santos Apóstoles|
+|Roma|Basílica de S. Pablo extramuros <br> Basílica de S. Pedro del Vaticano (también e.muros) <br> Basílica de S. Juan de Letrán (i.muros)|
+
+Constantino se denominó el **decimotercer apóstol**. Su evergesía contribuyó de manera substancial a cristianizar la topografía del IR.
+
+
 ### **Controversias doctrinales y concilios**
 
 ## **Los sucesores de Constantino**
