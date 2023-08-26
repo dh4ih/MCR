@@ -5,6 +5,8 @@ title: politeísmo
 
 ## Apuntes
 
+![construction](https://img.freepik.com/vector-premium/construccion-signo-etiqueta_24886-506.jpg)
+
 ## Lecturas
 
 [World religion and world empire in the Ancient Mediterranean](materiales/worldreligion.pdf) 

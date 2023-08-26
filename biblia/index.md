@@ -5,7 +5,7 @@ title: biblia
 
 ## Apuntes
 
-![construction](/construction.png)
+![construction](https://img.freepik.com/vector-premium/construccion-signo-etiqueta_24886-506.jpg)
 
 ## Materiales
 
