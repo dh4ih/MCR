@@ -82,39 +82,39 @@ El origen del evangelismo gitano también es latinoamericano (asambleas de dios)
 ---
 
 
-### Comparación Entre la Iglesia Católica y Evangélica en México
+### **Comparación Entre la Iglesia Católica y Evangélica en México**
 
 En 2009, la iglesia católica mexicana contaba con **18644 ministros de culto (sacerdotes)**, en comparación con **27212 pastores evangélicos**. Esta diferencia arroja luz sobre varios aspectos de ambas comunidades religiosas.
 
-#### Compromiso y Dinamización
+#### **Compromiso y Dinamización**
 
 La mayor cantidad de pastores evangélicos refleja un alto nivel de compromiso, dinamización, diferenciación celular y una continua rotación y renovación.
 
-#### Formación Teológica
+#### **Formación Teológica**
 
 Un teólogo católico puede argumentar que la formación teológica de los pastores es deficiente en comparación con la de los sacerdotes. Esto se debe a que es más fácil convertirse en pastor evangélico: basta con conocer la Biblia y fundar una iglesia.
 
-#### Asistencia y Participación
+#### **Asistencia y Participación**
 
 Sin embargo, hay una parte oculta en esta comparación. De los 80 millones de católicos nominales, asistían a su servicio religioso menos de una hora promedio al mes. En contraste, de los 10 millones de evangélicos, asistían en promedio **15 horas** a su servicio religioso al mes.
 
-#### Accesibilidad y Cultura
+#### **Accesibilidad y Cultura**
 
 Los evangélicos ofrecen más recursos humanos, horizontalidad, organización y una teología mucho más accesible. Mucha gente aprende a leer solo para leer la Biblia, y sus textos sagrados están subrayados, coloreados y manoseados. Además, los cultos son más participativos.
 
 Todos estos factores contribuyen a explicar e ilustrar el crecimiento brutal del **50%** en diez años en la comunidad evangélica en México. La mayor implicación, versatilidad estructural y accesibilidad de la teología son elementos clave en este fenómeno.
 
-### Segundo Problema: La Diversidad y Privatización de la Práctica Religiosa
+### **Segundo Problema: La Diversidad y Privatización de la Práctica Religiosa**
 
-#### La Falta de Registro en los Censos
+#### **La Falta de Registro en los Censos**
 
 Los censos no registran el creciente número de seguidores de prácticas religioso-espirituales diversas que son no-cristianas o sincretizadas/hibridadas. Esto incluye tendencias derivadas de la **New Age**, como el ambiente holístico (del reiki al neochamanismo), y prácticas sincretizadas como la santa muerte mexicana, los cultos afro-caribeños (afro-cubanos) y afro-brasileños, y el chamanismo.
 
-#### Construcción de Objetos de Análisis
+#### **Construcción de Objetos de Análisis**
 
 Esto plantea cuestiones sobre cómo construimos nuestros objetos de análisis. Nosotros lo hacemos con el valor heurístico de las quiebras epistemológicas, reconociendo discursos y prácticas crecientes que no esperábamos ni buscábamos.
 
-##### Mito de la Secularización: ¿qué hace esto aquí cuando debería haber desaparecido?
+##### **Mito de la Secularización: ¿qué hace esto aquí cuando debería haber desaparecido?**
 
 La figura del ateo es interesantísima en la investigación sobre religiones, entra dentro del estudio, aunque no para muchos ateos. La figura del escéptico cambia de una cultura a otra, y el ateo es una forma particular de nuestra cultura religiosa.
 
@@ -127,37 +127,115 @@ Muchas de estas prácticas ocurren en domicilios particulares, sin un espacio es
 La diversidad y privatización de la práctica religiosa presentan un problema en la comprensión y el estudio de la religión en la sociedad moderna. La complejidad de estas prácticas desafía las nociones tradicionales de religión y ofrece una ventana a la forma en que la espiritualidad se manifiesta en la cultura contemporánea. 
 
 --- 
+Entiendo que deseas una reorganización más detallada que incorpore más elementos del texto original. Aquí va:
 
-La sociología(?) busca no tanto identificar totalidades compactas sino identificar la heterogeneidad o la diversidad. 
+---
 
-Secta: te conviertes, organización más versátiles, jerarquías o inexistentes o más fluidas
-Iglesia: naces, perteneces. El cristianismo es una secta. Secta se ha escindido de otro algo. 
-Secta vs Iglesia (eclesiocentrismo) 
+- **Objetivo de la Sociología**: No busca identificar totalidades compactas, sino comprender la heterogeneidad o la diversidad.
 
-https://dra.revistas.csic.es/index.php/dra/article/view/960
-culto umbandista como parte de una realidad religiosa más vasta, rica y compleja. es complicado entender, si no, las formas actuales. 
-dentro de las religiones mediúmnicas son cultos estrechamente/intensamente relacionados entre sí (campo religioso)
-multiadscripción religiosa (grado cero de religiosidad=cristianismo)
-cita de la tipa que dice: cuando me recupere de todo me vuelvo al catolicismo
-ejemplo de las fuerzas dentro del campo religioso (cf. fernando giovelina: candomblé y umbanda). 
-estas religiones se basan mucho en la aflicción, en la tipología místicad e la aflicción, sobre todo en la enfermedad. cómo la afronta el catolicismo y cómo ese modo deja con cobertura a sujetos que viven en las áreas rurales, que tienen agentes religiosos compatibles con el catolicismo pero deja sin cobertura a los urbanos, donde está en manos de la iglesia o el pai-de-santo o del misionero pentecostal. no hay lugar para el agente subalterno del catolicismo en la urbe (cosas que sí ocurre en el rural). 
+### **Conceptos Clave: Secta vs. Iglesia, eclesiocentrismo**
+- **Secta**: 
+  - Proceso de Ingreso: Te conviertes para pertenecer.
+  - Estructura Organizativa: Más versátil.
+  - Jerarquías: Fluidas o inexistentes.
+  - Origen: Escindida de otro grupo religioso.
+- **Iglesia**: 
+  - Proceso de Ingreso: Naces en ella y perteneces automáticamente.
+  - Ejemplo Específico: El cristianismo se considera una secta, no una iglesia, bajo esta definición.
 
-etiologías místicas de la aflicción (y las 4 principales que se distinguen en el campo religioso brasileño). se ofrecen como vías de resolución del mismo tipo de problemas que se dan en los culos y que son estructuralmente equivalentes. se habla de las mismas preocupaciones/aflicciones humanas y de las mismas cuestiones sagradas, pero se articulan de modo diferente. los problemas y las soluciones son muy semejantes y el modo en que se articulan cambi. lo que son santos para unos son entidades diabólicas para otros, las protecciones de unos son los peligros de los otros, las entidades superiores de unos son las inferiores de otros… este es el enfoque de carácter filoestructuralista que aplica fernando giobellina. hay incluso entre enemigos como los umbanda y los crentes o los espíritas oposición muy fuerte pero están intimamente relacionados. entre todos ellos hay un reconocimiento mutuo del peligro místico que representan. son enemigos porque hay un reconocimiento de un poder místico de hacer daño del otro. : 
-	camdomblé
-	pentecostalismo
-	umbanda
-(bloque mediúmnico). cualquier pentecostal quedaría impresionado al ver que lo incluímos aquí. es lo que hace que esto sea una perspectiva analítica/científica. es necesario que figuren porque comparte, muy a su pesar, elementos de carácter ritual y etc. trance, posesión, exorcismo y liberación (fenómenos que son curiosamente muy similares a los que se dan en los otros dos, en parte se debe al origen en las iglesias negras protestantes en LA, californianas del XIX). 
- qué tienen en común?= todas son etiologías místicas y operativas de la aflicción. todas utilizan un repertorio de entidades espirituaes muy semejante. son, funamentalmente: 	
-	espíritus de mortos
-	demonios en toda su amplitud
-	divinidades distintas de distintos panteones muchas vinculadas al santoral católico
-	dios (un dios bueno, jesú, presente en todas)
+### **Campo Religioso Brasileño**
+- **Realidad Religiosa Más Vasta**: Candomblé y [Umbanda](https://dra.revistas.csic.es/index.php/dra/article/view/960) son cultos (que, dentro de las religiones mediúmnicas, están) intensamente relacionadas y que contribuyen a una realidad religiosa compleja, vasta y rica sin la que sería complicado entender las formas actuales.
+- **Multiadscripción Religiosa**: 
+  - **Grado Cero de Religiosidad**: Cristianismo.
+  - **Caso de Transición Religiosa**: "Cuando me recupere de todo, me vuelvo al catolicismo."
 
-espiritismo:
-	nace en francia a mediados del XIX, (*Kardec 2019, Netflix: historia de Allan Kardec, Hippolyte L. D. Rivail, un científico francés, que toma ese nombre cuando funda el espiritismo cuando descubre a través de los mediums que está conectado con un druida que se llama Kardec, está enterrado en el cementerio de Père-Lachaise; hay un cartel enorme que dice que no hagan sacrifiios en su tumba xd). Piere y Madame Curie, que participaron de esas sesiones que se coresponden con una doctrina que se origina en Francia y tiene como su gran exponente a Allan Kardec, que defin el espiritismo como una ciencia que se ocupa del estudio de la naturaleza de los espíritus y de su relación con los seres encarnados, físicos, terrestres, humanos. El origen es francés pero está extendida por todo el mundo. El país con más espiristas/espíritas es Brasil. 
-Inmortalidad del alma, existencia de Dios fundamentada en el personaje de Jesús de Nazaret como máximo modelo moral. Existencia de espíritus que moran fuera del mundo material. Mediumnidad: por qué el ser hyumano no es otra cosa sino espíritu encarnado y podemos comunicarnos con espíritus de fallecidos a través de un medium o a través del desarrollo del don de la mediumnidad, esa mediumnidad solo puede ejercerse por espíritus encarnados
-Reencarnación: creencia en espíritus que reencarnan una vez y otra para así poder evolucionar. O sea el espiritismo es una vía de purifiación y evolución espiritual. No hay jerarquía, sacerdote, iglesia, sacramentos, es algo a parte del modelo eclesial. El libro fundacional es el Libro de los Espíritus escrito por Kardec. Se vendió muchísimo en 1858 y es en ese año en que se constituye formalmente la sociedad de estudios espiritistas de París, cuyo presidente vitalicio fue Kardec hasta su muerte. Nace como ciencia empírica en los círculos intelectuales e ilustrados del París del XIX porque estudia el fenómeno mediúmnico a través de fenómenos comprobables: los que se pueden percibir por medio de los sentidos (empirismo) y sin mediación de consumo de psicoactivos. Sin la presencia de estados alterados de la consciencia; sin animismo (no hay conexión con ese fenómeno, es algo diferente). Es un sistema positivo (postivisia), emp`írico y racional( de racionalismo). Intenta racionalizar el estudio de la existencia de espíritu y de las relaciones con ellos. Fenómeno de las mesas giratorias y la escritura automática. En París empiezan a aparecer las mesas giratorias que se empieza a ver como una protoexplicación racional de los fenómenos energéticos etc la vida dp de la muerte, y aunque al principio es escéptico acaba viéndose convencido por las mesas giratorias y la escritura automática hecha por mediums en contacto con almas desencarnadas. 
-Fenómeno rabiosamente rechazado por la iglesia católica por la explicación alternativa a la reencarnación y la existencia de dios. Kardec nunca se había opuesto pero su libro fue parte del ILP y fueron quemados. El espiritismo kardecista es el que llega a Brasil y se convierte en una religión de una envergadura masiva. Se introdujo un poco más tarde que en Europa. En Brasil el espiritismo tb sostiene que dios creó espíritus para que alcancen la pereccción mediante un camino de purificación hasta la reencarnación. 
+### **Aflicción y Tipología Mística**
+- **Enfoque en la Aflicción**: Especialmente en la enfermedad.
+- **Resolución de Problemas**: Ofrecen soluciones estructuralmente equivalentes para las mismas preocupaciones/aflicciones humanas.
+
+#### **Cobertura Rural vs. Urbana**
+- **Zonas Rurales**: Catolicismo ofrece agentes religiosos compatibles.
+- **Zonas Urbanas**: Cobertura ofrecida por la Iglesia, pai-de-santo o misioneros pentecostales, dejando un vacío para agentes subalternos del catolicismo.
+
+> Estas religiones se basan mucho en la aflicción, sobre todo en la enfermedad. Es relevante notar cómo afronta esta aflicción el catolicismo y cómo este modo da cobertura a sujetos que viven en las áreas rurales, que tienen agentes religiosos compatibles con el catolicismo, pero deja sin cobertura a los urbanos, donde quedan en manos de la Iglesia, del pai-de-santo o del misionero pentecostal. No hay lugar para el agente subalterno del catolicismo en la urbe, cosa que sí ocurre en el rural.
+
+### **Etiologías Místicas de la Aflicción** (y las 4 principales que se distinguen en el campo religioso brasileño).
+
+Se ofrecen como vías de resolución del mismo tipo de problemas que se dan en los cultos y que son estructuralmente equivalentes. Se habla de las mismas preocupaciones/aflicciones humanas y de las mismas cuestiones sagradas, pero se articulan de modo diferente.
+
+- **Carácter Filoestructuralista**: Abordado por Fernando Giobellina (ejemplo de las fuerzas dentro del campo religioso. F. Giob.: Camdomblé y Umbanda).
+- **Elementos Comunes**: Se abordan las mismas preocupaciones y cuestiones sagradas, pero de diferentes maneras.
+- **Diferencias**: los que son santos para unos son entidades diabólicas para otros, las protecciones de unos son los peligros de los otros, las entidades superiores de unos son las inferiores de otros...
+
+Este es el enfoque de carácter filoestructuralista que aplica Fernando Giobellina. Hay incluso, entre enemigos como los **umbanda** y los **crentes** o los espiritistas, una oposición muy fuerte. Sin embargo, están íntimamente relacionados: entre todos ellos hay un reconocimiento mutuo del **peligro místico** que representan; son enemigos porque hay un reconocimiento del poder místico ajeno de hacer daño.
+
+|Bloque mediúmnico|
+|---|
+|Candomblé|
+|Pentecostalismo|
+|Umbanda|
+
+Cualquier pentecostal quedaría impresionado al ver que lo incluímos aquí (es lo que hace que esto sea una perspectiva analítica/científica). Es necesario que figuren porque comparten, muy a su pesar, elementos de carácter ritual, etc.
+
+- **Ejemplos de Prácticas Comunes**: Trance, posesión, exorcismo y liberación (fenómenos que son curiosamente muy similares a los que se dan en los otros dos: en parte se debe al origen común en las iglesias negras protestantes californianas del XIX).
+  - Todas son **etiologías místicas** y operativas de la aflicción. Además, todas utilizan un repertorio semejante de
+  - **Entidades espirituales**, que son fundamentalmente: 
+    -  Espíritos de mortos
+    -  Demonios en toda su amplitud
+    -  Divinidades distintas de distintos panteones (muchas vinculadas al santoral católico)
+    -  Dios (un Dios bueno, Jesús, presente en todas)
+
+## **Espiritismo**
+
+El espiritismo es un sistema de creencias y prácticas que tuvo su origen en **Francia** a mediados del **siglo XIX**. Fue fundado por **Allan Kardec**, el seudónimo de Hippolyte L. D. Rivail, un científico francés que adoptó el nombre después de descubrir su conexión con un **antiguo druida** llamado Kardec a través de médiums. Está enterrado en el famoso cementerio de Père-Lachaise en París, donde incluso hay un cartel advirtiendo a los visitantes que no hagan sacrificios en su tumba.
+
+### **Fundamentos**
+
+Kardec definió el espiritismo como una ***ciencia que estudia la naturaleza de los espíritus y sus relaciones con los seres encarnados, físicos, terrestres, humanos***. El espiritismo sostiene la inmortalidad del alma y afirma la existencia de Dios, tomando a Jesús de Nazaret como el modelo moral supremo. Además, postula la existencia de espíritus que residen fuera del mundo material y pueden comunicarse con los humanos.
+
+### **Influencia y Expansión**
+
+El espiritismo no se limita a Francia; ha ganado seguidores en todo el mundo, siendo Brasil el país con el mayor número de espiritistas. Famosos científicos como **Pierre y Marie Curie participaron en sesiones espiritista**s, demostrando el interés de la comunidad científica de la época en estos fenómenos.
+
+### **Doctrina y Prácticas**
+
+1. **Mediumnidad**: Se cree que los seres humanos son espíritus encarnados que pueden comunicarse con espíritus fallecidos a través de médiums o desarrollando sus propias habilidades mediúmnicas. 
+
+2. **Inmortalidad del alma**: Existencia de Dios fundamentada en el personaje de Jesús de Nazaret como máximo modelo moral.
+
+3. **Existencia de espíritus** que moran fuera del mundo material.
+
+4. **Reencarnación**: La doctrina sostiene que los espíritus se reencarnan repetidamente para evolucionar, en un proceso de purificación y avance espiritual. 
+
+5. **Libro de los Espíritus**: Este libro, escrito por Kardec, es la obra fundacional del espiritismo. Fue publicado por primera vez en 1858 y fue un gran éxito de ventas. En ese mismo año se fundó la **Sociedad de Estudios Espiritistas de París**, con Kardec como su presidente vitalicio.
+
+### **Características Particulares**
+
+- **Enfoque Empírico y Racional**: El espiritismo se originó en círculos intelectuales e ilustrados del París del siglo XIX, porque estudia el fenómeno mediúmnico a través de fenómenos comprobables, o sea, que se pueden percibir por medio de los sentidos (**empirismo**) y sin consumo de psicoactivos: sin la presencia de estados alterados de la consciencia; sin animismo (no hay conexión con ese fenómeno, es algo diferente). 
+
+	Es un sistema **positivo** (positivista), **empírico** y **racional** (<racionalismo).
+	Intenta racionalizar el estudio de la existencia de espíritu y de las relaciones con ellos. 
+	
+	> **Fenómeno de las mesas giratorias y la escritura automática** <br> En París empiezan a aparecer las mesas giratorias que se empieza a ver como una protoexplicación racional de los fenómenos energéticos, la vida después de la muerte... Aunque al principio es escéptico, acaba viéndose convencido por las mesas giratorias y la escritura automática hecha por médiums en contacto con almas desencarnadas. 
+
+- **Ausencia de jerarquía**: Sacerdote, Iglesia y sacramentos son parte del modelo eclesial.
+  
+- **Rabioso rechazo por la Iglesia Católica**: La doctrina espiritista ha sido fuertemente rechazada por la Iglesia Católica, especialmente por su explicación alternativa de la reencarnación y la existencia de Dios.
+
+	Kardec nunca se había opuesto a la Iglesia pero **su libro fue incluido en el *Index*** y sus ejemplares quemados. El espiritismo kardecista es el que llega a Brasil y se convierte en una religión de envergadura masiva. Un poco más tarde se introdujo en Europa.
+
+### **Espiritismo en Brasil**
+
+El espiritismo que llegó a Brasil tomó características propias, incluyendo un enfoque en la causa y curación de enfermedades. Según el espiritismo brasileño, las enfermedades pueden ser causadas por la presión de guías espirituales o por perturbaciones de espíritus inferiores. Las curas pueden provenir del desarrollo de habilidades mediúmnicas o de rituales de purificación. 
+
+### **Bajo Espiritismo en Brasil**
+
+En Brasil, algunas prácticas se consideran de "bajo espiritismo", como la Umbanda y el Candomblé, que involucran a entidades consideradas de menor jerarquía como los Pretos Velhos (espíritus de esclavos ancianos) y los Caboclos (espíritus de indígenas).
+
+El espiritismo, tanto en su versión francesa como brasileña, continúa siendo un fenómeno fascinante y complejo que desafía las fronteras entre ciencia, religión y filosofía.
+
+
+ Se introdujo un poco más tarde que en Europa. En Brasil el espiritismo tb sostiene que dios creó espíritus para que alcancen la pereccción mediante un camino de purificación hasta la reencarnación. 
 Los guías no necesitan reencarnarse más. 
 La adaptación brasileña tiene como distintivo fundamental que conveirte en un elemento clave lo que en origen (el espiritismo kardecista francés) era algo secundario: la revelación de la causa de la enfermedad (la manifestación más representativa del abanico de las aflicciones)., La enfermedad, según el kardecismo brasileño sería causada de dos maneras. 1a causa: un guia que presiona a una persona que aun está en proceso de purificación para que desarrolle su don mediumnico. esa persona enferma. esa enfermedad tiene un origen místico. 2a causa: que sea consecuencia de una perturbación causada por espíritus inferiores (malos fluidos) hasta (posesión). 
 1- un guia presiona para que un sujeto inmaduro desarrolle su don: la cura ha de provenir a partir del reconocimiento de la propia mediumnidad y su desarrolllo mediante el trabajo de caridad/ayuda al prójimo. así se cura la enfermedad causada por la presión del guía. 
