@@ -7,7 +7,7 @@ title: islam
 
 ## Apuntes
 
-- [Islam](/islam/apuntes/islm.md)
+- [Islam](apuntes/islm.md)
 
 ## Materiales
 
