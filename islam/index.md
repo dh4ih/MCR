@@ -7,6 +7,8 @@ title: islam
 
 ## Apuntes
 
+- [Islam](/islam/apuntes/islm.md)
+
 ## Materiales
 
 - [Falta de obispos y conversión al islam de los cristianos de al-Ándalus](materiales/faltadeobispos.pdf)
