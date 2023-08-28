@@ -156,6 +156,12 @@ Conocido también como ha-Nasí (el presidente, caudillo, dirigente, jefe), ha-K
 * **Yehamot (Cuñadas)**: Matrimonio levirato para proteger a las viudas.
 * **Ketubot (Documento Matrimonial)**: Contratos matrimoniales, influenciados por la ley romana.
 * **Nedarim (Votos)**: Consagración y prohibición de bienes, y anulaciones de votos femeninos.
+
+---
+CLASE 5: 57:20
+
+---
+
 * **Nazir (Nazireato)**: Voto de abstinencia y anulaciones femeninas, con implicaciones en la historia cristiana.
 * **Sotá (Sospechosa Adúltera)**: Rito de aguas amargas y uso de la lengua hebrea.
 * **Guittin (Documento de Divorcio)**: Normas sobre el divorcio y repudio.
