@@ -9,7 +9,6 @@ Bienvenida a la sección de Cristianismo. Aquí encontrarás apuntes relacionado
 
 - [**Tema 1**: Los orígenes del cristianismo](https://dh4ih.github.io/mcr1/cristianismo/apuntes/crmo_t1)
 - [**Tema 2**: El cristianismo en los siglos II y III](apuntes/crmo_t2.md)
-
 - [**Tema 3**: Hacia un cristianismo de Estado (s. IV)](apuntes/crmo_t3.md)
 
 ## Índice de Materiales

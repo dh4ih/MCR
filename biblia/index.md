@@ -9,10 +9,11 @@ title: biblia
 
 ## Materiales
 
+[Mitos sobre el origen del hombre - A. Bernabé y J. Pérez de Tudela](materiales/mitosorigen.pdf)
 
-[Mitos sobre el origen del hombre - A. Bernabé y J. Pérez de Tudela](https://drive.google.com/file/d/1-eRA4g_6AUMFhsz-xXYfFCTOknHW7qhW/view?usp=sharing)
+[La edición crítica de textos griegos. Logros y posibilidades abiertas](materiales/edicioncritica.pdf)
 
-[La edición crítica de textos griegos. Logros y posibilidades abiertas](https://drive.google.com/file/d/12agzHuwRI7od0ZxGERJD5PM7mJEESs48/view?usp=sharing)
+(https://drive.google.com/file/d/12agzHuwRI7od0ZxGERJD5PM7mJEESs48/view?usp=sharing)
 
 [Carta de Aristeas](https://drive.google.com/file/d/1AYWhtwLVDEYewA3F4bpP4btB-sDTy9Pj/view?usp=sharing) 
 
