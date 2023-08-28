@@ -5,53 +5,44 @@ title: biblia
 
 ## Apuntes
 
-![construction](https://img.freepik.com/vector-premium/construccion-signo-etiqueta_24886-506.jpg)
+[Apuntes](apuntes/blia.md)
 
-## Materiales
+## Índice de materiales
 
-[Mitos sobre el origen del hombre - A. Bernabé y J. Pérez de Tudela](materiales/mitosorigen.pdf)
+### Orígenes y Textos Fundamentales 📜
+- [Mitos sobre el origen del hombre - A. Bernabé y J. Pérez de Tudela](materiales/mitosorigen.pdf)
+- [El texto hebreo](materiales/textohebreo.pdf)
+- [Prólogo: La Biblia griega Septuaginta](materiales/prologobibliagriega.pdf)
+- [Carta de Aristeas](materiales/cartaaristeas.pdf) 
 
-[La edición crítica de textos griegos. Logros y posibilidades abiertas](materiales/edicioncritica.pdf)
+### Periodos y Transiciones Históricas 🕰️
+- [Postexilio sacerdotal](materiales/postexiliosacerdotal.pdf)
+- [Exilio deuteronomista: La Biblia en su entorno, Glez. Echegaray](materiales/exiliodeuteronomista.pdf)
+- [Época helenística y apocalíptica](materiales/epochahelenistica.pdf)
 
-(https://drive.google.com/file/d/12agzHuwRI7od0ZxGERJD5PM7mJEESs48/view?usp=sharing)
+### Literatura y Escritura 📚
+- [La edición crítica de textos griegos. Logros y posibilidades abiertas](materiales/edicioncritica.pdf)
+- [Literatura cristiana 1](materiales/litcristiana1.pdf)
+- [Literatura griega cristiana 2](materiales/litgriegacristiana2.pdf)
+- [Rudimentos de escritura hebrea](materiales/rudimentosescrihebrea.pdf)
 
-[Carta de Aristeas](https://drive.google.com/file/d/1AYWhtwLVDEYewA3F4bpP4btB-sDTy9Pj/view?usp=sharing) 
+### Traducción y Canonización 📖
+- [Las traducciones en la antigüedad](materiales/traduccionesantiguas.pdf)
+- [Canon de la biblia judía - Trebolle](materiales/canonbibliajudia.pdf)
+- [Canon de la biblia cristiana (NT) - Piñero](materiales/canonbibliacristiana.pdf)
+- [Formación del canon del NT](materiales/formacioncanonnt.pdf)
 
-[El texto hebreo](https://drive.google.com/file/d/1LbyqUaZUZqAPsoGrdS3OREYsm_TFQ-0N/view?usp=sharing) 
+### Escuelas y Transmisión del Conocimiento 🎓
+- [Escuelas y escribas: Trebolle - La BJ y la BC](materiales/escuelasescribas.pdf)
+- [Transmisión escrita y transmisión oral: Trebolle - BJ y BC](materiales/transmisionescritaoral.pdf)
 
-[Prólogo: La Biblia griega Septuaginta](https://drive.google.com/file/d/1LxbmtbuNOpz8qYyxbezR49d8wchnfQM_/view?usp=sharing)
+### Análisis Textual y Significación 📑
+- [Historia de la biblia: escrituras y lenguas](materiales/historiabiblia.pdf)
+- [Los manuscritos de Qumrán y el texto bíblico](materiales/manuscritosqumran.pdf)
+- [The textual significance of spanish polyglot Bibles](materiales/textualsignificance.pdf)
 
-[Postexilio sacerdotal](https://drive.google.com/file/d/1PjB1eG2dRBNMGnMDJdL5yehYObY_5_G5/view?usp=sharing) 
-
-[Literatura cristiana 1](https://drive.google.com/file/d/1ifYBOiOZXxv_MKCGBw9U6fzvhlRHIOYl/view?usp=sharing) 
-
-[Literatura griega cristiana 2](https://drive.google.com/file/d/1RFXki5Y7RzVkvK680z2IzDNtO5Bu0kz5/view?usp=sharing) 
-
-[Las traducciones en la antigüedad](https://drive.google.com/file/d/1U67ZJywDurqCM4vTCLdPfZx7CuEMUQpQ/view?usp=sharing) 
-
-[Exilio deuteronomista: La Biblia en su entorno, Glez. Echegaray](https://drive.google.com/file/d/1egeZ7MhA4Gl4TRIXiXqCTYsmLNHb1DCr/view?usp=sharing) 
-
-[Escuelas y escribas: Trebolle - La BJ y la BC](https://drive.google.com/file/d/1faMdIXrpUzhtiqjXxgMgDwv8shubyd2k/view?usp=sharing) 
-
-[Época helenística y apocalíptica](https://drive.google.com/file/d/1gMy1CPBfaPsTE9j2yF1zX9ffCj7NDuRF/view?usp=sharing) 
-
-[Historia de la biblia: escrituras y lenguas](https://drive.google.com/file/d/1ilq_X1C7gC_Il-bV8r4-zRjozxl4qnf5/view?usp=sharing) 
-
-[Los manuscritos de Qumrán y el texto bíblico](https://drive.google.com/file/d/1itjSU7wgKjtnw-CT__1XmpP6bUXRaI7c/view?usp=sharing)
-
-[La inmensa fe de los ateos](https://www.religionenlibertad.com/opinion/27212/la-inmensa-fe-de-los-ateos.html) 
-
-[The textual significance of spanish polyglot Bibles](https://drive.google.com/file/d/1lbqMK9qzCFqVmoJAIGZbHNkN_UMa4UKO/view?usp=sharing) 
-
-[Transmisión escrita y transmisión oral: Trebolle - BJ y BC](https://drive.google.com/file/d/1oxpQ-H381xoYhOlbaJwgVku8LL2__-qh/view?usp=sharing) 
-
-[Canon de la biblia judía - Trebolle](https://drive.google.com/file/d/1pUNZSZ_gxgVCTZf3m3xVGXPcpi0LH99a/view?usp=sharing) 
-
-[Canon de la biblia cristiana (NT) - Piñero](https://drive.google.com/file/d/1ulKYsdf3Az_kO7huSAzrTCpCHXxl6CvW/view?usp=sharing) 
-
-[Formación del canon del NT](https://drive.google.com/file/d/1wHXzCGnaJdDIw5Ou-zj6NGDwHJZSproy/view?usp=sharing) 
-
-[Rudimentos de escritura hebrea](https://drive.google.com/file/d/1y6QpyiFKRxVATRcUjd2t8LTrWdL8mgTW/view?usp=sharing) 
+### Opiniones y Perspectivas 🤔
+- [La inmensa fe de los ateos](https://www.religionenlibertad.com/opinion/27212/la-inmensa-fe-de-los-ateos.html)
 
 ---
 
