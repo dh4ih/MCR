@@ -2,7 +2,12 @@
 layout: default
 title: Tema 3
 ---
-
+<style>
+  /* Set background color for the whole page */
+  body {
+    background-color: #D4D1;
+  }
+</style>
 # **Tema 3**: **Hacia un cristianismo de Estado** (s. IV)
 
 ## **Constantino y el triunfo del cristianismo**

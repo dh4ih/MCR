@@ -2,6 +2,13 @@
 layout: default
 title: biblia
 ---
+<style>
+  /* Set background color for the whole page */
+  body {
+    background-color: #F0EAD6;
+  }
+</style>
+
 
 ## Apuntes
 
@@ -45,5 +52,6 @@ title: biblia
 - [La inmensa fe de los ateos](https://www.religionenlibertad.com/opinion/27212/la-inmensa-fe-de-los-ateos.html)
 
 ---
-
-[↲](../)
+<div style="display: flex; align-items: center; float: left;">
+<a href="../">&#8592; volver a materias</a>
+</div>

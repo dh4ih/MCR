@@ -2,7 +2,12 @@
 layout: default
 title: Tema 2.3.
 ---
-
+<style>
+  /* Set background color for the whole page */
+  body {
+    background-color: #d6cae0;
+  }
+</style>
 # 2.3. Rabinismo: Tanaj y Talmud (70-500)
 
 
@@ -180,3 +185,9 @@ CLASE 5: 57:20
 
 La era de Simón Ben Gamaliel II y Yehudá Ben Simón fue vital en la historia del judaísmo. Sus contribuciones, especialmente la redacción de la Misná por Yehudá, establecieron la base de la ley y práctica judía, consolidando la estructura legal, fiscal y social del judaísmo rabínico.
 Los tratados de la Misná redactados por Yehudá Ben Simón son fundamentales en la comprensión del judaísmo rabínico. Ofrecen una visión detallada de la ley, la ética, las prácticas y la estructura social de la comunidad judía, y continúan siendo una base vital para la ley judía en la actualidad.
+
+---
+
+<div style="display: flex; align-items: center; float: left;">
+<a href="judaismo/apuntes/jdmo_t2-2.md">&#8592; volver a tema 2.2</a>
+</div>

@@ -1,17 +1,19 @@
 ---
 layout: default
-title: orientales
+title: intro
 ---
+
 <style>
   /* Set background color for the whole page */
   body {
-    background-color: #E4F0D3;
+    background-color: #D3E0F0;
   }
 </style>
 
-## Apuntes
 
-não tenho kkk
+# apuntes
+
+# índice de materiales
 
 ---
 <div style="display: flex; align-items: center; float: left;">

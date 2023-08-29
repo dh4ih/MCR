@@ -6,7 +6,7 @@ title: Tema 1
 <style>
   /* Set background color for the whole page */
   body {
-    background-color: #c1d4d6;
+    background-color: #d3f0e0;
   }
 </style>
 

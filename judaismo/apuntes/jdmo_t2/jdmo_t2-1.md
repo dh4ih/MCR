@@ -2,7 +2,12 @@
 layout: default
 title: Tema 2.1.
 ---
-
+<style>
+  /* Set background color for the whole page */
+  body {
+    background-color: #d6cae0;
+  }
+</style>
 # 2.1. Helenización y reacción hasidí. Los manuscritos del Mar Muerto <br> Helenismo, hasidismo y Qumrán (400 aec - 70 ec)
 
 Período en el que hay cierta continuidad con el período anterior basado en la Torá etc. A lo largo de estos años se irán añadiendo otros escritos pero la religiosidad es muy similar hasta el año 70. En estos años se producen transformaciones importantes, tanto en las creencias por influencia helenística como en las prácticas rituales (leves): surgimiento de fiestas importantes, cambio en cuestiones rituales… 
@@ -197,3 +202,11 @@ Se está introduciendo por primera vez un pensamiento dogmático: la prohibició
 
 Hanukká (Josefo + Talmud): fiesta de las luminarias. 1/2Mac Cuando Judas Macabeo va a purificar el T no hay aceite para encender las velas de la hanukiá pero se quedan milagrosamente encendidas. 
 Purim: carnaval. Los niños se disfrazan de Maroqueo, de Ester, de los magos de la historia literaria de Esther… representan los episodios etc y los padres beben alcohol. 
+
+---
+<div style="display: flex; align-items: center; float: left;">
+<a href="judaismo/apuntes/jdmo_t1.md">&#8592; volver a tema 1</a>
+</div>
+<div style="display: flex; align-items: center; float: right;">
+<a href="jdmo_t2/jdmo_t2-2.md">tema 2.2 &#8594;</a>
+</div>

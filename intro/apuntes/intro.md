@@ -1,14 +1,11 @@
 ---
 layout: default
-title: apuntes
+title: intro
 ---
 
 <style>
   /* Set background color for the whole page */
   body {
-    background-color: #F0EAD6;
+    background-color: #D3E0F0;
   }
 </style>
-
-# Tema 1 
-(los tengo manuscritos)

@@ -2,12 +2,16 @@
 layout: default
 title: judaísmo
 ---
-
-Bienvenida a la sección de Judaísmo. Aquí encontrarás apuntes relacionados con el estudio del judaísmo, así como materiales complementarios en formato PDF.
+<style>
+  /* Set background color for the whole page */
+  body {
+    background-color: #d6cae0;
+  }
+</style>
 
 ## Apuntes
 
-- [**Repaso**](https://dh4ih.github.io/mcr1/judaismo/apuntes/jdmo_repaso)
+Una [**guía**](https://dh4ih.github.io/mcr1/judaismo/apuntes/jdmo_repaso) de repaso del contexto histórico.
 - [**Tema 1**: La religión del antiguo Israel](https://dh4ih.github.io/mcr1/judaismo/apuntes/jdmo_t1)
 - [**Tema 2**: Del helenismo al Talmud](https://dh4ih.github.io/mcr1/judaismo/apuntes/jdmo_t2/)
 - [**Tema 3**: Judaísmo medieval](https://dh4ih.github.io/mcr1/judaismo/apuntes/jdmo_t3)
@@ -17,11 +21,7 @@ Bienvenida a la sección de Judaísmo. Aquí encontrarás apuntes relacionados c
 
 ## Materiales
 
-
-
-![construction](https://img.freepik.com/vector-premium/construccion-signo-etiqueta_24886-506.jpg)
-
 ---
-
-[↲](../)
-
+<div style="display: flex; align-items: center; float: left;">
+<a href="../">&#8592; volver a materias</a>
+</div>

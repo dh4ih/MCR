@@ -3,6 +3,15 @@ layout: default
 title: cristianismo
 ---
 
+<style>
+  /* Set background color for the whole page */
+  body {
+    background-color: #D4D1;
+  }
+</style>
+
+
+
 Bienvenida a la sección de Cristianismo. Aquí encontrarás apuntes relacionados con el estudio del cristianismo, así como materiales complementarios en formato PDF.
 
 ## Apuntes
@@ -56,7 +65,6 @@ Bienvenida a la sección de Cristianismo. Aquí encontrarás apuntes relacionado
 - 🖼️ [Mapas cristianismo](materiales/mapas.ppt)
 
 ---
-
-<a href="../">
-  <img src="../image.png" alt="Back" style="width: 20px; height: auto;">
-</a>
+<div style="display: flex; align-items: center; float: left;">
+<a href="../">&#8592; volver a materias</a>
+</div>

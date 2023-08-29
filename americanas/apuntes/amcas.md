@@ -2,10 +2,15 @@
 layout: default
 title: Tema 1
 ---
+<style>
+  /* Set background color for the whole page */
+  body {
+    background-color: #F0DAD3;
+  }
+</style>
+# introducción
 
-# Introducción
-
-## Planteamiento del problema <br> Cómo organizar la crítica a los censos oficiales.
+## planteamiento del problema <br> ¿cómo organizar la crítica a los censos oficiales?
 
 Los datos de carácter estadístico no reflejan una realidad religiosa que pese aunque sea minoritaria frente a una mayoría católica es más compleja y más numerosa. 
 
@@ -14,38 +19,38 @@ Los censos no siempre abarcan la categoría Protestante/Evangélico en el conjun
 Jean Pierre Bastien ha estudiado este fenómeno en México, donde la persecución por la mayoría católica ha sido evidente a nivel institucional y local. Las propias autoridades indígenas locales, siendo partidarias de algo que no era exactamente catolicismo (el **costumbre**: una combinación sincrética de tradiciones rituales prehispánicos y de liturgia católica muy adaptada a las condiciones locales) han usado combinaciones sincréticas como capital simbólico contra la población indígena que se convertía (ahora menos) masivamente al protestantismo (pentecostal o no).
 
 
-### Censo de población (con un clasificador específico para religiones) en México para los años 2010 y 2020:
+### censo de población (con un clasificador específico para religiones) en méxico para los años 2010 y 2020:
 
-| Categoría                              | 2010 | 2020 |
+| categoría                              | 2010 | 2020 |
 |----------------------------------------|------|------|
-| Católica                               | 82%  | 76%  |
-| Protestante y Evangélica               | 7%   | 11%  |
-| Religiones Bíblicas No Evangélicas     | 2%   | 2%   |
-| Sin filiación religiosa                | 7%   | 9%   |
+| católica                               | 82%  | 76%  |
+| protestante y evangélica               | 7%   | 11%  |
+| religiones bíblicas no evangélicas     | 2%   | 2%   |
+| sin filiación religiosa                | 7%   | 9%   |
 
 ---
 
-### El Campo Religioso
+### el campo religioso
 
 
-**1. Pierre Bourdieu: Campo, Habitus, Capital y Práctica**
+**1. @ pierre bourdieu: campo, habitus, capital y práctica**
 
-Pierre Bourdieu es conocido por sus conceptos de campo, habitus, capital y práctica. Él articula la noción de **campo religioso**, una idea profundamente arraigada en la antropología de la religión. Su concepto del campo es una estructura de posiciones objetivas donde todos actuamos dentro de un entramado de relaciones y fuerzas.
+pierre bourdieu es conocido por sus conceptos de campo, habitus, capital y práctica. él articula la noción de **campo religioso**, una idea profundamente arraigada en la antropología de la religión. Su concepto del campo es una estructura de posiciones objetivas donde todos actuamos dentro de un entramado de relaciones y fuerzas.
 
 El **habitus**, por otro lado, es la parte subjetivista y constructivista de Bourdieu. Representa una estructura social internalizada y reconoce al individuo como un agente capaz de procesar y actuar dentro de la estructura, sin estar completamente condicionado por ella. Bourdieu no cree que la estructura determine completamente la acción de los sujetos; la capacidad de jugar con las reglas impuestas es lo que él llama habitus.
 
-**2. Talcott Parsons: Estructura de la Acción Social**
+**2. @ talcott parsons: estructura de la acción social**
 
 Talcott Parsons buscó fusionar las ideas de Weber y Durkheim en una teoría completa de la acción social. Sin embargo, su enfoque acabó siendo más cercano a Durkheim que a Weber. Bourdieu es considerado postparsoniano, ya que intenta reconciliar subjetividad + objetividad, Weber + Durkheim.
 
-**3. El concepto de *campo religioso***
+**3. el concepto de *campo religioso***
 
 La noción de campo religioso es muy utilizada en la antropología de la religión, tanto que a veces acaba desligada de su definición original. Hay un uso casi *pop* que ha desdibujado el concepto original de Bourdieu. El campo es una estructura de posiciones objetivas. Todos actuamos dentro de un campo de fuerzas, de relaciones.
 
 El campo religioso ha avanzado desde Bourdieu, quien innovó y escribió un ensayo titulado *La disolución de lo religioso*, contenido en el libro *Cosas dichas por Pierre Bourdieu* (También *Sociólogos de la creencia y la creencia de los sociólogos*). Su concepto del campo religioso se ha expandido para abarcar el campo de la manipulación simbólica de la conducta de la vida privada. A pesar de que Bourdieu posteriormente se distanció de su propio concepto, el término ha cobrado vida propia.
 
 
-### Cambios en el paisaje religioso mexicano
+### cambios en el paisaje religioso mexicano
 
 La dinámica religiosa en México ha experimentado cambios notables en las últimas décadas, principalmente en lo que respecta a los grupos ***cristianos protestantes evangélicos pentecostales***. Es importante destacar especialmente el último de estos grupos, ya que es considerado el más dinámico.
 

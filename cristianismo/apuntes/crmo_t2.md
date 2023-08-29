@@ -2,7 +2,12 @@
 layout: default
 title: Tema 2
 ---
-
+<style>
+  /* Set background color for the whole page */
+  body {
+    background-color: #D4D1;
+  }
+</style>
 # **Tema 2**: **El cristianismo en los siglos II y III**
 
 Distintos movimientos atestiguados: 

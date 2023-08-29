@@ -2,7 +2,12 @@
 layout: default
 title: Tema 1
 ---
-
+<style>
+  /* Set background color for the whole page */
+  body {
+    background-color: #D4D1;
+  }
+</style>
 # **Tema 1**: **Los orígenes del cristianismo** (ss. I-II)
 
 Se puede dividir en tres periodos: 

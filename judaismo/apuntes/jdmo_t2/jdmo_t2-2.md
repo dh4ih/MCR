@@ -2,7 +2,12 @@
 layout: default
 title: Tema 2.2.
 ---
-
+<style>
+  /* Set background color for the whole page */
+  body {
+    background-color: #d6cae0;
+  }
+</style>
 # 2.2. Romanización y Judeocristianismo (63 aec - 70 ec)
 
 
@@ -143,3 +148,11 @@ Carácter guerrero del judeocristianismo. En la Revelación de Juan, texto de 66
 El pasaje del jinete del caballo blanco, se dice que el jinete es Cristo y que es un jinete que viene al final de los tiempos para exterminar a los gentiles. Un jinete guerrero de cuya boca sale una espada para cortar el cuello a los gentiles, de sus ojos sale fuego y cuyo manto está manchado por la sangre de los gentiles (tremendamente bélica, militarista y sangriento). 
 Hay más textos judeocristianos que se conservan. Están en los apócrifos del AT (editados por Piñero). El Testamento de Ezequías, un texto judcro de la segunda mitad del s. I ec, que se interpola en un texto judío llamado las Ascensiones de Isaías. Tiene un carácter muy bélico, de un Cristo guerrero que castigará a los gentiles con la destrucción del Templo. 
 El V Oráculo Sibilino, datado entre los 80-90: ahí se profetiza la deserción de Italia, la destrucción de persas, íberos, babilonios y masagetas, el incendio de Asia, el hundimiento de Lesbos, la reducción de Bitinia a cenizas, la inundación de Tesalia, múltiples males para Egipto (el territorio más odiado por este escriba). Otro rasgo de ese judcro primitivo que continuaría a lo largo del s. I y que duraría prácticamente hasta la llegada del islam: (aunque poca info tenemos pero tenemos info del ±400 de la existencia de las dos corrientes principales: ebionitas y nazarenos y luego info de alguna fuente árabe que nos muestra cómo todavía en aquella época existían corrientes judcras en territorio no-romano; en territorio romano fueron desapareciendo porque la Iglesia, con el triunfo de Constantino, condena cualquier corriente herética y todo el judcro se consideraba herético). 
+
+---
+<div style="display: flex; align-items: center; float: left;">
+<a href="judaismo/apuntes/jdmo_t2-1.md">&#8592; volver a tema 2.1</a>
+</div>
+<div style="display: flex; align-items: center; float: right;">
+<a href="jdmo_t2/jdmo_t2-3.md">tema 2.3 &#8594;</a>
+</div>
