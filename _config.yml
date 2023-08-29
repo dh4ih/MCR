@@ -1,7 +1,7 @@
 title: MCR
 author: a.moron
-url: https://dh4ih.github.io/mcr/ # root address of the site
-description: > # description of the site (multiple lines allowed)
+url: https://dh4ih.github.io/mcr/ 
+description: > 
  notas del máster de ciencias de las religiones de la upo/uc3m/ull
  
 theme: minima
@@ -10,7 +10,10 @@ header_pages:
   - americanas/index.md
   - biblia/index.md
   - cristianismo/index.md
+  - intro/index.md
   - islam/index.md
   - judaismo/index.md
+  - lecturas/index.md  
   - orientales/index.md
   - politeismo/index.md
+  - teoria/index.md
