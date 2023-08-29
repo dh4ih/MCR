@@ -3,6 +3,13 @@ layout: default
 title: Tema 1
 ---
 
+<style>
+  /* Set background color for the whole page */
+  body {
+    background-color: #c1d4d6;
+  }
+</style>
+
 **Ferrín**:
 > **El rechazo a lo que en Nicea se consideraba paganismo acabará llamándose islam.**
 

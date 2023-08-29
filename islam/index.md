@@ -14,8 +14,7 @@ title: islam
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100px;
-    height: 100px;
+    width: 100%;
     background-color: #385F71; /* Changed to desired color */
     color: white;
     text-decoration: none;
@@ -68,4 +67,7 @@ title: islam
 
 ---
 
-[↲](../)
+[![Back](<a target="_blank" href="https://icons8.com/icon/37317/prev">Prev</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>)](../) 
+
+
+[![Back](image.png)](../)
