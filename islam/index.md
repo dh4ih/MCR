@@ -67,7 +67,6 @@ title: islam
 
 ---
 
-[![Back](<a target="_blank" href="https://icons8.com/icon/37317/prev">Prev</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>)](../) 
-
-
-[![Back](image.png)](../)
+<a href="../">
+  <img src="image.png" alt="Back" style="width: 50px; height: auto;">
+</a>
