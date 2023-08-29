@@ -25,7 +25,7 @@ title: islam
 
 ## Apuntes
 
-<a href="apuntes/islm.md" class="clickable-box">
+<a href="apuntes/islm.html" class="clickable-box">
   Apuntes
 </a>
 
