@@ -57,4 +57,6 @@ Bienvenida a la sección de Cristianismo. Aquí encontrarás apuntes relacionado
 
 ---
 
-[↲](../)
+<a href="../">
+  <img src="../image.png" alt="Back" style="width: 20px; height: auto;">
+</a>
