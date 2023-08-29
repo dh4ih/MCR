@@ -4,32 +4,41 @@ title: islam
 ---
 
 <style>
+  /* Set background color for the whole page */
+  body {
+    background-color: #c1d4d6;
+  }
+
+  /* Style for the clickable box */
   .clickable-box {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100px;
     height: 100px;
-    background-color: #007BFF;
+    background-color: #385F71; /* Changed to desired color */
     color: white;
     text-decoration: none;
     font-size: 18px;
     border-radius: 8px;
     transition: background-color 0.3s ease;
   }
-
+  .clickable-box,
+  .clickable-box:visited,
+  .clickable-box:hover,
+  .clickable-box:active {
+    color: white;
+    text-decoration: none;
+  }
+  
   .clickable-box:hover {
-    background-color: #0056b3;
+    background-color: #2a4049; /* Darker shade for hover effect */
   }
 </style>
-
-## Apuntes
 
 <a href="apuntes/islm.html" class="clickable-box">
   Apuntes
 </a>
-
-- [Islam (Traditional Link)](apuntes/islm.md)
 
 
 ## Índice de Materiales
