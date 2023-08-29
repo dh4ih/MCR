@@ -3,9 +3,33 @@ layout: default
 title: islam
 ---
 
+<style>
+  .clickable-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+  }
+
+  .clickable-box:hover {
+    background-color: #0056b3;
+  }
+</style>
+
 ## Apuntes
 
-- [Islam](apuntes/islm.md)
+<a href="apuntes/islm.md" class="clickable-box">
+  Apuntes
+</a>
+
+- [Islam (Traditional Link)](apuntes/islm.md)
 
 
 ## Índice de Materiales
