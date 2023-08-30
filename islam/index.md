@@ -39,6 +39,7 @@ title: islam
 
 ### 📚 Averroísmo y antiaverroísmo 
 - [📄](materiales/averroes.pdf) Los rostros del comentador: averroísmo y antiaverroísmo en Francia durante el s. XIII
+
 ---
 <div style="display: flex; align-items: center; float: left;">
 <a href="../">&#8592; volver a materias</a>
