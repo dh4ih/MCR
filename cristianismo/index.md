@@ -55,7 +55,7 @@ title: cristianismo
 - [📄](materiales/monacatomedieval.pdf) El monacato medieval: Santos viajeros y patronos regios
 
 ### 🌐 Temas Contemporáneos
-- [📄](materiales/sacerdotas.pdf) Siglo XXI: rabinas, sacerdotas, obispas y ayatolas
+- [📄](materiales/Sacerdotas.pdf) Siglo XXI: rabinas, sacerdotas, obispas y ayatolas
 
 ### 📖 Recursos Adicionales
 - [🖼️](materiales/mapas.ppt) Mapas cristianismo
