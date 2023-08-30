@@ -10,35 +10,35 @@ title: islam
   }
 </style>
 
-## apuntes
+## Apuntes
 
-- [apuntes](apuntes/islm.md)
+- [Apuntes](apuntes/islm.md)
 
 
-## índice de materiales
+## Índice de materiales
 
-### 🕌 historia y conversión en al-ándalus 
-- [falta de obispos y conversión al islam de los cristianos de al-ándalus](materiales/faltadeobispos.pdf)
-- [cristianos y conversos al islam en al-ándalus bajo los omeyas](materiales/cristianosyconversos.pdf)
+### 🕌 Historia y conversión en al-Ándalus 
+- [Falta de obispos y conversión al islam de los cristianos de al-Ándalus](materiales/faltadeobispos.pdf)
+- [Cristianos y conversos al islam en al-Ándalus bajo los omeyas](materiales/cristianosyconversos.pdf)
 
-### 🕋 perspectivas y análisis del islam 
+### 🕋 Perspectivas y análisis del islam 
 
 **@ ferrín** 
-- [la encrucijada del islam (y de la islamología)](/materiales/encrucijada.pdf)
-- [el islam: encuadre histórico](materiales/encuadrehistorico.pdf)
-- [la palabra descendida](materiales/lapalabradescendida.pdf)
-- [antecedentes históricos en el pensamiento reformista islámico](materiales/reformismo.pdf)
+- [La encrucijada del islam (y de la islamología)](/materiales/encrucijada.pdf)
+- [El islam: encuadre histórico](materiales/encuadrehistorico.pdf)
+- [La palabra descendida](materiales/lapalabradescendida.pdf)
+- [Antecedentes históricos en el pensamiento reformista islámico](materiales/reformismo.pdf)
 
 
-### 🗣️ debates y controversias 
-- [reseña de *le coran des historiens*](/materiales/ferrinresenha.pdf) **@ ferrín**
-- [the islamic origins debate goes public](materiales/islamorigins.pdf)
+### 🗣️ Debates y controversias 
+- [Reseña de *Le coran des historiens*](/materiales/ferrinresenha.pdf) **@ ferrín**
+- [The islamic origins debate goes public](materiales/islamorigins.pdf)
   
-### 🤝 interacciones 
-- [the problem of symbiosis under early islam](materiales/symbiosis.pdf)
+### 🤝 Interacciones 
+- [The problem of symbiosis under early islam](materiales/symbiosis.pdf)
 
-### 📚 averroísmo y antiaverroísmo 
-- [los rostros del comentador: averroísmo y antiaverroísmo en Francia durante el s. XIII](materiales/averroes.pdf)
+### 📚 Averroísmo y antiaverroísmo 
+- [Los rostros del comentador: averroísmo y antiaverroísmo en Francia durante el s. XIII](materiales/averroes.pdf)
 ---
 <div style="display: flex; align-items: center; float: left;">
 <a href="../">&#8592; volver a materias</a>

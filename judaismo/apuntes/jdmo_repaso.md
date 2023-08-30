@@ -1,3 +1,8 @@
+---
+layout: default
+title: repaso
+---
+
 # Repaso <br> do contexto histórico
 <style>
   /* Set background color for the whole page */
@@ -5,6 +10,7 @@
     background-color: #d6cae0;
   }
 </style>
+
 - **XII-X a.C.**: En torno al X aec surgen los reinos de Israel y Judá y se hacen habiru. (Cf. Carta de Rib-Adda: rey de Biblos a Akenatón diciendo que se estaban haciendo habiru, independientes de Egipto → Liberación del Imperio Nuevo egipcio).
 
 

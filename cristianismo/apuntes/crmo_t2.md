@@ -204,3 +204,13 @@ La apologética contribuyó a la **definición de la identidad** cristiana en di
 ### Recapitulación
 
 El conflicto religioso de los siglos II-III, tanto interno como externo, robusteció el cristianismo y lo convirtió en una religión apta y adaptada al mundo grecorromano.
+
+---
+
+<div style="display: flex; align-items: center; float: left;">
+<a href="apuntes/crmo_t1.md">&#8592; volver a tema 1</a>
+</div>
+
+<div style="display: flex; align-items: center; float: right;">
+<a href="apuntes/crmo_t3.md">ir a tema 3 &#8594;</a>
+</div>

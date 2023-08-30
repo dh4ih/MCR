@@ -11,9 +11,11 @@ title: intro
 </style>
 
 
-# apuntes
+# Apuntes
 
-# índice de materiales
+[Apuntes](apuntes/intro.md)
+
+# Índice de materiales
 
 ---
 <div style="display: flex; align-items: center; float: left;">

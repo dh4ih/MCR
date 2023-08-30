@@ -8,6 +8,7 @@ title: Tema 3
     background-color: #D4D1;
   }
 </style>
+
 # **Tema 3**: **Hacia un cristianismo de Estado** (s. IV)
 
 ## **Constantino y el triunfo del cristianismo**
@@ -152,3 +153,9 @@ Constantino se denominó el **decimotercer apóstol**. Su evergesía contribuyó
 ### **Destrucción de los templos y de los ídolos**
 ### **Ascetismo y monacato**
 ### **El culto a los mártires**
+
+---
+
+<div style="display: flex; align-items: center; float: left;">
+<a href="apuntes/crmo_t2.md">&#8592; volver a tema 2</a>
+</div>

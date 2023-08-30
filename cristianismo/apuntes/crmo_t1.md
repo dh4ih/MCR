@@ -8,6 +8,15 @@ title: Tema 1
     background-color: #D4D1;
   }
 </style>
+
+
+#### Table of contents
+
+1. [Section 1](#section-1)
+2. [Section 2](#section-2)
+    - [Subsection a](#subsection-a)
+    - [Subsection b](#subsection-b)
+
 # **Tema 1**: **Los orígenes del cristianismo** (ss. I-II)
 
 Se puede dividir en tres periodos: 
@@ -173,3 +182,9 @@ Pablo nunca evitó el debate acerca de la cuestión de la pureza ritual: sobre s
 ¿Por qué es importante la figura de Pablo?
 - Pablo habla en griego a los gentiles. Sin Pablo el mensaje de Jesús nunca habría tenido la difusión que alcanzó. Los seguidores de Pablo en Judea se extinguen. 
 - Las cartas de Pablo fueron las lecturas de cabecera por los cristianos durante toda su historia.
+
+---
+
+<div style="display: flex; align-items: center; float: left;">
+<a href="../">&#8592; volver a cristianismo</a>
+</div>
