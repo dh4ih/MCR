@@ -12,9 +12,9 @@ title: cristianismo
 
 ## Apuntes
 
-- [**Tema 1**: Los orígenes del cristianismo](apuntes/crmo_t1)
-- [**Tema 2**: El cristianismo en los siglos II y III](apuntes/crmo_t2.md)
-- [**Tema 3**: Hacia un cristianismo de Estado (s. IV)](apuntes/crmo_t3.md)
+- [**Tema 1**](apuntes/crmo_t1): Los orígenes del cristianismo
+- [**Tema 2**](apuntes/crmo_t2.md): El cristianismo en los siglos II y III
+- [**Tema 3**](apuntes/crmo_t3.md): Hacia un cristianismo de Estado (s. IV)
 
 ## Índice de Materiales
 
@@ -54,9 +54,9 @@ title: cristianismo
 - [📄](materiales/relibajomedieval.pdf) La religiosidad bajomedieval
 - [📄](materiales/monacatomedieval.pdf) El monacato medieval: Santos viajeros y patronos regios
 
-
 ### 🌐 Temas Contemporáneos
 - [📄](materiales/sacerdotas.pdf) Siglo XXI: rabinas, sacerdotas, obispas y ayatolas
+
 ### 📖 Recursos Adicionales
 - [🖼️](materiales/mapas.ppt) Mapas cristianismo
 
