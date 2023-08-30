@@ -12,33 +12,33 @@ title: islam
 
 ## Apuntes
 
-- [Apuntes](apuntes/islm.md)
+- [📝](apuntes/islm.md) Apuntes
 
 
 ## Índice de materiales
 
 ### 🕌 Historia y conversión en al-Ándalus 
-- [Falta de obispos y conversión al islam de los cristianos de al-Ándalus](materiales/faltadeobispos.pdf)
-- [Cristianos y conversos al islam en al-Ándalus bajo los omeyas](materiales/cristianosyconversos.pdf)
+- [📄](materiales/faltadeobispos.pdf) Falta de obispos y conversión al islam de los cristianos de al-Ándalus
+- [📄](materiales/cristianosyconversos.pdf) Cristianos y conversos al islam en al-Ándalus bajo los omeyas
 
 ### 🕋 Perspectivas y análisis del islam 
 
 **@ ferrín** 
-- [La encrucijada del islam (y de la islamología)](/materiales/encrucijada.pdf)
-- [El islam: encuadre histórico](materiales/encuadrehistorico.pdf)
-- [La palabra descendida](materiales/lapalabradescendida.pdf)
-- [Antecedentes históricos en el pensamiento reformista islámico](materiales/reformismo.pdf)
+- [📄](/materiales/encrucijada.pdf) La encrucijada del islam (y de la islamología)
+- [📄](materiales/encuadrehistorico.pdf) El islam: encuadre histórico
+- [📄](materiales/lapalabradescendida.pdf) La palabra descendida
+- [📄](materiales/reformismo.pdf) Antecedentes históricos en el pensamiento reformista islámico
 
 
 ### 🗣️ Debates y controversias 
-- [Reseña de *Le coran des historiens*](/materiales/ferrinresenha.pdf) **@ ferrín**
-- [The islamic origins debate goes public](materiales/islamorigins.pdf)
+- [📄](/materiales/ferrinresenha.pdf) Reseña de *Le coran des historiens* **@ ferrín**
+- [📄](materiales/islamorigins.pdf) The islamic origins debate goes public
   
 ### 🤝 Interacciones 
-- [The problem of symbiosis under early islam](materiales/symbiosis.pdf)
+- [📄](materiales/symbiosis.pdf) The problem of symbiosis under early islam
 
 ### 📚 Averroísmo y antiaverroísmo 
-- [Los rostros del comentador: averroísmo y antiaverroísmo en Francia durante el s. XIII](materiales/averroes.pdf)
+- [📄](materiales/averroes.pdf) Los rostros del comentador: averroísmo y antiaverroísmo en Francia durante el s. XIII
 ---
 <div style="display: flex; align-items: center; float: left;">
 <a href="../">&#8592; volver a materias</a>

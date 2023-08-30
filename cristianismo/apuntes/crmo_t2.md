@@ -8,6 +8,26 @@ title: Tema 2
     background-color: #D4D1;
   }
 </style>
+
+- [**Tema 2**: **El cristianismo en los siglos II y III**](#tema-2-el-cristianismo-en-los-siglos-ii-y-iii)
+  - [**La expansión del cristianismo en el Imperio**](#la-expansión-del-cristianismo-en-el-imperio)
+  - [**Características generales del cristianismo en los ss. II-III**](#características-generales-del-cristianismo-en-los-ss-ii-iii)
+  - [**Organización interna de la Iglesia**](#organización-interna-de-la-iglesia)
+    - [De una Iglesia carismática a una Iglesia jerárquica.](#de-una-iglesia-carismática-a-una-iglesia-jerárquica)
+    - [El episcopado monárquico](#el-episcopado-monárquico)
+  - [**El conflicto religioso en el Imperio Romano**](#el-conflicto-religioso-en-el-imperio-romano)
+    - [**El conflicto interno**: ortodoxia y herejía. La literatura heresiológica](#el-conflicto-interno-ortodoxia-y-herejía-la-literatura-heresiológica)
+      - [El concepto de ortodoxia y herejía](#el-concepto-de-ortodoxia-y-herejía)
+      - [Literatura heresiológica](#literatura-heresiológica)
+    - [**El conflicto con el Estado romano**: las persecuciones. Literatura apologética.](#el-conflicto-con-el-estado-romano-las-persecuciones-literatura-apologética)
+      - [Acusaciones a los cristianos](#acusaciones-a-los-cristianos)
+      - [El género apologético](#el-género-apologético)
+    - [Recapitulación](#recapitulación)
+
+<br>
+<br>
+
+
 # **Tema 2**: **El cristianismo en los siglos II y III**
 
 Distintos movimientos atestiguados: 
@@ -208,9 +228,9 @@ El conflicto religioso de los siglos II-III, tanto interno como externo, robuste
 ---
 
 <div style="display: flex; align-items: center; float: left;">
-<a href="apuntes/crmo_t1.md">&#8592; volver a tema 1</a>
+<a href="https://dh4ih.github.io/mcr/cristianismo/apuntes/crmo_t1">&#8592; volver a tema 1</a>
 </div>
 
 <div style="display: flex; align-items: center; float: right;">
-<a href="apuntes/crmo_t3.md">ir a tema 3 &#8594;</a>
+<a href="https://dh4ih.github.io/mcr/cristianismo/apuntes/crmo_t3.html">ir a tema 3 &#8594;</a>
 </div>
