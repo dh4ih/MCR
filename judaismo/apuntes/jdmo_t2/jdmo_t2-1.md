@@ -2,13 +2,17 @@
 layout: default
 title: Tema 2.1.
 ---
+
 <style>
   /* Set background color for the whole page */
   body {
     background-color: #d6cae0;
   }
 </style>
-# 2.1. Helenización y reacción hasidí. Los manuscritos del Mar Muerto <br> Helenismo, hasidismo y Qumrán (400 aec - 70 ec)
+
+
+# 2.1. Helenización y reacción hasidí. Los manuscritos del Mar Muerto. Helenismo, hasidismo y Qumrán (400 aec - 70 ec)
+
 
 Período en el que hay cierta continuidad con el período anterior basado en la Torá etc. A lo largo de estos años se irán añadiendo otros escritos pero la religiosidad es muy similar hasta el año 70. En estos años se producen transformaciones importantes, tanto en las creencias por influencia helenística como en las prácticas rituales (leves): surgimiento de fiestas importantes, cambio en cuestiones rituales… 
 
