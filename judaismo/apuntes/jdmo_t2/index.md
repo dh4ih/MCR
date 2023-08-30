@@ -19,7 +19,7 @@ Período en el que nace el judaísmo actual (rabínico/talmúdico), el judaísmo
   
 ---
 <div style="display: flex; align-items: center; float: left;">
-<a href="../">&#8592; volver a judaísmo</a>
+<a href="https://dh4ih.github.io/mcr/judaismo/">&#8592; volver a judaísmo</a>
 </div>
 <!-- <div style="display: flex; align-items: center; float: right;">
 <a href="jdmo_t2/jdmo_t2-1.md">tema 2.1 &#8594;</a>
