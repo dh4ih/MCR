@@ -2,12 +2,6 @@
 layout: default
 title: Tema 2
 ---
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #D4D1;
-  }
-</style>
 
 - [**Tema 2**: **El cristianismo en los siglos II y III**](#tema-2-el-cristianismo-en-los-siglos-ii-y-iii)
   - [**La expansión del cristianismo en el Imperio**](#la-expansión-del-cristianismo-en-el-imperio)
@@ -79,7 +73,7 @@ O sea, en qué cosas se distingue el cristianismo del resto de religiones del Me
 
 2. **Exclusivismo**
    
-  Si bien el cristianismo es monoteísta, lo que lo distingue fundamentalmente del resto de rr. del MT es su **exclusivismo**: el monoteísmo cristiano excluye cualquier otra opción religiosa. (Cf. [*monoteísmo pagano*](https://dh4ih.github.io/mcr1/politeismo/materiales/chaniotis.pdf), que era inclusivista: no rechaza ningún sistema religioso). Los cristianos son una comunidad cerrada que requiere una **conversión**, un acto de renuncia a cualquier otra religión. 
+  Si bien el cristianismo es monoteísta, lo que lo distingue fundamentalmente del resto de rr. del MT es su **exclusivismo**: el monoteísmo cristiano excluye cualquier otra opción religiosa. (Cf. [*monoteísmo pagano*](https://dh4ih.github.io/mcr/politeismo/materiales/chaniotis.pdf), que era inclusivista: no rechaza ningún sistema religioso). Los cristianos son una comunidad cerrada que requiere una **conversión**, un acto de renuncia a cualquier otra religión. 
 
   El *ethos* religioso normal de las personas que viven en el MT durante el IR era una estampa de colores, que hacía que una persona pudiera rendir culto a un abanico variado de divinidades, muchas extranjeras, que convivían de manera pacífica. El cristianismo es **una religión radical** y este radicalismo hace que sea peligroso para las demás religiones con las que convive durante el II y el III.
 
@@ -163,9 +157,9 @@ El conflicto está presente en el cristianismo **desde sus mismos orígenes**.
 
 La variedad de **cristianismos** está presente desde los orígenes. Se tiende a hablar de "el cristianismo", más que nada porque *cristianismo* es una palabra abstracta que no tiene plural, de forma coherente con la herencia antigua de la unidad dogmática de la religión. Con todo, cuando leemos las fuentes nos damos cuenta de que hay una enorme variedad de mundos cristianos desde el principio. 
 
-[Resumen](https://dh4ih.github.io/mcr1/cristianismo/materiales/herejes.pdf) que explica muy bien las características que la antigua literatura cristiana atribuye a la figura del heterodoxo. 
+[Resumen](https://dh4ih.github.io/mcr/cristianismo/materiales/herejes.pdf) que explica muy bien las características que la antigua literatura cristiana atribuye a la figura del heterodoxo. 
 
-En [*Los cristianismos derrotados*](https://dh4ih.github.io/mcr1/cristianismo/materiales/crmosderrotados.pdf) de Piñero se explica el panorama diverso de los cristianismos en los siglos II/III. 
+En [*Los cristianismos derrotados*](https://dh4ih.github.io/mcr/cristianismo/materiales/crmosderrotados.pdf) de Piñero se explica el panorama diverso de los cristianismos en los siglos II/III. 
 
 El término ***herejía***, con el que los cristianos se refieren a estos grupos que se alejan de la ortodoxia, viene del término griego **αἵρεσις** (secta) que designa una escuela religiosa en el ámbito clásico. Los cristianos redujeron el significado de esta palabra y pasó a significar *secta peligrosa*. Hetero-doxo (ἑτερό-δοξος) o hereje es el que se desvía de la norma, de lo que es mayoritario. 
 
@@ -183,7 +177,7 @@ El teólogo alemán [Walter Bauer](https://en.wikipedia.org/wiki/Walter_Bauer) (
 
 Su tesis es: la heterodoxia no es una desviación de la ortodoxia, es decir, **no existió en el principio del cristianismo una δόξα** perfectamente establecida a partir de la cual hay disensiones, sino que el proceso es exactamente el contrario. A través de los muchos cristianismos y las diversas interpretaciones del mensaje cristiano se fue conformando, paulatinamente, una ortodoxia que fue dejando fuera movimientos disidentes por motivos muy diversos. 
 
-Para una visión más extendida sobre esto, consultar [este](https://dh4ih.github.io/mcr1/cristianismo/materiales/ortodoxiayherejia.pdf) documento. 
+Para una visión más extendida sobre esto, consultar [este](https://dh4ih.github.io/mcr/cristianismo/materiales/ortodoxiayherejia.pdf) documento. 
 
 #### Literatura heresiológica
 

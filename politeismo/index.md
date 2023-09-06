@@ -3,7 +3,7 @@ layout: default
 title: politeísmo
 ---
 
-## apuntes
+## Apuntes
 
 ## Índice de Materiales Adicionales
 

@@ -3,12 +3,6 @@ layout: default
 title: islam
 ---
 
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #d3f0e0;
-  }
-</style>
 
 ## Apuntes
 

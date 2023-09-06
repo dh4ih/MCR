@@ -3,13 +3,6 @@ layout: default
 title: judaísmo
 ---
 
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #d6cae0;
-  }
-</style>
-
 ## Apuntes
 
 Una [**guía**](https://dh4ih.github.io/mcr/judaismo/apuntes/jdmo_repaso) de repaso del contexto histórico.

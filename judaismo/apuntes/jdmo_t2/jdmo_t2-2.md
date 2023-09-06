@@ -2,12 +2,7 @@
 layout: default
 title: Tema 2.2.
 ---
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #d6cae0;
-  }
-</style>
+
 # 2.2. Romanización y Judeocristianismo (63 aec - 70 ec)
 
 

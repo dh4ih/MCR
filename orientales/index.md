@@ -2,12 +2,6 @@
 layout: default
 title: orientales
 ---
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #E4F0D3;
-  }
-</style>
 
 ## Apuntes
 

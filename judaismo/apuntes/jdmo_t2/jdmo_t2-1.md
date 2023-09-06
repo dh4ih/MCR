@@ -3,14 +3,6 @@ layout: default
 title: Tema 2.1.
 ---
 
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #d6cae0;
-  }
-</style>
-
-
 # 2.1. Helenización y reacción hasidí. Los manuscritos del Mar Muerto. Helenismo, hasidismo y Qumrán (400 aec - 70 ec)
 
 

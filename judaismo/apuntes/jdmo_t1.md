@@ -2,12 +2,6 @@
 layout: default
 title: Tema 1
 ---
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #d6cae0;
-  }
-</style>
 
 **Índice**
 - [**Tema 1.  La religión del antiguo Israel: Religión del 2º templo (500 a.C. - 70 d.C.)**](#tema-1--la-religión-del-antiguo-israel-religión-del-2º-templo-500-ac---70-dc)

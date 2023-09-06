@@ -2,12 +2,6 @@
 layout: default
 title: Tema 2
 ---
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #d6cae0;
-  }
-</style>
 
 # Tema 2: De la época helenística al judaísmo clásico de la Misná y el Talmud.
 

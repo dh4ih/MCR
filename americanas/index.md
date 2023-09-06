@@ -2,13 +2,6 @@
 layout: default
 title: americanas
 ---
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #F0DAD3;
-  }
-</style>
-
 
 ## Apuntes
 

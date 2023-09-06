@@ -2,12 +2,7 @@
 layout: default
 title: Tema 3
 ---
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #D4D1;
-  }
-</style>
+
 
 - [**Tema 3**: **Hacia un cristianismo de Estado** (s. IV)](#tema-3-hacia-un-cristianismo-de-estado-s-iv)
   - [**Constantino y el triunfo del cristianismo**](#constantino-y-el-triunfo-del-cristianismo)
@@ -101,7 +96,7 @@ Licinio y Constanino se reúnen en **Milán** y para aprobar una serie de acuerd
 
 Hasta ese momento, los cultos politeístas eran **completamente aceptados**. Las religiones mistéricas se consideraban de ábito privado, eran religiones orientales, con unos cultos diferentes pero que no interferían en los tradicionales grecorromanos. La única religión monoteísta, el **judaísmo**, era considerada una religión étnica seguida únicamente por los judíos. Por tanto, hasta que el cristianismo comienza a difundirse, **no había problemas de convivencia religiosa**, no había intolerancia. El carácter universalista y proselitista del cristianismo causó los choques. 
 
-El conjunto de acuerdos a los que llegaron **Constantino y Licinio** en el **313** se conoce como ***[Edicto de Milán](https://dh4ih.github.io/mcr1/cristianismo/materiales/edictomilan.pdf)***, que no fue un Edicto, una disposición legal. Estas disposiciones se nos han conservado por dos autores cristianos: 
+El conjunto de acuerdos a los que llegaron **Constantino y Licinio** en el **313** se conoce como ***[Edicto de Milán](https://dh4ih.github.io/mcr/cristianismo/materiales/edictomilan.pdf)***, que no fue un Edicto, una disposición legal. Estas disposiciones se nos han conservado por dos autores cristianos: 
 - En latín por **Lactancio** en DMP
 - En griego por **Eusebio de Cesarea** en la HE.
 Los cristianos pasan a disponer de total libertad para practicar su culto y la Iglesia se puede desarrollar tranquilamente. 

@@ -2,13 +2,6 @@
 layout: default
 title: Tema 1
 ---
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #D4D1;
-  }
-</style>
-
 
 - [**Tema 1**: **Los orígenes del cristianismo** (ss. I-II)](#tema-1-los-orígenes-del-cristianismo-ss-i-ii)
   - [**Las fuentes**: Introducción al NT. Evangelios canónicos y apócrifos.](#las-fuentes-introducción-al-nt-evangelios-canónicos-y-apócrifos)

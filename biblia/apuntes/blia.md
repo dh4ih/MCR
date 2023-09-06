@@ -3,12 +3,5 @@ layout: default
 title: apuntes
 ---
 
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #F0EAD6;
-  }
-</style>
-
 # Tema 1 
 (los tengo manuscritos)

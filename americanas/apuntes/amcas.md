@@ -2,12 +2,7 @@
 layout: default
 title: Tema 1
 ---
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #F0DAD3;
-  }
-</style>
+
 # introducción
 
 ## planteamiento del problema <br> ¿cómo organizar la crítica a los censos oficiales?

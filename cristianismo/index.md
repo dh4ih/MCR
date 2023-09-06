@@ -3,18 +3,13 @@ layout: default
 title: cristianismo
 ---
 
-<style>
-  /* Set background color for the whole page */
-  body {
-    background-color: #D4D1;
-  }
-</style>
-
 ## Apuntes
 
 - [**Tema 1**](apuntes/crmo_t1): Los orígenes del cristianismo
 - [**Tema 2**](apuntes/crmo_t2.md): El cristianismo en los siglos II y III
 - [**Tema 3**](apuntes/crmo_t3.md): Hacia un cristianismo de Estado (s. IV)
+- [**Monacato**](apuntes/monacato.md): Monacato e Ascetismo
+- [**Reforma papal e monástica**](apuntes/r_monastica.md): A Reforma da Igreja: O Papado e a Renovação Monástica
 
 ## Índice de Materiales
 
@@ -55,7 +50,7 @@ title: cristianismo
 - [📄](materiales/monacatomedieval.pdf) El monacato medieval: Santos viajeros y patronos regios
 
 ### 🌐 Temas Contemporáneos
-- [📄](materiales/Sacerdotas.pdf) Siglo XXI: rabinas, sacerdotas, obispas y ayatolas
+- [📄](materiales/sacerdotas.pdf) Siglo XXI: rabinas, sacerdotas, obispas y ayatolas
 
 ### 📖 Recursos Adicionales
 - [🖼️](materiales/mapas.ppt) Mapas cristianismo
