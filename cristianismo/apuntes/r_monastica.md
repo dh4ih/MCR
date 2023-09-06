@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reforma Gregoriana
+title: Reforma Monástica
 ---
 # A Reforma da Igreja: O Papado e a Renovação Monástica
 

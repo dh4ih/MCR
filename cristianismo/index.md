@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cristianismo
+title: Cristianismo
 ---
 
 ## Apuntes

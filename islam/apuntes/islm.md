@@ -18,7 +18,7 @@ title: Tema 1
 
 # tema 1
 
-primera clase manuscrita [aquí](https://dh4ih.github.io/mcr1/islam/apuntes/historiadelislam.pdf)
+primera clase manuscrita [aquí](https://dh4ih.github.io/mcr/islam/apuntes/historiadelislam.pdf)
 
 
 > qué es el cristianismo? aquello en nombre de lo cual mataban los terroristas del IRA.
