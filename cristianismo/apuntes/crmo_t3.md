@@ -3,6 +3,7 @@ layout: default
 title: Tema 3
 ---
 
+# **Tema 3**: **Hacia un cristianismo de Estado** (s. IV)
 
 - [**Tema 3**: **Hacia un cristianismo de Estado** (s. IV)](#tema-3-hacia-un-cristianismo-de-estado-s-iv)
   - [**Constantino y el triunfo del cristianismo**](#constantino-y-el-triunfo-del-cristianismo)
@@ -17,20 +18,8 @@ title: Tema 3
     - [**Destrucción de los templos y de los ídolos**](#destrucción-de-los-templos-y-de-los-ídolos)
     - [**Ascetismo y monacato**](#ascetismo-y-monacato)
     - [**El culto a los mártires**](#el-culto-a-los-mártires)
-  - [**Las reformas de Constantino**](#las-reformas-de-constantino-1)
-    - [**Innovaciones literarias**](#innovaciones-literarias-1)
-    - [**Privilegios eclesiásticos y evergetismo imperial**](#privilegios-eclesiásticos-y-evergetismo-imperial)
-    - [**Controversias doctrinales y concilios**](#controversias-doctrinales-y-concilios-1)
-  - [**Los sucesores de Constantino**](#los-sucesores-de-constantino-1)
-  - [**La nueva sociedad cristiana: *cristiana tempora***](#la-nueva-sociedad-cristiana-cristiana-tempora-1)
-    - [**Destrucción de los templos y de los ídolos**](#destrucción-de-los-templos-y-de-los-ídolos-1)
-    - [**Ascetismo y monacato**](#ascetismo-y-monacato-1)
-    - [**El culto a los mártires**](#el-culto-a-los-mártires-1)
 
 <br>
-<br>
-
-# **Tema 3**: **Hacia un cristianismo de Estado** (s. IV)
 
 ## **Constantino y el triunfo del cristianismo**
 
@@ -157,23 +146,11 @@ Constantino se denominó el **decimotercer apóstol**. Su evergesía contribuyó
 ### **Controversias doctrinales y concilios**
 
 ## **Los sucesores de Constantino**
-
+asdf
 ## **La nueva sociedad cristiana: *cristiana tempora***
 ### **Destrucción de los templos y de los ídolos**
 ### **Ascetismo y monacato**
 ### **El culto a los mártires** 
-
-## **Las reformas de Constantino**
-### **Innovaciones literarias**
-### **Privilegios eclesiásticos y evergetismo imperial**
-### **Controversias doctrinales y concilios**
-
-## **Los sucesores de Constantino**
-
-## **La nueva sociedad cristiana: *cristiana tempora***
-### **Destrucción de los templos y de los ídolos**
-### **Ascetismo y monacato**
-### **El culto a los mártires**
 
 ---
 

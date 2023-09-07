@@ -3,6 +3,8 @@ layout: default
 title: Tema 2
 ---
 
+# **Tema 2**: **El cristianismo en los siglos II y III**
+
 - [**Tema 2**: **El cristianismo en los siglos II y III**](#tema-2-el-cristianismo-en-los-siglos-ii-y-iii)
   - [**La expansión del cristianismo en el Imperio**](#la-expansión-del-cristianismo-en-el-imperio)
   - [**Características generales del cristianismo en los ss. II-III**](#características-generales-del-cristianismo-en-los-ss-ii-iii)
@@ -19,11 +21,6 @@ title: Tema 2
     - [Recapitulación](#recapitulación)
 
 <br>
-<br>
-
-
-# **Tema 2**: **El cristianismo en los siglos II y III**
-
 Distintos movimientos atestiguados: 
 - Morado oscuro: los centros fuertemente cristianizados a mediados del siglo III. Las áreas de expansión del cristianismo están sobre todo en el Oriente, en las zonas costeras de Asia Menor y de Grecia. En Egipto, donde hubo una comunidad antigua, y en Cirene (Tripolitania, hoy Argelia); también en Roma; luego, norte de África, Cartago (cristianismo ya a finales del II) y en el extremo Occidente tenemos Galia y sur de la P. Ibérica. 
 - En más claro, a finales del III. Todo colonizado por ellos, conviviendo con otros politeístas.

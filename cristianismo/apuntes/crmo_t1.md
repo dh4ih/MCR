@@ -3,6 +3,9 @@ layout: default
 title: Tema 1
 ---
 
+# **Tema 1**: **Los orígenes del cristianismo** (ss. I-II)
+
+
 - [**Tema 1**: **Los orígenes del cristianismo** (ss. I-II)](#tema-1-los-orígenes-del-cristianismo-ss-i-ii)
   - [**Las fuentes**: Introducción al NT. Evangelios canónicos y apócrifos.](#las-fuentes-introducción-al-nt-evangelios-canónicos-y-apócrifos)
   - [**El Jesús histórico**](#el-jesús-histórico)
@@ -17,11 +20,11 @@ title: Tema 1
   - [**Pablo y la primera misión cristiana**](#pablo-y-la-primera-misión-cristiana)
     - [**Fuentes para el conocimiento de su vida**](#fuentes-para-el-conocimiento-de-su-vida)
     - [**Biografía de Pablo**](#biografía-de-pablo)
-  
-<br>
+
 <br>
 
-# **Tema 1**: **Los orígenes del cristianismo** (ss. I-II)
+---
+
 
 Se puede dividir en tres periodos: 
 
@@ -151,7 +154,11 @@ Pablo no conoció a Jesús y fue un perseguidor de cristianos (cf. anécdota de 
 
 ### **Fuentes para el conocimiento de su vida**
 
-1. **Sus propias cartas**. Los documentos cristianos más antiguos que tenemos. Se fechan en la década del 50 y principios de los 60. En el NT se conservan 13 o 14 (si sumamos hebreos), de las cuales 7 son auténticas suyas y 6 no lo son. Las suyas son: 1Tes, Fil, 1Cor, 2Cor, Gál, Fil y Rom. Hay autores hipercríticos que totalmente seguras sólo hay cuatro: Rom, 12Cor y Gál. Mar Marcos, como lectora, dice que estas son las más interesantes, las más claras y las más cristalinas del pensamiento paulino. Si tuviera que escoger una sería 2Cor. La crítica más benévola da estas 7 por auténticas. El resto son las deuteropaulinas. Las tres últimas reciben el nombre de cartas pastorales: se las nombró así en el XVIII porque contienen instrucciones para la dirección de las comunidades cristianas, o sea, tienen una función pastoral. Las cartas de Pablo se dirigen a individuos o comunidades. Hay aquí algunos datos autobiográficos, aunque no son muchos, por tanto, no es nuestra primera fuente. 
+1. **Sus propias cartas**. Los documentos cristianos más antiguos que tenemos. Se fechan en la década del 50 y principios de los 60. En el NT se conservan 13 o 14 (si sumamos hebreos), de las cuales 7 son auténticas suyas y 6 no lo son. Las suyas son: `1 Tes`, `Fil`, `1 Cor`, `2 Cor`, `Gál`, `Fil` y `Rom`. Hay autores hipercríticos que totalmente seguras sólo hay cuatro: `Rom`, `1|2 Cor` y `Gál`. 
+
+> Mar Marcos, como lectora, dice que estas son las más interesantes, las más claras y las más cristalinas del pensamiento paulino. Si tuviera que escoger una sería `2 Cor`. 
+
+La crítica más benévola da estas 7 por auténticas. El resto son las deuteropaulinas. Las tres últimas reciben el nombre de cartas pastorales: se las nombró así en el XVIII porque contienen instrucciones para la dirección de las comunidades cristianas, o sea, tienen una función pastoral. Las cartas de Pablo se dirigen a individuos o comunidades. Hay aquí algunos datos autobiográficos, aunque no son muchos, por tanto, no es nuestra primera fuente. 
 2. **Hechos de los Apóstoles**: la principal obra por la que lo conocemos. Los hechos se pueden dividir en tres partes: 
     - Se relatan los comienzos del movimiento cristiano en Jerusalén, después de la ascensión de Jesús y de su último mandato. 1  
     - Propagación del movimiento a otras partes de Palestina. (Discusión sobre hebraistas y helenistas)
