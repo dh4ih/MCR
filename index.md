@@ -3,31 +3,31 @@ layout: default
 title: home
 ---
 
-## fundamentos
+# Fundamentos
 
-### 🌍 [introducción a la historia de las religiones](/intro/index.md)
+### [Introducción a la historia de las religiones](/intro/index.md)
 
-### 📖 [lecturas fundamentales](/lecturas/index.md)
-
-
-## aspectos generales y teoría
-
-### 🏛️ [poder, sociedades y religiones](/poder/index.md)
-### 🛠️ [teoría y metodología del estudio de las religiones](/teoria/index.md)
+### [Lecturas fundamentales](/lecturas/index.md)
 
 
-## religiones monoteístas
+# Aspectos generales y teoría
 
-### 📜 [la biblia judía y la biblia cristiana](/biblia/index.md)
-### ✝️ [historia del cristianismo](/cristianismo/index.md)
-### ☪️ [historia del islam](/islam/index.md)
-### ✡️ [historia del judaísmo](/judaismo/index.md)
+### [Poder, sociedades y religiones](/poder/index.md)
+### [Teoría y metodología del estudio de las religiones](/teoria/index.md)
 
-## religiones politeístas y nuevas
 
-### ⛪ [el universo religioso americano y el fenómeno de las _new religions_](/americanas/index.md)
-### 🏯 [religiones orientales](/orientales/index.md)
-### 🏺 [el politeísmo mediterráneo](/politeismo/index.md)
+# Religiones monoteístas
+
+### [La Biblia judía y la Biblia cristiana](/biblia/index.md)
+### [Historia del cristianismo](/cristianismo/index.md)
+### [Historia del islam](/islam/index.md)
+### [Historia del judaísmo](/judaismo/index.md)
+
+# Religiones politeístas y nuevas
+
+### [El universo religioso americano y el fenómeno de las _new religions_](/americanas/index.md)
+### [Religiones orientales](/orientales/index.md)
+### [El politeísmo mediterráneo](/politeismo/index.md)
 
 ---
 
