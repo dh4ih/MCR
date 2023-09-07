@@ -10,6 +10,7 @@ title: cristianismo
 - [**Tema 3**](apuntes/crmo_t3.md): Hacia un cristianismo de Estado (s. IV)
 - [**Monacato**](apuntes/monacato.md): Monacato e Ascetismo
 - [**Reforma papal e monástica**](apuntes/r_monastica.md): A Reforma da Igreja: O Papado e a Renovação Monástica
+- [**Concílio Vaticano II**](apuntes/vaticano2.md): A Revolução na Igreja Católica
 
 ## Índice de Materiales
 
