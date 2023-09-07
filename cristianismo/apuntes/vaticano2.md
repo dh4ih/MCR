@@ -139,7 +139,7 @@ Um dos aspectos mais marcantes dessa inauguração foi a sua transmissão televi
 
 O discurso de abertura, conhecido como [*Gaudet Mater Ecclesia*](https://www.vatican.va/content/john-xxiii/pt/speeches/1962/documents/hf_j-xxiii_spe_19621011_opening-council.pdf), foi um momento de grande intensidade e profundidade. Muitas pessoas, até hoje, recordam a emoção e o impacto daquele discurso que, para muitos, ficou gravado na memória como um dos momentos mais significativos do papado de João XXIII, frequentemente referido como "o Papa Bom".
 
-> Un comentário ao discurso encontra-se [aquí](materiais/vaticano2.pdf). 
+> Un comentário ao discurso encontra-se [aquí](../materiales/vaticano2.pdf). 
 
 #### Impacto e Legado
 
@@ -210,7 +210,7 @@ A declaração sobre a liberdade religiosa, "Dignitatis Humanae", ocupa um lugar
   
 3. **Separação entre Igreja e Estado**:
     - A declaração marcou uma mudança radical ao aprovar a separação entre a Igreja e o Estado, eliminando a necessidade de estados confessionais.
-    - Este foi um ponto crucial para países como a Espanha, que estava sob um regime nacional-católico. A introdução do direito civil à liberdade religiosa na Espanha teve um impacto significativo, servindo como um impulso para a democratização do regime franquista. Mais informações podem ser encontradas [aqui](materiais/libertadreligiosa.pdf).
+    - Este foi um ponto crucial para países como a Espanha, que estava sob um regime nacional-católico. A introdução do direito civil à liberdade religiosa na Espanha teve um impacto significativo, servindo como um impulso para a democratização do regime franquista. Mais informações podem ser encontradas [aqui](../materiales/libertadreligiosa.pdf).
 
 
 ### O Impacto da "Dignitatis Humanae" no Contexto Espanhol
@@ -286,4 +286,4 @@ Em resumo, o período após o Concílio Vaticano II é complexo e marcado por te
 
 Esses desafios destacam as complexidades e tensões dentro da Igreja Católica após o Concílio Vaticano II. Enquanto o Concílio representou um momento de abertura e modernização, os anos subsequentes mostraram uma Igreja dividida e em muitos aspectos, relutante em adaptar-se plenamente aos novos tempos.
 
-mais info na [presentaçao](materiais/presentacion.pdf)
+mais info na [presentaçao](../materiales/presentacion.pdf)
