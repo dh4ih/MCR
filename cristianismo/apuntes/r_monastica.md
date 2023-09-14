@@ -4,34 +4,19 @@ title: Reforma Monástica
 ---
 # A Reforma da Igreja: O Papado e a Renovação Monástica
 
+Índice
 
-- [A Reforma da Igreja: O Papado e a Renovação Monástica](#a-reforma-da-igreja-o-papado-e-a-renovação-monástica)
-  - [A Renovação na Sede da Igreja: A Reforma Gregoriana](#a-renovação-na-sede-da-igreja-a-reforma-gregoriana)
-      - [A purificação dos costumes do clero: Nicolaísmo](#a-purificação-dos-costumes-do-clero-nicolaísmo)
-      - [A compra e venda dos cargos eclesiásticos: Simonía](#a-compra-e-venda-dos-cargos-eclesiásticos-simonía)
-      - [Normas](#normas)
-    - [Problema das Investiduras](#problema-das-investiduras)
-      - [Poder Religioso vs Poder Civil](#poder-religioso-vs-poder-civil)
-      - [Caso de Enrique III](#caso-de-enrique-iii)
-      - [Concílio de Reims de 1049](#concílio-de-reims-de-1049)
-      - [Concílio de Latrão de 1059](#concílio-de-latrão-de-1059)
-      - [O Concordato de Worms de 1122](#o-concordato-de-worms-de-1122)
-  - [A Reforma Monástica](#a-reforma-monástica)
-      - [Contexto Histórico](#contexto-histórico)
-      - [Objetivos da Reforma](#objetivos-da-reforma)
-      - [Regra de São Bento](#regra-de-são-bento)
-    - [O Movimento de Cluny](#o-movimento-de-cluny)
-      - [Abades Notáveis de Cluny](#abades-notáveis-de-cluny)
-    - [Outras ordens e movimentos monásticos](#outras-ordens-e-movimentos-monásticos)
-      - [Gorze](#gorze)
-      - [Inglaterra](#inglaterra)
-      - [Os Cartujos](#os-cartujos)
-        - [Irmãos Leigos](#irmãos-leigos)
-      - [O Modelo Cisterciense](#o-modelo-cisterciense)
-        - [Fundação e Início](#fundação-e-início)
-        - [Princípios e Estilo de Vida](#princípios-e-estilo-de-vida)
-        - [Restrições de Gênero](#restrições-de-gênero)
-        - [Reconhecimento das Comunidades Femininas](#reconhecimento-das-comunidades-femininas)
+- [A Renovação na Sede da Igreja: A Reforma Gregoriana](#a-renovação-na-sede-da-igreja-a-reforma-gregoriana)
+- [A purificação dos costumes do clero: Nicolaísmo](#a-purificação-dos-costumes-do-clero-nicolaísmo)
+- [A compra e venda dos cargos eclesiásticos: Simonía](#a-compra-e-venda-dos-cargos-eclesiásticos-simonía)
+- [Problema das Investiduras](#problema-das-investiduras)
+  
+---
+
+- [A Reforma Monástica](#a-reforma-monástica)
+- [O Movimento de Cluny](#o-movimento-de-cluny)
+- [Outras ordens e movimentos monásticos](#outras-ordens-e-movimentos-monásticos)
+- [O Modelo Cisterciense](#o-modelo-cisterciense)
 
 
 ## A Renovação na Sede da Igreja: A Reforma Gregoriana

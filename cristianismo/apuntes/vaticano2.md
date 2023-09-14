@@ -4,55 +4,17 @@ title: vaticano ii
 ---
 
 # Concílio Vaticano II: A Revolução na Igreja Católica
+
+### Índice Geral
+
 - [Concílio Vaticano II: A Revolução na Igreja Católica](#concílio-vaticano-ii-a-revolução-na-igreja-católica)
   - [Papa João XXIII: O Precursor da Mudança](#papa-joão-xxiii-o-precursor-da-mudança)
-    - [Introdução](#introdução)
-    - [Características e Contexto Histórico](#características-e-contexto-histórico)
-    - [Origens e Experiência](#origens-e-experiência)
-    - [Distinções](#distinções)
-    - [O Papado](#o-papado)
-    - [Primeiras Ações](#primeiras-ações)
   - [O Concílio Vaticano II: O Aggiornamento de João XXIII](#o-concílio-vaticano-ii-o-aggiornamento-de-joão-xxiii)
-    - [Introdução](#introdução-1)
-    - [O Objetivo: Aggiornamento](#o-objetivo-aggiornamento)
-    - [Características do Aggiornamento](#características-do-aggiornamento)
-    - [Alcance Global](#alcance-global)
-    - [Preparativos e Participação](#preparativos-e-participação)
-    - [Diálogo Ecumênico](#diálogo-ecumênico)
-    - [O Legado de João XXIII](#o-legado-de-joão-xxiii)
-    - [Inauguração do Concílio Vaticano II](#inauguração-do-concílio-vaticano-ii)
-      - [A Cenário e Participação](#a-cenário-e-participação)
-      - [Transmissão Televisiva Inédita](#transmissão-televisiva-inédita)
-      - [O Discurso Inaugural: "Gaudet Mater Ecclesia"](#o-discurso-inaugural-gaudet-mater-ecclesia)
-      - [Impacto e Legado](#impacto-e-legado)
-      - [Enfrentando os Desafios da Época](#enfrentando-os-desafios-da-época)
-      - [Últimos Escritos: *Pacem in Terris*](#últimos-escritos-pacem-in-terris)
-      - [O Legado das Escritas de João XXIII](#o-legado-das-escritas-de-joão-xxiii)
-    - [A Transição para o Papado de Paulo VI](#a-transição-para-o-papado-de-paulo-vi)
-      - [Desafios Iniciais](#desafios-iniciais)
-      - [Principais Enfoques de Paulo VI](#principais-enfoques-de-paulo-vi)
-      - [Esforços para o Ecumenismo](#esforços-para-o-ecumenismo)
-      - [1965: quarta e última sessão. A **"Dignitatis Humanae" e a Liberdade Religiosa**](#1965-quarta-e-última-sessão-a-dignitatis-humanae-e-a-liberdade-religiosa)
-    - [O Impacto da "Dignitatis Humanae" no Contexto Espanhol](#o-impacto-da-dignitatis-humanae-no-contexto-espanhol)
-    - [A Visão de Paulo VI: Entre a Liberdade Religiosa e a Superioridade Católica](#a-visão-de-paulo-vi-entre-a-liberdade-religiosa-e-a-superioridade-católica)
-    - [A Transição para uma Mediação com o Mundo Soviético e os Anos Subsequentes](#a-transição-para-uma-mediação-com-o-mundo-soviético-e-os-anos-subsequentes)
-      - [O Advento de um Papa Polonês](#o-advento-de-um-papa-polonês)
-      - [Mudanças Políticas nos Anos 70](#mudanças-políticas-nos-anos-70)
-    - [A Crise Pós-Concílio Vaticano II](#a-crise-pós-concílio-vaticano-ii)
-      - [Sinais de Crise](#sinais-de-crise)
-      - [O "Fumo de Satanás"](#o-fumo-de-satanás)
-      - [A Encíclica "Humanae Vitae"](#a-encíclica-humanae-vitae)
-      - [Crise no Sacerdócio](#crise-no-sacerdócio)
-      - [A Proibição do Matrimônio dos Sacerdotes](#a-proibição-do-matrimônio-dos-sacerdotes)
-    - [O Cisma Soterrado: Divisões e Desafios na Igreja Pós-Aggiornamento](#o-cisma-soterrado-divisões-e-desafios-na-igreja-pós-aggiornamento)
-      - [Desafios no Reconhecimento das Mulheres](#desafios-no-reconhecimento-das-mulheres)
-      - [Celibato Obrigatório dos Sacerdotes](#celibato-obrigatório-dos-sacerdotes)
-      - [Divorciados e a Eucaristia](#divorciados-e-a-eucaristia)
-      - [Falha no Reconhecimento da Pederastia](#falha-no-reconhecimento-da-pederastia)
-      - [Aumento da Laicização](#aumento-da-laicização)
-      - [O "Cisma Soterrado"](#o-cisma-soterrado)
+  - [A Transição para o Papado de Paulo VI](#a-transição-para-o-papado-de-paulo-vi)
+  - [A Crise Pós-Concílio Vaticano II](#a-crise-pós-concílio-vaticano-ii)
+  - [O Cisma Soterrado: Divisões e Desafios na Igreja Pós-Aggiornamento](#o-cisma-soterrado-divisões-e-desafios-na-igreja-pós-aggiornamento)
 
-
+Este índice é ainda mais resumido e foca apenas nos tópicos principais, permitindo uma navegação rápida e fácil pelo conteúdo.
 
 ## Papa João XXIII: O Precursor da Mudança
 

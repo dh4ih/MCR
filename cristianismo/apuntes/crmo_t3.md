@@ -5,15 +5,11 @@ title: Cristianismo de Estado
 
 # **Tema 3**: **Hacia un cristianismo de Estado** (s. IV)
 
-- [**Tema 3**: **Hacia un cristianismo de Estado** (s. IV)](#tema-3-hacia-un-cristianismo-de-estado-s-iv)
   - [**Constantino y el triunfo del cristianismo**](#constantino-y-el-triunfo-del-cristianismo)
-    - [**La victoria del puente Milvio**](#la-victoria-del-puente-milvio)
-    - [**El *Edicto* de Milán y sus consecuencias**](#el-edicto-de-milán-y-sus-consecuencias)
+
   - [**Las reformas de Constantino**](#las-reformas-de-constantino)
-    - [**Innovaciones literarias**](#innovaciones-literarias)
-    - [**Privilegios eclesiásticos y evergesía imperial**](#privilegios-eclesiásticos-y-evergesía-imperial)
+
   - [**Los sucesores de Constantino**](#los-sucesores-de-constantino)
-    - [Los Sucesores de Constantino en el Imperio Romano](#los-sucesores-de-constantino-en-el-imperio-romano)
 
 <br>
 

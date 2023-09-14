@@ -5,23 +5,19 @@ title: Tema 2
 
 # **Tema 2**: **El cristianismo en los siglos II y III**
 
-- [**Tema 2**: **El cristianismo en los siglos II y III**](#tema-2-el-cristianismo-en-los-siglos-ii-y-iii)
-  - [**La expansión del cristianismo en el Imperio**](#la-expansión-del-cristianismo-en-el-imperio)
-  - [**Características generales del cristianismo en los ss. II-III**](#características-generales-del-cristianismo-en-los-ss-ii-iii)
-  - [**Organización interna de la Iglesia**](#organización-interna-de-la-iglesia)
-    - [De una Iglesia carismática a una Iglesia jerárquica.](#de-una-iglesia-carismática-a-una-iglesia-jerárquica)
-    - [El episcopado monárquico](#el-episcopado-monárquico)
-  - [**El conflicto religioso en el Imperio Romano**](#el-conflicto-religioso-en-el-imperio-romano)
-    - [**El conflicto interno**: ortodoxia y herejía. La literatura heresiológica](#el-conflicto-interno-ortodoxia-y-herejía-la-literatura-heresiológica)
-      - [El concepto de ortodoxia y herejía](#el-concepto-de-ortodoxia-y-herejía)
-      - [Literatura heresiológica](#literatura-heresiológica)
-    - [**El conflicto con el Estado romano**: las persecuciones. Literatura apologética.](#el-conflicto-con-el-estado-romano-las-persecuciones-literatura-apologética)
-      - [Acusaciones a los cristianos](#acusaciones-a-los-cristianos)
-      - [El género apologético](#el-género-apologético)
-    - [Recapitulación](#recapitulación)
+- [**La expansión del cristianismo en el Imperio**](#la-expansión-del-cristianismo-en-el-imperio)
+
+- [**Características generales del cristianismo en los ss. II-III**](#características-generales-del-cristianismo-en-los-ss-ii-iii)
+
+El conflicto:
+
+- [**El conflicto interno**](#el-conflicto-interno-ortodoxia-y-herejía-la-literatura-heresiológica): ortodoxia y herejía. La literatura heresiológica
+- [**El conflicto con el Estado romano**](#el-conflicto-con-el-estado-romano-las-persecuciones-literatura-apologética): las persecuciones. Literatura apologética.
 
 <br>
+
 Distintos movimientos atestiguados: 
+
 - Morado oscuro: los centros fuertemente cristianizados a mediados del siglo III. Las áreas de expansión del cristianismo están sobre todo en el Oriente, en las zonas costeras de Asia Menor y de Grecia. En Egipto, donde hubo una comunidad antigua, y en Cirene (Tripolitania, hoy Argelia); también en Roma; luego, norte de África, Cartago (cristianismo ya a finales del II) y en el extremo Occidente tenemos Galia y sur de la P. Ibérica. 
 - En más claro, a finales del III. Todo colonizado por ellos, conviviendo con otros politeístas.
 

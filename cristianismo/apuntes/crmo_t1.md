@@ -6,24 +6,11 @@ title: Tema 1
 # **Tema 1**: **Los orígenes del cristianismo** (ss. I-II)
 
 
-- [**Tema 1**: **Los orígenes del cristianismo** (ss. I-II)](#tema-1-los-orígenes-del-cristianismo-ss-i-ii)
-  - [**Las fuentes**: Introducción al NT. Evangelios canónicos y apócrifos.](#las-fuentes-introducción-al-nt-evangelios-canónicos-y-apócrifos)
-  - [**El Jesús histórico**](#el-jesús-histórico)
-    - [**La tierra de Jesús** (mapa de Palestina en el siglo I).](#la-tierra-de-jesús-mapa-de-palestina-en-el-siglo-i)
-    - [**La familia de Jesús y su profesión**](#la-familia-de-jesús-y-su-profesión)
-    - [**La cultura de Jesús**](#la-cultura-de-jesús)
-    - [**Cronología de Jesús**](#cronología-de-jesús)
-    - [**Rasgos de su personalidad**](#rasgos-de-su-personalidad)
-    - [**Conclusión**](#conclusión)
-    - [**La comunidad de los seguidores de Jesús**](#la-comunidad-de-los-seguidores-de-jesús)
-      - [**Tensiones en la comunidad**: Hechos desde la muerte de Jesús hasta la llegada a Roma de Pablo y encarcelamiento](#tensiones-en-la-comunidad-hechos-desde-la-muerte-de-jesús-hasta-la-llegada-a-roma-de-pablo-y-encarcelamiento)
-  - [**Pablo y la primera misión cristiana**](#pablo-y-la-primera-misión-cristiana)
-    - [**Fuentes para el conocimiento de su vida**](#fuentes-para-el-conocimiento-de-su-vida)
-    - [**Biografía de Pablo**](#biografía-de-pablo)
+- [**Las fuentes**: Introducción al NT. Evangelios canónicos y apócrifos.](#las-fuentes-introducción-al-nt-evangelios-canónicos-y-apócrifos)
+- [**El Jesús histórico**](#el-jesús-histórico)
+- [**Pablo y la primera misión cristiana**](#pablo-y-la-primera-misión-cristiana)
 
 <br>
-
----
 
 
 Se puede dividir en tres periodos: 
