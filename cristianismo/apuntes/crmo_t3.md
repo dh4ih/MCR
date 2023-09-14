@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tema 3
+title: Cristianismo de Estado
 ---
 
 # **Tema 3**: **Hacia un cristianismo de Estado** (s. IV)
@@ -12,12 +12,8 @@ title: Tema 3
   - [**Las reformas de Constantino**](#las-reformas-de-constantino)
     - [**Innovaciones literarias**](#innovaciones-literarias)
     - [**Privilegios eclesiásticos y evergesía imperial**](#privilegios-eclesiásticos-y-evergesía-imperial)
-    - [**Controversias doctrinales y concilios**](#controversias-doctrinales-y-concilios)
   - [**Los sucesores de Constantino**](#los-sucesores-de-constantino)
-  - [**La nueva sociedad cristiana: *cristiana tempora***](#la-nueva-sociedad-cristiana-cristiana-tempora)
-    - [**Destrucción de los templos y de los ídolos**](#destrucción-de-los-templos-y-de-los-ídolos)
-    - [**Ascetismo y monacato**](#ascetismo-y-monacato)
-    - [**El culto a los mártires**](#el-culto-a-los-mártires)
+    - [Los Sucesores de Constantino en el Imperio Romano](#los-sucesores-de-constantino-en-el-imperio-romano)
 
 <br>
 
@@ -142,18 +138,50 @@ Hay evidencia de estas actitudes y medidas favorables hacia el cristianismo por 
 
 Constantino se denominó el **decimotercer apóstol**. Su evergesía contribuyó de manera substancial a cristianizar la topografía del IR.
 
-
-### **Controversias doctrinales y concilios**
-
 ## **Los sucesores de Constantino**
-asdf
-## **La nueva sociedad cristiana: *cristiana tempora***
-### **Destrucción de los templos y de los ídolos**
-### **Ascetismo y monacato**
-### **El culto a los mártires** 
+
+
+### Los Sucesores de Constantino en el Imperio Romano
+
+![Mapa](https://truttafario.files.wordpress.com/2014/01/roma-336-337.png)
+
+**Resumen de Emperadores y Periodos de Gobierno:**
+
+| Emperador       | Periodo          | Región Gobernada |
+|:---------------:|:----------------:|:----------------:|
+| Constantino     | 324-337          | Todo el Imperio  |
+| Constancio II   | 337-361          | Oriente          |
+| Constante       | 337-350          | Occidente        |
+| Constantino II  | 337-340          | Occidente        |
+| Magnencio (Usurpador) | 350-353    | Occidente        |
+
+**Eventos Clave:**
+
+- **337 d.C.**: A la muerte de Constantino, sus hijos Constancio II, Constante y Constantino II se convierten en coemperadores. Constancio II gobierna en el Oriente y Constante en el Occidente.
+
+- **350 d.C.**: Magnencio asesina a Constante y usurpa el poder en el Occidente durante tres años.
+
+- **353 d.C.**: Constancio II derrota a Magnencio y unifica el gobierno del Imperio, gobernando solo hasta el año 361.
+
+**Creencias Religiosas:**
+
+- Constancio II favorecía el arrianismo.
+- Constante era partidario del credo niceno.
+
+**Políticas Religiosas:**
+
+- Constantino fue bastante tolerante con respecto a las prácticas paganas, limitándose a prohibir la magia en el ámbito privado.
+- A partir de Constancio II, y luego con Valentiniano y Valente (con una excepción durante el reinado de Juliano), las políticas se volvieron más restrictivas contra las prácticas paganas.
+
+
 
 ---
 
 <div style="display: flex; align-items: center; float: left;">
-<a href="https://dh4ih.github.io/mcr/cristianismo/apuntes/crmo_t2.html">&#8592; volver a tema 2</a>
+<a href="https://dh4ih.github.io/mcr/cristianismo/apuntes/crmo_t2.html">&#8592; El cristianismo en los siglos II y III</a>
+</div>
+
+
+<div style="display: flex; align-items: center; float: right;">
+<a href="https://dh4ih.github.io/mcr/cristianismo/apuntes/crmo_t2.html"> Controvérsias Doutrinárias &#8594;</a>
 </div>

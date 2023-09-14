@@ -221,3 +221,12 @@ Afonso VIII de Castela desempenhou um papel crucial ao favorecer o Mosteiro de L
 
 > Muitas mulheres resistiam às restrições de uma organização estritamente governada por homens. Quando os abades tentavam realizar visitas de controle nos mosteiros femininos, frequentemente encontravam as portas fechadas, já que essas mulheres se recusavam a permitir-lhes a entrada. <br> <br>
     Isso evidencia os desafios inerentes à estrutura de poder da ordem, que era predominantemente masculina, e destaca a necessidade de considerar a agência e autonomia das mulheres nas comunidades monásticas.
+
+---
+
+<div style="display: flex; align-items: center; float: left;">
+<a href="https://dh4ih.github.io/mcr/cristianismo/apuntes/monacato.html">&#8592; Monacato</a>
+</div>
+<div style="display: flex; align-items: center; float: right;">
+<a href="https://dh4ih.github.io/mcr/cristianismo/apuntes/vaticano2.html"> Concílio Vaticano II &#8594;</a>
+</div>

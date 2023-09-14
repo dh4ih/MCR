@@ -60,3 +60,9 @@ Inicialmente, na época das perseguições, tínhamos a literatura martirial, qu
 Como conhecemos a vida destes e daqueles? Dos primeiros, pela literatura martirial; dos segundos, pelas vidas dos santos, dando origem à **hagiografia**.
 
 A *Vita Antonii* foi o documento que mais influenciou na difusão deste modo de vida. É o primeiro documento literário que descreve em que consistia a vida destes homens e mulheres.
+
+---
+
+<div style="display: flex; align-items: center; float: right;">
+<a href="https://dh4ih.github.io/mcr/cristianismo/apuntes/r_monastica.html"> Reforma monástica &#8594;</a>
+</div>

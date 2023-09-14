@@ -5,9 +5,10 @@ title: cristianismo
 
 ## Apuntes
 
-- [**Tema 1**](apuntes/crmo_t1): Los orígenes del cristianismo
-- [**Tema 2**](apuntes/crmo_t2.md): El cristianismo en los siglos II y III
-- [**Tema 3**](apuntes/crmo_t3.md): Hacia un cristianismo de Estado (s. IV)
+- [**Los orígenes del cristianismo**](apuntes/crmo_t1)
+- [**El cristianismo en los siglos II y III**](apuntes/crmo_t2.md)
+- [**Hacia un cristianismo de Estado**](apuntes/crmo_t3.md): Constantino y sus sucesores
+- [**Controvérsias doctrinais e concílios**](apuntes/crmo_t4.md): a Igreja treme
 - [**Monacato**](apuntes/monacato.md): Monacato e Ascetismo
 - [**Reforma papal e monástica**](apuntes/r_monastica.md): A Reforma da Igreja: O Papado e a Renovação Monástica
 - [**Concílio Vaticano II**](apuntes/vaticano2.md): A Revolução na Igreja Católica

@@ -287,3 +287,9 @@ Em resumo, o período após o Concílio Vaticano II é complexo e marcado por te
 Esses desafios destacam as complexidades e tensões dentro da Igreja Católica após o Concílio Vaticano II. Enquanto o Concílio representou um momento de abertura e modernização, os anos subsequentes mostraram uma Igreja dividida e em muitos aspectos, relutante em adaptar-se plenamente aos novos tempos.
 
 mais info na [presentaçao](../materiales/presentacion.pdf)
+
+
+---
+
+<div style="display: flex; align-items: center; float: left;">
+<a href="https://dh4ih.github.io/mcr/cristianismo/apuntes/r_monastica.html">&#8592; Reforma monástica</a></div>
