@@ -3,24 +3,7 @@ layout: default
 title: Tema 1
 ---
 
----
-
 ## Tema 1: Islam, Filosofía y Religión
-
----
-
-### Contenido
-
-- [Tema 1: Islam, Filosofía y Religión](#tema-1-islam-filosofía-y-religión)
-  - [Contenido](#contenido)
-  - [Reflexiones Iniciales](#reflexiones-iniciales)
-  - [Relación entre Filosofía y Religión](#relación-entre-filosofía-y-religión)
-  - [El Concepto de Dios en el Islam](#el-concepto-de-dios-en-el-islam)
-  - [Los Tres Islames](#los-tres-islames)
-  - [El Concilio de Nicea](#el-concilio-de-nicea)
-  - [Conclusión](#conclusión)
-
----
 
 ### Reflexiones Iniciales
 
@@ -30,7 +13,7 @@ title: Tema 1
 
 > **La crítica hostil que se hizo a la paternidad de Dios acabó llamándose islam.**
 
-> **Narración retrospectiva**: Hoy escribo lo que quiero creer que pasó hace `x`` tiempo.
+> **Narración retrospectiva**: Hoy escribo lo que quiero creer que pasó hace `x` tiempo.
 
 > **¿Qué es el cristianismo?** Aquello en nombre de lo cual mataban los terroristas del IRA.
 
@@ -52,13 +35,9 @@ La filosofía y la religión se entrelazan en la búsqueda de respuestas a pregu
 
 En este contexto, el islam, como religión, es visto como una respuesta a las preguntas planteadas por la filosofía.
 
----
-
 ### El Concepto de Dios en el Islam
 
 El islam tiene una relación profunda con la idea de Dios, similar a otras religiones monoteístas. Se argumenta que la existencia de Dios es conceptualmente evidente, al igual que conceptos como el honor y la vergüenza. Sin embargo, la forma en que se aborda el concepto de Dios puede variar dependiendo del enfoque filosófico o religioso.
-
----
 
 ### Los Tres Islames
 
@@ -66,13 +45,9 @@ El islam tiene una relación profunda con la idea de Dios, similar a otras relig
 2. **Islam Civilizatorio**: Hace referencia al papel del islam como una civilización, destacando su impacto histórico y cultural. Este islam se desarrolló en torno al año 800, centrándose en Bagdad, y decayó alrededor del año 1923, con el surgimiento de la Turquía moderna.
 3. **Islam Social Contemporáneo**: Relacionado con la geopolítica y la identidad cultural en el mundo moderno. Aquí, el islam es visto más como una identidad que como una religión unificada.
 
----
-
 ### El Concilio de Nicea
 
 Es interesante señalar que en algunas reflexiones, el islam se considera como habiendo nacido en el Concilio de Nicea en 325 ec. Esto pone de manifiesto la complejidad y la interconexión entre la religión y la historia.
-
----
 
 ### Conclusión
 
@@ -80,7 +55,6 @@ La relación entre el islam, la filosofía y la religión es compleja y multifac
 
 El islam no es solo una religión, sino también una civilización y una identidad social en el mundo moderno.
 
----
 
 <div style="display: flex; align-items: center; float: left;">
   <a href="../">&#8592; Volver a Islam</a>
