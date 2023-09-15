@@ -14,8 +14,6 @@ title: vaticano ii
   - [A Crise Pós-Concílio Vaticano II](#a-crise-pós-concílio-vaticano-ii)
   - [O Cisma Soterrado: Divisões e Desafios na Igreja Pós-Aggiornamento](#o-cisma-soterrado-divisões-e-desafios-na-igreja-pós-aggiornamento)
 
-Este índice é ainda mais resumido e foca apenas nos tópicos principais, permitindo uma navegação rápida e fácil pelo conteúdo.
-
 ## Papa João XXIII: O Precursor da Mudança
 
 ![Joao XXIII](https://s3.abcstatics.com/media/sociedad/2018/08/13/juan-xxiii-kYBC--620x349@abc.jpg)
