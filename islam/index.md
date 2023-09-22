@@ -1,3 +1,8 @@
+---
+layout: default
+title: islam
+---
+
 ## Anotações
 
 - 📝 [Anotações](apuntes/islm.md)
