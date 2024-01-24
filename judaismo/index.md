@@ -10,7 +10,7 @@ Um [**guia**](https://moronbandin.github.io/mcr/judaismo/apuntes/jdmo_repaso) de
 - [**Tema 2**](https://moronbandin.github.io/mcr/judaismo/apuntes/jdmo_t2): Do helenismo ao Talmude
 - [**Tema 3**](https://moronbandin.github.io/mcr/judaismo/apuntes/jdmo_t3): Judaísmo medieval
 - [**Tema 4**](https://moronbandin.github.io/mcr/judaismo/apuntes/jdmo_t4): Judaísmo da Idade Moderna
-- [**Tema 5**](https://moronbandin.github.io/mcr/judaismo/apuntes/jdmo_t5): Judaísmo contemporâneo
+- [**Tema 5**](https://moronbandin.github.io/mcr/judaismo/apuntes/jdmo_t5): Judaísmo contemporâneo 
 
 ## Materiais
 
