@@ -19,3 +19,9 @@ title: repaso
 
 
 - **63 a.C.-70 d.C.**: primera etapa romana. El territorio pasa a ser la provincia de Siria. Gobierno republicano. Instauración de la monarquía de Herodes. Destrucción del templo en el 70.
+  
+<div style="display: flex; align-items: center; float: left;">
+  <a href="../" title="Volver">
+    <i class="fas fa-arrow-left"></i>
+  </a>
+</div>
