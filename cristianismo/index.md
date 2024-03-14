@@ -16,7 +16,7 @@ title: cristianismo
 ## Índice de Materiales
 
 ### ✝️ Historia del Cristianismo
-- [📄 Apologetas y heresiólogos](https://moronbandin.github.io/mcr/cristianismo/materiales/apologetas.pdf)
+- [📄 Apologetas y heresiólogos](materiales/apologetas.pdf)
 - [📄 Canon del Nuevo Testamento](materiales/canonNT.docx)
 - [📄 Constantino - Carles Buenacasa](materiales/constantinus.pdf)
 - [📄 La cristiandad más allá de Occidente](materiales/cris_masalla.pdf) (lectura @r.gordillo)
