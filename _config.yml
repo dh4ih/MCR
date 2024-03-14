@@ -5,7 +5,9 @@ url: https://moronbandin.github.io/mcr/
 description: > 
  notas del máster de ciencias de las religiones de la upo/uc3m/ull
  
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 header_pages:
   - americanas/index.md
