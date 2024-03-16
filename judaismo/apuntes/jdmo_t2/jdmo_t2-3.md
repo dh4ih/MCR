@@ -322,6 +322,9 @@ Los hijos de Constantino sí que empiezan a legislar con leyes antijudías (339)
 - Rebelión de Isaías de Séforis y su mesías Natrona contra Constancio Galo en 351.
 - Confiscación de bienes al que se convierta al judaísmo en 352 (C.T. 16, 18, 7)
 
+   
+
+`Clase 6 1:15:00`, `(recording 5)`
 
 ---
 
