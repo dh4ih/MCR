@@ -1,27 +1,32 @@
 ---
 layout: default
-title: repaso
+title: Repaso de la Historia Antigua
 ---
 
-- **XII-X a.C.**: En torno al X aec surgen los reinos de Israel y Judá y se hacen habiru. (Cf. Carta de Rib-Adda: rey de Biblos a Akenatón diciendo que se estaban haciendo habiru, independientes de Egipto → Liberación del Imperio Nuevo egipcio).
+## Línea de Tiempo de Eventos Significativos
 
+### Siglos XII-X a.C.
+- **Formación de los reinos de Israel y Judá**: Surgen alrededor del siglo X a.C. Se destacan por volverse *habiru*, significando su independencia del control egipcio, como se menciona en la *Carta de Rib-Adda* (carta del rey de Biblos dirigida a Akenatón).
 
-- **VIII a.C.**: conquista asiria del R. de Israel con capital en Samaría. Época del profeta Isaías (protoisaías). 
+[Habiru](https://pt.wikipedia.org/wiki/Habiru): independientes de Egipto → Liberación del Imperio Nuevo egipcio.
 
+### Siglo VIII a.C.
+- **Conquista asiria del Reino de Israel**: La capital Samaría cae ante los asirios. Esta época coincide con la vida del profeta Isaías (época del Protoisaías).
 
-- **VI a.C.**: Nabucodonosor de Babilonia conquista Jerusalén (Judá) y exilia a decenas de miles de habitantes, sobre todo de la casta sacerdotal/aristocrática. Época de Jeremías y Ezequiel, deuteroisaías, historia deuteronomista. 
+### Siglo VI a.C.
+- **Conquista babilónica de Jerusalén**: Nabucodonosor de Babilonia subyuga Jerusalén (Judá) y lleva a cabo el exilio de decenas de miles de habitantes, especialmente la casta sacerdotal y aristocrática. Profetas como Jeremías y Ezequiel. Época del Deuteroisaías y la creación de la Historia Deuteronomista.
 
+### Siglos V-IV a.C.
+- **Era Persa**: Tras la conquista de Babilonia por Ciro, Darío permite la reconstrucción del templo en Jerusalén. La élite retorna y elabora el Tetrateuco más Deuteronomio, formando la Torá. Teocracia sacerdotal, aún bajo dominio persa.
 
-- **V-IV a.C.**: Ciro conquista Babilonia. Darío otorga permiso para la reconstrucción del templo. Algunos vuelven, otros se quedan hasta el s. XX. La élite que reconstruye el templo es la que elabora el tetrateuco + el Dt = Torá. Teocracia sacerdotal bajo dominio persa. 
+### Siglos III-II a.C.
+- **Dominio helenístico**: Inicia la teocracia bajo la influencia helenística, marcada por la escritura de los ketuvim y el conflicto entre helenización y el movimiento hasidista.
 
+### 63 a.C.-70 d.C.
+- **Época Romana Inicial**: El territorio se convierte en la provincia romana de Siria, con una estructura de gobierno republicano. Herodes establece una monarquía y en el año 70 d.C. se produce la destrucción del Segundo Templo.
 
-- **III-II a.C.**: Teocracia bajo dominio helenístico: ketuvim; helenización vs. hasidismo. 
-
-
-- **63 a.C.-70 d.C.**: primera etapa romana. El territorio pasa a ser la provincia de Siria. Gobierno republicano. Instauración de la monarquía de Herodes. Destrucción del templo en el 70.
-  
-<div style="display: flex; align-items: center; float: left;">
-  <a href="../" title="Volver">
-    <i class="fas fa-arrow-left"></i>
+<div style="margin-top: 20px;">
+  <a href="../" title="Volver a la página anterior" style="text-decoration: none; color: #000;">
+    <i class="fas fa-arrow-left"></i> Volver
   </a>
 </div>
