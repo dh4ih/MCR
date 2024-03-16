@@ -2,31 +2,33 @@
 layout: default
 title: Tema 2.3.
 ---
+# 2.3. Rabinismo: Tanaj y Talmud (70-500)
+
 
 <style>
 .sidebar-index {
     border: 1px solid #ddd;
     background-color: #f9f9f9;
     padding: 10px;
-    margin-bottom: 20px;
-    float: left; /* or 'left', depending on where you want the box */
-    width: 20%;
+    margin: 20px auto; /* Centrar el índice */
+    width: 80%; /* O el ancho que prefieras */
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
 .sidebar-index h2 {
     font-size: 20px;
+    text-align: center; /* Centrar el título del índice */
     margin-top: 0;
 }
 
 .sidebar-index ul {
     list-style-type: none;
     padding: 0;
+    text-align: left; /* Alinea los elementos del índice a la izquierda */
 }
 
 .sidebar-index li {
     padding: 8px;
-    margin-bottom: 8px;
     background-color: #f1f1f1;
     border: 1px solid #ddd;
 }
@@ -72,8 +74,6 @@ title: Tema 2.3.
         <li><a href="#antijudaísmo-constantino-306-337-y-los-judíos">Antijudaísmo: Constantino (306-337) y los judíos</a></li>
     </ul>
 </div>
-
-# 2.3. Rabinismo: Tanaj y Talmud (70-500)
 
 
 ## La Primera Guerra Judía (66-73)
