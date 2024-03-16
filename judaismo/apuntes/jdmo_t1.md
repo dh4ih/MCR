@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tema 1
+title: Antigo Israel
 ---
 
 **Índice**
@@ -12,7 +12,7 @@ title: Tema 1
     - [**Huqqat, mitzvá, torah**](#huqqat-mitzvá-torah)
     - [**Rituales**](#rituales)
     - [**Fiestas**](#fiestas)
-      - [De peregrinación: función nacional, vinculación con Jerusalén, crea un vínculo de comunidad.](#de-peregrinación-función-nacional-vinculación-con-jerusalén-crea-un-vínculo-de-comunidad)
+      - [**De peregrinación: función nacional, vinculación con Jerusalén, crea un vínculo de comunidad.**](#de-peregrinación-función-nacional-vinculación-con-jerusalén-crea-un-vínculo-de-comunidad)
       - [**Fiestas austeras: porque ya no son tan *de celebrar*.**](#fiestas-austeras-porque-ya-no-son-tan-de-celebrar)
     - [**Ritos de purificación**](#ritos-de-purificación)
     - [**Ritos de paso**](#ritos-de-paso)

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tema 2
+title: Helenismo e Talmude
 ---
 
 # Tema 2: De la época helenística al judaísmo clásico de la Misná y el Talmud.

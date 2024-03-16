@@ -3,6 +3,76 @@ layout: default
 title: Tema 2.3.
 ---
 
+<style>
+.sidebar-index {
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 20px;
+    float: left; /* or 'left', depending on where you want the box */
+    width: 20%;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+.sidebar-index h2 {
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.sidebar-index ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar-index li {
+    padding: 8px;
+    margin-bottom: 8px;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+}
+
+.sidebar-index li:hover {
+    background-color: #ddd;
+}
+</style>
+
+<div class="sidebar-index">
+    <h2>Índice</h2>
+    <ul>
+        <li><a href="#23-rabinismo-tanaj-y-talmud-70-500">2.3. Rabinismo: Tanaj y Talmud (70-500)</a></li>
+        <li><a href="#la-primera-guerra-judía-66-73">La Primera Guerra Judía (66-73)</a></li>
+        <li><a href="#el-sanedrín-de-yamnia-y-el-cierre-del-tanaj">El sanedrín de Yamnia y el cierre del Tanaj</a>
+            <ul>
+                <li><a href="#simón-i-ben-gamaliel">**Simón I ben Gamaliel**</a></li>
+                <li><a href="#gamaliel-ii-90-100-una-figura-central-en-el-judaísmo">**Gamaliel II (90-100): Una Figura Central en el Judaísmo**</a></li>
+            </ul>
+        </li>
+        <li><a href="#la-segunda-guerra-judía">La Segunda Guerra Judía</a></li>
+        <li><a href="#rabí-áqiba-y-la-pre-cábala">Rabí Áqiba y la pre-Cábala</a>
+            <ul>
+                <li><a href="#discípulos-y-obras-de-akiva">Discípulos y Obras de Akiva</a></li>
+                <li><a href="#influencias-neoplatónicas-y-neopitagóricas">Influencias Neoplatónicas y Neopitagóricas</a></li>
+                <li><a href="#legado-y-significado">Legado y Significado</a></li>
+            </ul>
+        </li>
+        <li><a href="#yehudá-ha-nasí-y-la-misná">Yehudá ha Nasí y la Misná</a>
+            <ul>
+                <li><a href="#simón-ben-gamaliel-ii-135-165">**Simón Ben Gamaliel II (135-165)**</a></li>
+                <li><a href="#yehudá-ben-simón-165-219">**Yehudá Ben Simón (165-219)**</a></li>
+            </ul>
+        </li>
+        <li><a href="#romanización-de-judea-y-galilea-en-el-siglo-ii">Romanización de Judea y Galilea en el siglo II</a></li>
+        <li><a href="#romanización-de-los-judíos-de-la-diáspora-y-judaización-de-roma">Romanización de los judíos de la Diáspora y judaización de Roma</a>
+            <ul>
+                <li><a href="#fenómeno-de-judaización-de-roma">Fenómeno de judaización de Roma:</a></li>
+            </ul>
+        </li>
+        <li><a href="#áreas-cristianizadas-hacia-el-año-300">Áreas Cristianizadas hacia el año 300</a></li>
+        <li><a href="#el-judaísmo-de-los-amoraím">El judaísmo de los Amoraím</a></li>
+        <li><a href="#antijudaísmo-constantino-306-337-y-los-judíos">Antijudaísmo: Constantino (306-337) y los judíos</a></li>
+    </ul>
+</div>
+
 # 2.3. Rabinismo: Tanaj y Talmud (70-500)
 
 
@@ -156,13 +226,12 @@ Conocido también como ha-Nasí (el presidente, caudillo, dirigente, jefe), ha-K
 * **Yehamot (Cuñadas)**: Matrimonio levirato para proteger a las viudas.
 * **Ketubot (Documento Matrimonial)**: Contratos matrimoniales, influenciados por la ley romana.
 * **Nedarim (Votos)**: Consagración y prohibición de bienes, y anulaciones de votos femeninos.
+* **Nazir (Nazireato)**: Voto de abstinencia y anulaciones femeninas, con implicaciones en la historia cristiana. Cf. Debate Jesús Nazareno por Nazaret o por Nazir.
 
----
-CLASE 5: 57:20
+```
+No hay ningún texto ni resto arqueológico que demuestre la existencia de Nazaret antes de era cristiana. Es normal, los restos arqueológicos son del siglo II...
+```
 
----
-
-* **Nazir (Nazireato)**: Voto de abstinencia y anulaciones femeninas, con implicaciones en la historia cristiana.
 * **Sotá (Sospechosa Adúltera)**: Rito de aguas amargas y uso de la lengua hebrea.
 * **Guittin (Documento de Divorcio)**: Normas sobre el divorcio y repudio.
 * **Kidushin (Esponsales)**: Contrato prematrimonial.
@@ -176,10 +245,77 @@ CLASE 5: 57:20
 **f. Taharot (Purezas)**:
    - Trata de las leyes de pureza e impureza, incluyendo las leyes de pureza ritual.
 
-### Conclusión
 
-La era de Simón Ben Gamaliel II y Yehudá Ben Simón fue vital en la historia del judaísmo. Sus contribuciones, especialmente la redacción de la Misná por Yehudá, establecieron la base de la ley y práctica judía, consolidando la estructura legal, fiscal y social del judaísmo rabínico.
-Los tratados de la Misná redactados por Yehudá Ben Simón son fundamentales en la comprensión del judaísmo rabínico. Ofrecen una visión detallada de la ley, la ética, las prácticas y la estructura social de la comunidad judía, y continúan siendo una base vital para la ley judía en la actualidad.
+## Romanización de Judea y Galilea en el siglo II
+
+Pedro criticó la idea de una intensa romanización de Galilea en tiempos de Jesús, señalando que la verdadera romanización ocurrió en el siglo II bajo Adriano. Adriano, conocido por sus habilidades urbanísticas, transformó Séforis y Jerusalén en ciudades mercantiles. Este desarrollo incluyó calles porticadas, las cuales cumplían una función estética y práctica al facilitar el movimiento de mercado. 
+
+Esta época se caracteriza también por la presencia de mosaicos tanto en viviendas privadas como en sinagogas judías, lo cual es notable considerando la larga tradición de aniconismo judío. Aunque el mosaico no fue completamente prohibido por la ley judía, su adopción muestra una notable influencia romana.
+
+## Romanización de los judíos de la Diáspora y judaización de Roma
+
+Este fenómeno fue incluso más significativo que la romanización en Galilea. Por todo el Mediterráneo, y en especial en Roma, la presencia judía se hizo prominente, especialmente tras las tres guerras y la conquista de Pompeyo en el 63 a.C., que resultó en la venta de miles de judíos como esclavos.
+
+En Roma, donde había múltiples sinagogas, la presencia judía era importante. La mayoría de los textos judíos en la ciudad (epígrafes, lápidas) estaban en griego, con algunos en latín y muy pocos en hebreo, reflejando un alto grado de helenización y romanización entre los judíos, especialmente aquellos de regiones como Asia, Éfeso, Pérgamo y Mileto.
+
+### Fenómeno de judaización de Roma:
+
+Las clases inferiores romanas mostraban simpatía hacia los judíos, un pueblo de esclavos liberados que resistía culturalmente a la dominante aristocracia. Esta simpatía a menudo llevaba a conversiones, fenómeno notado por personalidades como Séneca, quien se quejó de que todos celebraban el sábado en la época de Nerón.
+
+Esta "judaización" de Roma no consistía solamente en la adopción de prácticas religiosas judías, sino también en una identificación con la legislación social judía, que difería notablemente de la romana. Personajes notables de la época, como Popea (esposa de Nerón), Flavio Clemente (ejecutado por Domiciano) o su mujer [Domitila](https://pt.wikipedia.org/wiki/Catacumba_de_Domitila), son ejemplos de esta influencia. O sea que incluso dentro de la corte imperial, se observó un proceso de judaización o cristianización, ya que la cristianización, en el fondo, es una judaización. Los primeros escritores romanos que hablan del cristianismo hablan de que se está difundiendo una ***superstitio* judía**.
+
+```
+Superstitio: cualquier culto extranjero de pueblos que no sean romanos.
+```
+
+## Áreas Cristianizadas hacia el año 300
+
+![Áreas cristianizadas](../../materiales/christian_areas.png)
+Las áreas oscurecidas en el mapa indican las regiones cristianizadas alrededor del año 300. Estas áreas coinciden en gran medida con lugares que tenían una significativa población judía. En particular, en Oriente, incluyen:
+
+- Siria-Palestina
+- Damasco
+- Antioquía
+- Chipre
+- Egipto
+- Parte de la provincia de Asia (con Éfeso como capital)
+- Algunos puntos de Grecia
+- Desde Roma hasta Nápoles, abarcando toda la Campania.
+
+Además, hay tres zonas importantes fuera de este núcleo oriental:
+
+- Cartago
+- La Bética
+- La actual Provenza (antiguamente conocida como la provincia de Septimania, en la Galia).
+
+La cristianización de tanto el norte de África como de la Bética puede estar influenciada por las guerras judeorromanas. Se menciona que la Décima Legión, que se asentó en Jerusalén tras la destrucción del templo, estaba compuesta en parte por soldados mauritanos e hispanos, lo que podría haber conducido a la venta de esclavos judíos en estos territorios, aunque esto es solo una hipótesis.
+
+La presencia judía en estos territorios en la antigüedad, especialmente en los siglos II y III, es un hecho constatado. La presencia judía en otros lugares fue más tardía. Por lo tanto, no es sorprendente que las ciudades más cristianizadas fueran también los lugares donde se establecieron los primeros obispados.
+
+## El judaísmo de los Amoraím
+
+En el siglo III, después de Yehudá Ha Nasí, Gamaliel III trasladó el Sanedrín a Tiberíades, marcando el inicio de su importancia como centro del judaísmo talmúdico que se mantendría durante toda la antigüedad y los primeros siglos de la Edad Media, incluso tras la llegada de los musulmanes. Tiberíades, manteniendo su estatus de ciudad relevante del antiguo reino de Israel, se convirtió en un centro destacado para el judaísmo, con la presencia de un Sanedrín y diversas escuelas.
+
+Actualmente, Tiberíades sigue siendo una ciudad significativa para la cultura judía, reconocida por sus monumentos dedicados a sabios judíos de la antigüedad y del siglo XVI. Durante este último periodo, muchos sabios judíos, trasladándose de Sefarad a Galilea, establecieron escuelas cabalísticas que promovieron la difusión de la Cábala por Oriente.
+
+Por otro lado, uno de los discípulos de Yehudá Ha Nasí, **Rav**, regresó a su tierra natal, Babilonia, llevando consigo la Misná. Desde el siglo V a.C., Babilonia albergaba una numerosa comunidad judía. Rav fundó una **academia en la ciudad de Sura**, convirtiéndola en un centro de difusión del judaísmo misnaico. Es relevante notar que el judaísmo en Mesopotamia probablemente mantenía fuertes conexiones con el judaísmo del Segundo Templo, aunque la información sobre los judíos en Babilonia durante los siglos I y II es limitada.
+
+En la segunda generación de los **Amoraím** (250-290), Johanán bar Nafja, director del Sanedrín de Tiberíades, redactó la mayor parte de la Guemará Palestina, componente que, junto con la Misná, forma el Talmud. Para finales del siglo III, el Talmud de Palestina, también conocido como Talmud de Jerusalén (aunque Jerusalén no pinta nada aquí porque era una ciudad politeísta, Ennia Capitolina), estaba ya formado. En esta misma época, también se escribió la Toseftá en Tiberíades, Galilea. La Toseftá, compilada por Hiyya bar Abba (*hijo del padre*, como Barrabás, es una especie de título honorífico), no forma parte del Talmud sino que se desarrolla paralelamente. Son otro tipo de comentarios con más **hagadá** (narraciones explicativas) que **halaká** (comentario jurídico).
+
+En la cuarta generación (320-350) tenemos a **Hilel II**, crador del actual calendario hebreo. El calendario que tenemos en la Biblia remitía a 4000 años antes de la Hanukká (la liberación del templo por Judas Macabeo). En cambio, con el ajuste que hace Hilel II del cómputo de los años y la compatibilidad de los calendarios lunar y solar se queda el calendario actual judío.
+
+En las sexta y séptima, IV y V: **Guemará de Babilonia** por Rav Ashi (terminada por Ravina II). Esta Guemará, más tardía, es menos acercada a los textos pero más completa, exhaustiva. Comenta muchos más tratados que la de Palestina. Por este motivo y otros (relacionados con la historia de los judíos en la E. M.), el Talmud de Babilonia se difundirá mucho más que el de Palestina.
+
+## Antijudaísmo: Constantino (306-337) y los judíos
+
+Antes de la era de Constantino, no existía un antijudaísmo estatal. Aunque algunos autores criticaban a los judíos, lo hacían en el mismo tono que criticaban a los egipcios y otros pueblos. Sin embargo, con el triunfo del cristianismo, comenzó a surgir una legislación antijudía oficial, promovida por ciertos padres de la iglesia y obispos importantes, lo que llevó a la propagación de un antijudaísmo significativo y finalmente a la persecución de los judíos.
+
+En la legislación de Constantino, específicamente en el Código Teodosiano (C.T. 16, 8, 1), se prohíbe la lapidación de los judíos conversos al cristianismo, bajo pena de hoguera. Esta ley estaba dirigida contra las autoridades judías de las sinagogas que ordenaban la lapidación de los judíos convertidos al cristianismo, protegiendo así a los conversos cristianos y limitando la autonomía judicial judía.
+
+Por otro lado, en el C.T. 16, 8, 2-4, se otorgan exenciones fiscales a ancianos judíos, sacerdotes y archisinagogos entre los años 321 y 331, un privilegio similar al concedido a los cristianos, que beneficiaba a los altos cargos de la comunidad judía.
+
+Finalmente, en el C.T. 19, 9, 1, una ley del año 336 ordena la liberación de los esclavos no judíos que fueran circuncidados por amos judíos, permitiendo que estos se conviertan en libertos y limitando así la judaización. De esta manera, en la época de Constantino, las leyes muestran tres enfoques distintos: la protección de los cristianos frente a los judíos, la concesión de privilegios a las autoridades judías y la limitación del proselitismo judío.
+
 
 ---
 
