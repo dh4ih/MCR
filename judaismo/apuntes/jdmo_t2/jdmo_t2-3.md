@@ -45,8 +45,8 @@ title: Tema 2.3.
         <li><a href="#la-primera-guerra-judía-66-73">La Primera Guerra Judía (66-73)</a></li>
         <li><a href="#el-sanedrín-de-yamnia-y-el-cierre-del-tanaj">El sanedrín de Yamnia y el cierre del Tanaj</a>
             <ul>
-                <li><a href="#simón-i-ben-gamaliel">**Simón I ben Gamaliel**</a></li>
-                <li><a href="#gamaliel-ii-90-100-una-figura-central-en-el-judaísmo">**Gamaliel II (90-100): Una Figura Central en el Judaísmo**</a></li>
+                <li><a href="#simón-i-ben-gamaliel">Simón I ben Gamaliel</a></li>
+                <li><a href="#gamaliel-ii-90-100-una-figura-central-en-el-judaísmo">Gamaliel II (90-100): Una Figura Central en el Judaísmo</a></li>
             </ul>
         </li>
         <li><a href="#la-segunda-guerra-judía">La Segunda Guerra Judía</a></li>
@@ -59,8 +59,8 @@ title: Tema 2.3.
         </li>
         <li><a href="#yehudá-ha-nasí-y-la-misná">Yehudá ha Nasí y la Misná</a>
             <ul>
-                <li><a href="#simón-ben-gamaliel-ii-135-165">**Simón Ben Gamaliel II (135-165)**</a></li>
-                <li><a href="#yehudá-ben-simón-165-219">**Yehudá Ben Simón (165-219)**</a></li>
+                <li><a href="#simón-ben-gamaliel-ii-135-165">Simón Ben Gamaliel II (135-165)</a></li>
+                <li><a href="#yehudá-ben-simón-165-219">Yehudá Ben Simón (165-219)</a></li>
             </ul>
         </li>
         <li><a href="#romanización-de-judea-y-galilea-en-el-siglo-ii">Romanización de Judea y Galilea en el siglo II</a></li>
@@ -315,6 +315,12 @@ En la legislación de Constantino, específicamente en el Código Teodosiano (C.
 Por otro lado, en el C.T. 16, 8, 2-4, se otorgan exenciones fiscales a ancianos judíos, sacerdotes y archisinagogos entre los años 321 y 331, un privilegio similar al concedido a los cristianos, que beneficiaba a los altos cargos de la comunidad judía.
 
 Finalmente, en el C.T. 19, 9, 1, una ley del año 336 ordena la liberación de los esclavos no judíos que fueran circuncidados por amos judíos, permitiendo que estos se conviertan en libertos y limitando así la judaización. De esta manera, en la época de Constantino, las leyes muestran tres enfoques distintos: la protección de los cristianos frente a los judíos, la concesión de privilegios a las autoridades judías y la limitación del proselitismo judío.
+
+Los hijos de Constantino sí que empiezan a legislar con leyes antijudías (339):
+
+- Prohibición de poseer esclavos cristianos o gentiles y de convertir o desposar mujeres cristianas (C.T. 16, 9, 2 y C.T. 16, 18, 6).
+- Rebelión de Isaías de Séforis y su mesías Natrona contra Constancio Galo en 351.
+- Confiscación de bienes al que se convierta al judaísmo en 352 (C.T. 16, 18, 7)
 
 
 ---
