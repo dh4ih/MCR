@@ -162,6 +162,31 @@ El reino de Mar Zutra, creado en MP entre el 615 y 620. La presencia de judíos 
 
 Al norte de MP, en las montañas que separan Mesopotamia de Europa, llegó, en el 625, Tziebel, el Gran Kan de los jázaros, un pueblo de raíz túrquica, asiático, como los habitantes de Turkmenistán. Este Gran Kan ayudó a Heraclio, emperador de Bizancio, contra los persas. Incluso se le prometió la mano de la hija del emperador pero no llegó a aliarse demasiado con ellos porque poco después llegan los árabes e invaden todo el territorio de MP y llegan a la frontera con los jázaros q es el cáucaso norte. Ahí es la guerras jázaro-árabes. Los árabes querían continuar su expansión pero los jázaros frenan la expansión musulmana en esa zona del cáucaso. Primera guerra jázaro-árabe 642-652. HAcia el 690, después de la primera guerra j-a, consta que habían ocupado crimea expulsando a los godos. Actualmente, la península de Crimea en el conflicto entre Ucrania y Rusia, en la antigüedad fue ocupada por los godos, desde allí vinieron a Italia y Hispania. Se quedaron godos en crimea y ahora llegaban jázaros. En el 722 el emperador bizantino León III expulsó a los judíos. Esto es muy importante porque el Imperio Bizantino estaba lleno de judíos. En Antioquía, Ancara (Galatia), Grecia entera tuvo una gran población judía. Ahora son expulsados se irán al territorio musulmán, otros a occidente pero muchos se irán a jazaria, donde no solamente serán tolerados sino que durante la segunda guerra jázaro-árabe, entre los años (722-737), el Gran Kan Bulan (jázaro) Sabriel (hebreo) se convierte al judaísmo. Esto lo cuenta una carta de Hasdai del s. X que se escribió en Hispania, en Al-Ándalus. Esto tiene sus pruebas arqueológicas, en 2002 se encontró una moneda del 838 con la inscripción "Ard al-Khazar, Moisés es el profeta de Dios". Una de las hipótesis que hay de la conversión de los jázaros al judaísmo es que fueron judíos caraítas los que iniciaron la conversión de los jázaros al judaísmo, pero no se conoce mucho, no se han conservado fuentes jázaras escritas. Sí hay muchas árabes que hablan del reino de los jázaros y alguna fuente judía andalusí.
 
+650: Imperio Jázaro - La región entre el cáucaso y el mar de Azov, que separa el continente de la península de crimea y al este el mar caspio. 
+En el 750, el territorio de expansión corresponde a la zona entre crimea y el río Don, es decir, el Dombás. Lo que hoy corresponde con la zona de conflicto en disputa entre rusia y ucrania. 
+En el 850 la zona de expansión ya llega hasta el mar de aral, al este del caspio. y por el norte hasta el territorio de los búlgaros (del volga) que todavía hay musulmanes por ahí. Por el oeste llega hasta kiev.
+
+##### El Imperio Jázaro y los Rus de Kiev
+
+![Viaje a las tierras del frío. El itinerario de Ibn Fadlan](https://cdn1.despertaferro-ediciones.com/wp-content/uploads/2020/04/Ibn-Fadlan-Desperta-Ferro.jpg)
+
+Kiev, en 839, es arrebatada por los jázaros a los rus. Los rus no eran rusos, eran vikingos. Gentes del norte que habían llegado a esta región desde escandinavia. En el mapa se ven los movimientos de los rus desde escandinavia, zona del actual sanpetersburgo al sur de finlandia. Desde allí hacia el norte de moscú, luego kiev, fundan kiev y siguieron su expansión hacia el sur. Entran en contacto con los bizantinos, de hecho habrá matrimonios entre bizantinos y los rus de kiev. De hecho una emperatriz de kiev, Olga, será la que se conveirta al cristianismo y los rus entrarán en la órbita del cristianismo ortodoxo bizantino. 
+
+Los jázaron recuperan Kiev por unas décadas y vuelve a ser arrebatada por los rus en 920. 
+
+Luego la toma de Sarkel por los rus en 965.
+
+El príncipe Oleg, enviado preso a constantinopla por los jázaros en el 1079 y luego los bizantinos liberaron y apoyaron a oleg que venció a los jázaros en el 1083.
+
+Rus: cristianos ortodoxos.
+Jázaros: judíos.
+
+##### Invasión pechenega (ss. XI-XII)
+
+![Janatos pechenegos](https://upload.wikimedia.org/wikipedia/commons/7/77/Pechenegos_y_resto.png)
+
+Cuándo desaparece este imperio? Parece que luego de la derrota contra los rus llega otro pueblo del centro de asia los pechenegos. incorporan a los jázaros en u imperio. Era un pueblo nómada que duró poco tiempo y del que conocemos poco sobre su esturctura política. Es muy probable que suprimieran la monarquía jázara pero incorporaran a los jázaros en su alianza de tribus que van a llegar hasta bulgaria. 
+
 
 
 ---
