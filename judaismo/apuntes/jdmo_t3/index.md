@@ -187,6 +187,35 @@ Jázaros: judíos.
 
 Cuándo desaparece este imperio? Parece que luego de la derrota contra los rus llega otro pueblo del centro de asia los pechenegos. incorporan a los jázaros en u imperio. Era un pueblo nómada que duró poco tiempo y del que conocemos poco sobre su esturctura política. Es muy probable que suprimieran la monarquía jázara pero incorporaran a los jázaros en su alianza de tribus que van a llegar hasta bulgaria. 
 
+Una curiosidad del mapa es que al sur del territorio azul están los alanos. Que llegan a eHispania junto con los suevos y vándalos que eran germanos. Los alanos eran un pueblo del cáucaso, todavía hoy existen. El territorio donde viven hoy es Osetia y ellos, los osetas, son considerados los últimos descendientes de los alanos y los sármatas. Osetia del norte pertenece a Rusia, del sur pertenecía a Georgia y hoy día los rusos han invadido osetia del sur. Estos dos territoriso proyectan unirse en un estado que se va a llamar de nuevo Alania. Los alanos tienen una lengua propia (pedro dice que encontraron parentescos con el euskera xd, también dice que no son indoeuropeos pero sí que lo son).
+
+##### Invasiones cumana y mongol (ss. XII-XIII)
+
+En 1121 aparecen los cumanos ayudando a Georgia contra el islam. En 1200 los cumanos crean el Kanato de Kipchak, nombre que luego los mongoles cuando lo conquistan lo mantienen.
+
+Gengis Khan derrota a los cumanos en 1222 y crea el Imperio Mongol y llegó incluso hasta kiev en 1238. Ese imperio también estará integrando a Jázaros y alanos en el kanato de kipchak. Parece que los mongoles fueron muy intolerantes en cuestiones religiosas contra los jázaros. Eran politeístas, persiguen a los monoteístas en los territorios ocupados, tanto a los judíos y cristianos. Con los musulmanes, hay una conversión de grandes líderes mongoles al islam, probablemente (según Pedro) porque interesaba para dominar esos territorios de irán, el cáucaso, muy poblados. El sultanato de Delhi en India será un sultanato mongol islámico. En la región del Dombás también hay conversiones pero reducidas. En la parte oriental del imperio mongol el camino irá por adoptar costumbres y religión china.
+
+![Imperio Mongol en el s. XIII](https://mundoantiguo.net/wp-content/uploads/2017/09/mapa-del-imperio-mongol.gif)
+
+##### Polonia (ss. XIII-XIV)
+
+En el 1264, es decir, durante la dominación mongola del territorio de los Jázaros, el Duque Boleslao el Piadoso de Polonia promulgó el Estatuto de Kalisz. Polonia era un territorio que había tenido su reino, su ducado, estuvo bailando. nunca cayó entero en manos del imperio germánico en la EM pero tuvo sus fragmentaciones enter distintos miembros de la dinastía. Este promulgó este estatuto que concedía a los judíos: libertad, igualdad ante la ley y autonomía jurisdiccional. Como el πολίτευμα del mundo helenístico con una mejora: igualdad ante la ley. No solamente tiene el πολίτευμα iunterno en sus comunidades sino igualdad total ante la ley. Esto no ocurría en ningún territorio del mundo en la época:
+
+- Ya no existía el reino judío de los jázaros
+- En el islam están sometidos a tributos especiales y a la ley islámica en caso de conflicto con un musulmán
+- En el mundo cristiano peor todavía: prohibiciones e todos los colores, como prohibiciones de desempeñar determinados oficios.
+
+Por qué hace esto Boleslao? POrque atrae población judía de otros territorios que van a crear riqueza en Polonia, un territorio agreste, poco urbano, muy rural. Empiezan a crecer ciudades donde hay intercambio comercial entre occidente (alemania par alos polacos) y oriente (los territorios de los rus y de los mongoles). Empiezan a llegar judíos de todas partes, también de alemania. Los sionistas piensan que todos los que llegan son alemanes porque tienen esa manía de que los judíos no vienen de otra raza. La realidad es que llegaron mcuhos más de oriente porque están perseguidos por los mongoles y encuentran un territorio donde hay más libertad y posibilidades de prosperidad.
+
+Se ven varios principados, el de Vladimir, el de Galitzia, también están los prusianos que habían creado un estado en aquella región del norte (hoy rusia, kaliningrado,pero durante muchos años alemana: prusia oriental) y un estado que era lituania. hata este momento, 1385 es un etado politeísta: siguen adorando a los dioses antiguos del mundo eslavo y no son cristianos. Firman un tratado polonia y lituania por el que el católico Ladislao gobernaría polonia y su primo el pagano Vitautas gobernaría lituania. Pero que a la muerte de ellos se decide que haya una única dinastía que gobierne ambos y que estén unidos como una confederación sin unión total bajo una única capital etc.
+
+##### Lituania (XIV)
+
+![Lituania siglos XII-XV](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LithuanianHistory-es.svg/800px-LithuanianHistory-es.svg.png)
+
+En 1398 el Gran Duque Vitautas llegó hasta la frontera con el kanato de Crimea, abajo en el sudeste. El canato de Crimea, sucesor del de Kipchak, que se queda sólo con la región de Crimea-Dombás. Ese estado mongol y jázaro musulmán con una gran población judía. El duque Vitautas deporta a miles de caraítas de lengua turca y se los lleva a la región principal de lituania al lado de vilna y puebla Trakai con esta población judía. El canato de crimea y la horda de oro están conectados, procede de la horda de oro pero ya no es la horda de oro.
+
+Ladislao otorgó a Vilna los fueros de Cracovia y Vitautas a los judíos de Trakai los privilegios del Estatuto de Klas. Es decir, lituania comienza a polonizarse en el sentido de política étnica, de tolerancia hacia los judíos del territorio. Va a ser tan próspera la comunidad de Trakai como la de Varsovia. Esto hace que la migración de judíos desde Crimea aumente.
 
 
 ---
