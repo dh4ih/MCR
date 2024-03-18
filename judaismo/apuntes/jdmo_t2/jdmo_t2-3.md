@@ -333,6 +333,26 @@ A finales del siglo IV, la situación de los judíos se agrava aún más:
 - En 388, el matrimonio entre judíos y cristianos es considerado adulterio, un delito que en la tradición bíblica podría ser castigado con la muerte. En el mundo cristiano, no en el romano, se podía matar a una mujer por adulterio. De hecho, la última ejecución por adulterio en Sevilla fue en el siglo XVII. Este año (388) también se destaca por la prohibición de realizar debates públicos sobre religión y por el incidente del incendio de la sinagoga de [Calínico](https://repositorio.unican.es/xmlui/bitstream/handle/10902/26393/Rodr%C3%ADguezTer%C3%A1nFrancisco.pdf?sequence=1): tras el incendio provocado por el pueblo cristiano Teodosio ordena reconstruir la sinagoga pero Ambrosio de Milán, uno de los obispos más influyentes del Imperio Romano Occidental, se opone a esta medida y presiona a Teodosio para eximir al obispo responsable del acto. Finalmente, Teodosio cede ante la presión y termina pidiendo perdón a Ambrosio, evidenciando la influencia de la iglesia en las decisiones imperiales y la creciente hostilidad hacia los judíos.
 
 - En 393 decretó de nuevo la prohibición de asaltar sinagogas.
+
+## Antijudaísmo en la Tardoantigüedad
+
+**San Ambrosio** es uno de los padres de la Iglesia que desarrolla un antijudaismo más fuerte. Como él lo hará también su discípulo **San Agustín**. Cuando llegó a roma era maniqueo y antes fue neoplatónico.
+En oriente, **Juan Crisóstomo**, un antioqueno (de Siria) que también escribiría un tratado entero contra los judíos.
+
+Aquí se desarrolla la literatura antijudía cristiana. El antijudaísmo va a crecer a partir de este momento.
+
+El IROccidente, todo esto continúa hasta la llegada de los bárbaros (406-476). Con la llegada de los visigodos a Hispania se endurece el anijudaísmo. Los cocncilios de Toledo van a ser muy antijudíos y se establece una legislación dura contra ellos. 
+
+Peor era la situación en Bizancio, donde el emperador Teodosio II retiró al Patriarca Gamaliel VI el título de Prefecto Honorario en 415 y a su muerte en 425 suprimió el patriarcado e incorporó el didracma a la fiscalidad bizantina. Justiniano (527-565) prohibió las reuniones del sanedrín y el uso del hebreo. Finalmente, en ya entrada la edad media, en el siglo VII, serán expulsados todos los judíos de Bizancio.
+
+## Conclusiones sobre la Edad Antigua
+
+- En este período se forma el judaísmo tal como lo conocemos, tanto por sus creencias (basadas en el Tanak, el Talmud y, para los iniciados, el Libro de la Formación), como por su calendario de fiestas y los ritos de la sinagoga.
+- Desaparece la pluralidad filosófica en beneficio de un pensamiento único religioso. Vimos como con la _Birkat haMinim_ se tiende a suprimir la pluralidad de ideas.
+- A finales de este período surge la palabra "Yahadut", actualmente traducida como "judaísmo" o "religión judía", pero que al principio significaba más bien "judaidad", cualidad de judío, y sólo a partir del siglo XV "religión". Estamos ya ante un judaísmo que utiliza nuevos términos para definir lo que es judío y lo que no (a partir del s. XV este término se traducirá por "religión judía"). Algo que no está claramente definido en este momento: que haya un concepto de religión judía como lo que define al judío, sino que había múltiples aspectos: religión, lo político, lo social, la economía, la cultura en general. Múltiples que lo convierten en un grupo étnico. Todavía no puede considerarse que los judíos se definen exclusivamente en términos religiosos.
+- Aunque se convierten en una minoría étnica, nunca desaparece su definición como pueblo ni su conexión espiritual con el territorio. Todavía, cuando dos judíos se despiden, se encuentran en un camino, lo hacen con la frase "el año que vienen en Jerusalén".
+- A finales de la Antigüedad, el cristianismo profesa el antijudaísmo.
+ 
 ---
 
 <div style="display: flex; align-items: center; float: left;">
