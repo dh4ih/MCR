@@ -112,11 +112,17 @@ El oficio del viernes, los musulmanes tienen este día como sagrado. En realidad
 
 El azaque, las abluciones, las limosnas, el concepto de pureza... Los musulmanes cuando van a la mezquita tienen que ir a la fuente de las abluciones y mojarse partes del cuerpo determinadas, como un ritual simbólico de limpieza, un concepto muy bautismal. En alguna vida de Mahoma se dice que fue **sabeo** (para Pedro quizá de alguna corriente bautista, quizá cercana a los elcesaítas, que son judeocristianos) antes de recibir la revelación. Esto también es una influencia: el concepto de pureza para los musulmanes es más fuerte que para los cristianos.
 
-El ayuno de la shura (una fiesta vinculada a la muerte de Alí, el primo y yerno de Mahoma). Se celebra el mismo día que el Yom Kippur, el día 10 del primer mes del año (ahora los meses son distintos).
+El ayuno de la Ashura (una fiesta vinculada a la muerte de Alí, el primo y yerno de Mahoma). Se celebra el mismo día que el Yom Kippur, el día 10 del primer mes del año (ahora los calendarios son distintos: judíos solar-lunar, musulmán: lunar).
+
+¿Casualmente murió Alí ese día o más bien los primeros musulmanes celebraban este ayuno igual que los judíos y en el futuro, mucho tiempo después de la muerte de alí, los chiítas reivindicaron que ese día había muerto Alí y que por eso estaban celebrando ese ayuno?
+
+Ocurre como con el nacimiento de Jesús: lo ponemos el 24/25 de diciembre y así suplantamos el culto al dios Sol.
+
+El ayuno de Ramadán también coincide con el del mes judío de Tammuz, el sacrificio del cordero que se realiza al final del ayuno de Rmadán es similar al que se establece en Levítico 16. El ritual es muy similar.
 
 
 
 ---
 <div style="display: flex; align-items: center; float: left;">
-<a href="https://moronbandin.github.io/mcr/judaismo/">&#8592;Volver</a>
+<a href="../">&#8592;Volver</a>
 </div>
