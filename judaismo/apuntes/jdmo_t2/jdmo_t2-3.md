@@ -319,13 +319,20 @@ Finalmente, en el C.T. 19, 9, 1, una ley del año 336 ordena la liberación de l
 Los hijos de Constantino sí que empiezan a legislar con leyes antijudías (339):
 
 - Prohibición de poseer esclavos cristianos o gentiles y de convertir o desposar mujeres cristianas (C.T. 16, 9, 2 y C.T. 16, 18, 6).
-- Rebelión de Isaías de Séforis y su mesías Natrona contra Constancio Galo en 351.
+- Aquí se produce una pequeña revuelta judía: Rebelión de Isaías de Séforis y su mesías Natrona contra Constancio Galo (hermano de Juliano el Apóstata) en 351.
 - Confiscación de bienes al que se convierta al judaísmo en 352 (C.T. 16, 18, 7)
 
-   
+## Antijudaísmo de Teodosio (378-392)
 
-`Clase 6 1:15:00`, `(recording 5)`
+A finales del siglo IV, la situación de los judíos se agrava aún más:
 
+- En 383, una ley exige que todo líder judío, al igual que los sacerdotes cristianos, debe nombrar un sustituto para sus funciones decurionales, revocando así las exenciones fiscales previamente concedidas por Constantino. Esto implicaba que debían asegurar la continuidad de las obligaciones fiscales, llegando incluso a asumirlas con sus propios bienes debido a la ruralización del Imperio y la crisis económica, que causaba una huída generalizada de las responsabilidades fiscales.
+
+- En 384, se prohíbe a los judíos poseer esclavos cristianos y convertir a cristianos al judaísmo. Esta ley reitera prohibiciones anteriores, posiblemente en respuesta a las políticas más liberales de Juliano el Apóstata, quien había prometido reconstruir el templo de Jerusalén y era conocido por su postura anticristiana (de hecho prometió reconstruir el Templo de Jerusalén porque era anticristiano o, como decía él, "antigalileo").
+
+- En 388, el matrimonio entre judíos y cristianos es considerado adulterio, un delito que en la tradición bíblica podría ser castigado con la muerte. En el mundo cristiano, no en el romano, se podía matar a una mujer por adulterio. De hecho, la última ejecución por adulterio en Sevilla fue en el siglo XVII. Este año (388) también se destaca por la prohibición de realizar debates públicos sobre religión y por el incidente del incendio de la sinagoga de [Calínico](https://repositorio.unican.es/xmlui/bitstream/handle/10902/26393/Rodr%C3%ADguezTer%C3%A1nFrancisco.pdf?sequence=1): tras el incendio provocado por el pueblo cristiano Teodosio ordena reconstruir la sinagoga pero Ambrosio de Milán, uno de los obispos más influyentes del Imperio Romano Occidental, se opone a esta medida y presiona a Teodosio para eximir al obispo responsable del acto. Finalmente, Teodosio cede ante la presión y termina pidiendo perdón a Ambrosio, evidenciando la influencia de la iglesia en las decisiones imperiales y la creciente hostilidad hacia los judíos.
+
+- En 393 decretó de nuevo la prohibición de asaltar sinagogas.
 ---
 
 <div style="display: flex; align-items: center; float: left;">
