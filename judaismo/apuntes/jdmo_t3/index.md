@@ -84,11 +84,23 @@ Este Mazdak mezcla una versión del maniqueísmo muy comunistarista, ascética: 
 
 ![Reino de Adiabene](https://upload.wikimedia.org/wikipedia/commons/9/91/Adiabene.JPG)
 
-Judíos en el imperio persa había muchos. Desde el antiguo exilio en Babilonia, toda la región peribabilónica estará llena de comunidades judías. Pero también en el norte de mesopotamia, en la antiguedad estuvo el reino de Adiabene, de la reina Elena, 
-  
+Judíos en el imperio persa había muchos. Desde el antiguo exilio en Babilonia, toda la región peribabilónica estará llena de comunidades judías. Pero también en el norte de mesopotamia, en la antiguedad estuvo el reino de Adiabene, de la reina Elena, que se convirtió al judaísmo (zona del Kurdistán). Ahí sigue habiendo judíos aunque Trajano destruyera ese reino ya en la guerra de conquista de Mesopotamia.
+
+La rebelión de Mar Zutra va a ser una rebelión importante en el 520 consiguió destruir ese estado independiente de Mar Zutra (que duró 5 años) en el territorio entre la Mesopotamia babilónica y la septentrional. Poco después, Kavad I ejecutó a Mazdak y volvió al zoroastrismo oficial (fue un episodio religioso transitorio en el mundo iraní).
+
+![Tumba de Mar Zutra](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%D7%A7%D7%91%D7%A8_%D7%9E%D7%A8_%D7%96%D7%95%D7%98%D7%A8%D7%90_%D7%91%D7%91%D7%A8%D7%A2%D7%9D.jpg/1920px-%D7%A7%D7%91%D7%A8_%D7%9E%D7%A8_%D7%96%D7%95%D7%98%D7%A8%D7%90_%D7%91%D7%91%D7%A8%D7%A2%D7%9D.jpg)
+
 - En 520 Kavad I destruyó el Estado judío de Mar Zutra y ene 529 ejecutó a Mazdak y volvió al zoroastrismo oficial.
-- En 591 los judíos apoyaron al rebelde Baram Cobin, por lo que Costores II suprimió el cargo de exilarca.
-- En 614
+- En 591 los judíos apoyaron al rebelde Baram Cobin (iraní), contra el sha Cosroes II. Él, como castigo, suprimió el cargo de exilarca (el gobernante judío en el exilio, un miembro de la familia de David). Zorobabel es el último rey de la dinastía de David que vive en Mesopotamia que es coronado rey y gobernador de Jerusalén bajo las órdenes del Imperio Persa (rey de reyes) y de él descendía jesús. Pero otros miembros de la dinastía de David quedaron en Babilonia y allí siguieron ejerciendo cargos importantes entre los judíos de mesopotamia entre los imperios de los partos y los persas sasánidas tras alejandro. Del período de los partos tenemos pocas fuentes que hablen de judíos, en cambio, en este momento sabemos que existía ese cargo de exilarca que ejercía el poder sobre toda la comunidad judía de MP. Cosroes lo suprime. Su mala relación con los judíos se corrige en 614:
+
+- Los judíos de MP y Galilea (En jerusalén no había judíos porque cuando Adriano construyó Ennia Capitolina prohibió la entrada de judíos y personas circundidadas y los judíos se habían ido a refugiar a galilea donde Yehudá Ha Nasí creó el nuevo sanhedrín de la Mishná y demás y Galilea era la tierra dentro de Palestina donde había mayoría de judíos). - Los judíos de Galilea en el 614 apoyan a Cosroes II en una batalla contra el I. R. de Oriente (bizantino). En este Conflicto entre persia y roma, centenario, los judíos apoyaron al emperador Persa y entonces Cosroes les permite gobernar jerusalén cuando la conquista en 614, pero en 617 los expulsa porque destruyeron la iglesia del santo sepulcro. Esta la había construido la madre de COnstantino, Helena, en el siglo IV. Con permiso del emperador destruyó el templo de la diosa Venus (según las fuentes ormanas), Isis u otra oriental según las fuentes epigráficas, y los cristianos decían que en esa cueva se había enterrado jesús. Y que Adriano había violado el sepulcro de jesús para construir el templo este. Santa Helena lo destruye y construye el santo sepulcro de Jesús. Los judíos lo destruyeron e intentaron reconstruir el templo de jerusalén (en el Monte del Templo (Moriá), en la colina de enfrente). Los judíos, a pesar de su apoyo a los persas, no obtuvieron gran beneficio, de hecho luego Heraclio va a recuperar Jerusalén a los persas pero no le dura mucho el dominio porque unos cuantos años más tardes llegarán los musulmanes.
+
+##### Mahoma y los judíos
+
+Nota: la división entre suras mequíes y suras mediníes está criticada por la corriente hipercrítica y las intermedias porque consideran que el Corán es una recopilación de textos. La corriente hipercrítica dice en torno al 800, la intermedia en torno al 700, pero en cualquier caso no tanto en función de la vida de Mahoma, ya que en el 700 todavía no se conoce la vida de Mahoma. En cualquier caso, lo cierto es que hay diferencias entre las suras mediníes y las mecanas.
+
+Nota: Mahoma dice que no trae una nueva religión, él reivindica la _antigua religión_. En el fondo, si tú le preguntas a Mahoma "¿Usted qué opina del judaísmo?", el respondería "¿Judaísmo, y eso qué es?". Para él, sin duda no existía.
+"Bueno, es el sistema de creencias y prácticas cultuales para adorar a Dios", entonces él diría "Bueno, claro, entocnes estoy de acuerdo con eso. Porque es el sistema de creencias y prácticas cultuales que utilizaron Abraham, Ismael, Isaías, Jesús...". Entonces, para él, él es el verdadero representante de esa forma de creer y de adorar a Dios. Él lo que opina de los judíos de su época es que han corrompido esa religión porque no han sabido seguir a los profetas, entre otros, a Jesús. 00: 03: 28 6.2
 
 
   
