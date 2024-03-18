@@ -336,14 +336,17 @@ A finales del siglo IV, la situación de los judíos se agrava aún más:
 
 ## Antijudaísmo en la Tardoantigüedad
 
-**San Ambrosio** es uno de los padres de la Iglesia que desarrolla un antijudaismo más fuerte. Como él lo hará también su discípulo **San Agustín**. Cuando llegó a roma era maniqueo y antes fue neoplatónico.
-En oriente, **Juan Crisóstomo**, un antioqueno (de Siria) que también escribiría un tratado entero contra los judíos.
+**San Ambrosio** destaca como uno de los padres de la Iglesia con un enfoque particularmente fuerte hacia el antijudaísmo, una postura que también adoptará su discípulo **San Agustín**. Antes de su conversión al cristianismo, San Agustín exploró otras filosofías, siendo inicialmente neoplatónico y posteriormente maniqueo. En el Oriente, se encuentra **Juan Crisóstomo**, de Antioquía (Siria), quien también redactó un tratado completo contra los judíos.
 
-Aquí se desarrolla la literatura antijudía cristiana. El antijudaísmo va a crecer a partir de este momento.
+Este período marca el desarrollo de la literatura antijudía cristiana y representa un punto de inflexión después del cual el antijudaísmo comienza a intensificarse significativamente.
 
-El IROccidente, todo esto continúa hasta la llegada de los bárbaros (406-476). Con la llegada de los visigodos a Hispania se endurece el anijudaísmo. Los cocncilios de Toledo van a ser muy antijudíos y se establece una legislación dura contra ellos. 
+En el Occidente romano, esta tendencia antijudía persiste hasta la llegada de los pueblos bárbaros (406-476). La llegada de los visigodos a Hispania marca un endurecimiento en la postura contra los judíos, con los Concilios de Toledo estableciendo legislación severa en su contra.
 
-Peor era la situación en Bizancio, donde el emperador Teodosio II retiró al Patriarca Gamaliel VI el título de Prefecto Honorario en 415 y a su muerte en 425 suprimió el patriarcado e incorporó el didracma a la fiscalidad bizantina. Justiniano (527-565) prohibió las reuniones del sanedrín y el uso del hebreo. Finalmente, en ya entrada la edad media, en el siglo VII, serán expulsados todos los judíos de Bizancio.
+La situación era incluso más grave en Bizancio: 
+- En 415, el emperador Teodosio II despojó al Patriarca Gamaliel VI del título de Prefecto Honorario.
+- Tras la muerte de Gamaliel VI en 425, el patriarcado fue abolido y el tributo del didracma fue incorporado a la fiscalidad bizantina.
+- Bajo el reinado de Justiniano (527-565), se prohibieron las reuniones del Sanedrín y el uso del idioma hebreo.
+- Avanzando hacia la Edad Media, en el siglo VII, todos los judíos fueron expulsados de Bizancio.
 
 ## Conclusiones sobre la Edad Antigua
 
