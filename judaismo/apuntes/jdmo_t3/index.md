@@ -27,7 +27,9 @@ title: Judaísmo Medieval
   - [Judíos sefardíes](#judíos-sefardíes)
     - [Orígenes](#orígenes)
     - [Los sefaríes en Al Ándalus](#los-sefaríes-en-al-ándalus)
-    - [Rambam (Maimónides). Biografía (1138-1204)](#rambam-maimónides-biografía-1138-1204)
+    - [Rambam, aka *Maimónides*](#rambam-aka-maimónides)
+      - [Biografía](#biografía)
+      - [Obra](#obra)
 
 
 
@@ -311,7 +313,11 @@ Huida a Sefarad del hijo de Ezequías, en el s. XI, este si fue el último exila
 
 Algunos van a refugiarse en otra ciudad. unos van a venir a sevilla, otros se van a ir a Lucena. Lucena es una ciudad de córdoba cuyo nombre en hebreo era Eliossanna (alabado sea dios): una ciudad completamente judía. En el medievo esta ciudad, en estos siglos hasta los almoades, era plenamente judía, con sus autoridades judías etc. El cementerio fue restaurado con dinero del Rockefeller, uno de los pocos cemenerios judíos conservados. El castillo tiene algunos restos arqueológicos de época judía y posteriores, almoade y cristiana. Alli fue desterrado Ibn Rushd (Averroes) el gran filósofo y me´dico andalusí en torno al 1095. Es interesante porque entraría en contacto con los sabios judíos que había en Lucena, entre ellos el padre de Maimónides. 
 
-### Rambam (Maimónides). Biografía (1138-1204)
+### Rambam, aka *Maimónides*
+
+#### Biografía 
+
+(1138-1204)
 
 Rambám es el acrónimo con el que los judíos designan al RAbino Moisés Ben Maimón. Los cristianos lo llamaron Maimónides y así quedó con esta terminación helénica. Gran filósofo aristotélico igual que averroes (probablemnte no se conocieron). Nació Maimónides en Córdoba en 1138, su padre sí que probablemnte conoció a Averroes, porque su padre estudió en Lucena con el Rabino José Megas. Este era de Sevilla, no tenemos muy claro más allá de los orígenes de él pero es probable que fuera población judía emigrada de granada. Megas es el grande, en griego. En hebreo se le llama Rimigash (rabino iosef migash). Sus padres probablemte venian de granada, nació en Sevilla en 1077, en ese momento estaba el rey Almut Amid, el rey poeta. Este año 2023 se cumplían 1000 años del reino de sevilla. Murió en lucena porque se desplazó allí para estudiar con el rabino isaac alfasí (el de Fez), autor del sefer ha halajot, que es un esstudio sobre la halaká (la jurisprudencia judía basada en la mishná y el talmud, en concreto él hizo un estudio comaprativo entre los talmudes de jerusalén y babilonia). Ya el mundo andalusí o sefardí se ha convertido en un lugar de estudio, cntro cultural de todos los territorios poblacdos por judíos en el medievo. Averroes coincidió con Isaac Alfasí y con José Mega cuando fue exiliado en Lucena, ,ue castigado por su artistotelismo al exilio por parted elagunas corrientes intolerantes musulmanas. Luego será el que traduzca aristóteles y lo comente para el propio califa almoade pero experimentó estos vaivenes. De ahí llegue, probablemente, el aristotelismo a Miosés ben Maimón y con eso se conveirte en el gran filósofo aristotélico judío. Los demás, los antecesores, José megas e ISaac alfasí estarían más en la órbita del platonismo como la mayoría de los pensadores de la época (Agustín estaba en el platonismo cristiano o en el mundo musulmán el neoplatonismo había sido la corriente dominante durante los siglos anteirores). 
 
@@ -328,6 +334,15 @@ Hgay una posible anécdota de su huida a almería en 1150 porque en esa década 
     "date": "23/02/2024"
 }
 ```
+
+En marruecos vivirán un tiempo, incluso es posible que simulen la conversión al islam para evitar la persecución almohade pero poco después en 1165 la familia de Maimónides viajan a Palestina. Allí no pueden con la intolerancia de los cruzados, reciben muy mal trato y al año siguiente acaban en el egipto de Saladino. Un líder de origen kurdo que da una especie de golpe de estado y crea una nueva dinastía en Egipto frente a los  fatimíes, los chiítas que habían gobernado egipto. Va a ser el que recupere Jerusalén en la lucha conra los cristianos. Allí encuentran toelrancia y reconocimiento a su sabiduría, porque no era simplemente un sabio filósofo y completamente docto el religión judía sino que también era un gran médico. Había aprendio medicina en alándalus, donde la medicin ahabía avanzado mucho. Se convierte en el médico de Saladino en la corte de Egipto y en nagid de los judíos a partir de 1171, es decir, en jefe de la población judía de egipto.
+
+La meurte de su hermano menor David, el que se dedicaba a los negocios (en egipto al tráfico de diamantes con India) le obligó a dedicarse más a la medicina. Hasta entonces se había dedicado más a la filosofía. Lo sabemos por una carta suya.
+
+#### Obra
+
+
+
 
 
 ---
