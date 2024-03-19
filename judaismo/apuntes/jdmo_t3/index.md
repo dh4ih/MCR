@@ -5,6 +5,32 @@ title: Judaísmo Medieval
 
 # Tema 3: O judaísmo medieval
 
+- [Tema 3: O judaísmo medieval](#tema-3-o-judaísmo-medieval)
+  - [Judíos falashas y mizrajíes](#judíos-falashas-y-mizrajíes)
+    - [El reino judío de Etiopía](#el-reino-judío-de-etiopía)
+    - [Origen de los judíos yemeníes](#origen-de-los-judíos-yemeníes)
+      - [Judíos árabes](#judíos-árabes)
+      - [Los mizrajíes de Babilonia a finales del Imperio Persa](#los-mizrajíes-de-babilonia-a-finales-del-imperio-persa)
+      - [Mahoma y los judíos](#mahoma-y-los-judíos)
+      - [Los mizrajíes de Babilonia durante los primeros califatos](#los-mizrajíes-de-babilonia-durante-los-primeros-califatos)
+      - [Heterodoxia](#heterodoxia)
+  - [Judíos askenazíes](#judíos-askenazíes)
+    - [Hipótesis sobre su origen](#hipótesis-sobre-su-origen)
+    - [**El reino judío de Jazaria**](#el-reino-judío-de-jazaria)
+      - [El Imperio Jázaro y los Rus de Kiev](#el-imperio-jázaro-y-los-rus-de-kiev)
+      - [Invasión pechenega (ss. XI-XII)](#invasión-pechenega-ss-xi-xii)
+      - [Invasiones cumana y mongol (ss. XII-XIII)](#invasiones-cumana-y-mongol-ss-xii-xiii)
+    - [Polonia (ss. XIII-XIV)](#polonia-ss-xiii-xiv)
+    - [Lituania (XIV)](#lituania-xiv)
+    - [Los hasidim askenazíes](#los-hasidim-askenazíes)
+      - [Reformas del Rabino Gershom](#reformas-del-rabino-gershom)
+  - [Judíos sefardíes](#judíos-sefardíes)
+    - [Orígenes](#orígenes)
+    - [Los sefaríes en Al Ándalus](#los-sefaríes-en-al-ándalus)
+
+
+
+
 Los judíos en el Medioevo (500-1500)
 
 Tenemos un período de enorme victoria de los judíos. Muy importante para la diversificaicón de grupos étnicos judíos. CSe van a consolidar cuatro grandes grupos: falashas, mizrajíes, askenazíes y sefardíes.
@@ -47,11 +73,11 @@ Otro aspecto interesante es que no siguieron el Talmud durante la E. Media. Su T
 
 El de arriba es un mapa de Aksum de cuando ya pierden la costa y los estados islámicos se asientan en ella.
 
-#### Origen de los judíos yemeníes
+### Origen de los judíos yemeníes
 
 Otro grupo importante son los judíos árabes. Hoy son minoritarios en comparación con los sefardíes y askenazíes. Se ha dado una fusión de judíos árabes y sefardíes que empieza con la expulsión de los judíos de españa en 1492 con la migración mayoritaria de sefardíes a países árabes. Hoy día se considera que hay dos comunidades religiosas con sus propias autoridades: el gran rabino askenazí y el gran rabino sefardí, es decir, que ha habido cierta fusión. Pero en realidad dentro del mundo sefardí actual, hay judíos que proceden de sefardíes españoles emigrados a turquía, palestina... Y judíos que proceden de Mesopotamia o Yemén. Los de Yemén tienen una identidad más clara. Antes de la 2GM hubo una migración grande de yemeníes a israel y después de la construcción del estado de israel hubo una migración organizada de yemeníes de golpe. 
 
-##### Judíos árabes
+#### Judíos árabes
 
 ¿De dónde salieron estos judíos?
 
@@ -70,7 +96,7 @@ Desde el sur también hubo una judaización importante porque en el 390 el rey A
 
 Meca está cerca de Yatrib, que era una ciudad judía con 3 tribus judías. Es decir, en la arabia de Mahoma había una tradición judía importante.
 
-##### Los mizrajíes de Babilonia a finales del Imperio Persa
+#### Los mizrajíes de Babilonia a finales del Imperio Persa
 
 A este conjunto de judíos árabes de la península arábiga hay que añadir los mizrajíes, o judíos orientales de Babilonia que seguían viviendo allí desde el V a.C. y que cuando el I. Persa cae en manos de los musulmanes se arabizará. Es decir, estos judíos hablarán árabe (será una comunidad similar a la de los yemeníes).
 
@@ -95,7 +121,7 @@ La rebelión de Mar Zutra va a ser una rebelión importante en el 520 consiguió
 
 - Los judíos de MP y Galilea (En jerusalén no había judíos porque cuando Adriano construyó Ennia Capitolina prohibió la entrada de judíos y personas circundidadas y los judíos se habían ido a refugiar a galilea donde Yehudá Ha Nasí creó el nuevo sanhedrín de la Mishná y demás y Galilea era la tierra dentro de Palestina donde había mayoría de judíos). - Los judíos de Galilea en el 614 apoyan a Cosroes II en una batalla contra el I. R. de Oriente (bizantino). En este Conflicto entre persia y roma, centenario, los judíos apoyaron al emperador Persa y entonces Cosroes les permite gobernar jerusalén cuando la conquista en 614, pero en 617 los expulsa porque destruyeron la iglesia del santo sepulcro. Esta la había construido la madre de COnstantino, Helena, en el siglo IV. Con permiso del emperador destruyó el templo de la diosa Venus (según las fuentes ormanas), Isis u otra oriental según las fuentes epigráficas, y los cristianos decían que en esa cueva se había enterrado jesús. Y que Adriano había violado el sepulcro de jesús para construir el templo este. Santa Helena lo destruye y construye el santo sepulcro de Jesús. Los judíos lo destruyeron e intentaron reconstruir el templo de jerusalén (en el Monte del Templo (Moriá), en la colina de enfrente). Los judíos, a pesar de su apoyo a los persas, no obtuvieron gran beneficio, de hecho luego Heraclio va a recuperar Jerusalén a los persas pero no le dura mucho el dominio porque unos cuantos años más tardes llegarán los musulmanes.
 
-##### Mahoma y los judíos
+#### Mahoma y los judíos
 
 Nota: la división entre suras mequíes y suras mediníes está criticada por la corriente hipercrítica y las intermedias porque consideran que el Corán es una recopilación de textos. La corriente hipercrítica dice en torno al 800, la intermedia en torno al 700, pero en cualquier caso no tanto en función de la vida de Mahoma, ya que en el 700 todavía no se conoce la vida de Mahoma. En cualquier caso, lo cierto es que hay diferencias entre las suras mediníes y las mecanas.
 
@@ -123,7 +149,7 @@ El ayuno de Ramadán también coincide con el del mes judío de Tammuz, el sacri
 Los judíos de Medina y los del N de Arabia son las comunidades primeras que se incorporarán en el Imperio que Mahoma va creando y también los judíos de Yemén y serán convertidos en _dimmíes_, protegidos (igual que los cristianos) y tendrán que pagar dos tributos, jarach y yizia. El islam protege a los judíos y prohíbe que se les fuerce a la conversión. Cualquier corriente islámica actual que vaya en contra de los judíos va en contra del Corán, de la Sunna y de la propia filosofía de Mahoma. Pero claro, hay tantos hadizes que siempre se puede utilizar alguno para apoyar la guerra santa, la guerra contra los judíos, contra los cristianos (el problema del uso político de las religiones, que cualquier dicho puede ser utilizado en una dirección: lo mismo ocurre en el mundo cristiano y en el judío. A pesar de que las 3 son religiones de los pobres, oprimidos, igualitarias, las 3 tienen dichos que pueden ser usados para defender lo contrario).
 
 
-##### Los mizrajíes de Babilonia durante los primeros califatos
+#### Los mizrajíes de Babilonia durante los primeros califatos
 
 ¿Qué ocurre con los judíos de Babilonia durante el califato ortodoxo o califato perfecto, el de los cuatro primeros califas? Fue en 637 cuando el califa Omar conquistó Mesopotamia y mantiene a los exilarcas judíos en el poder a pesar de que los exilarcas habían desaparecido en la época de Cosroes II ahora vuelven a aparecer. Van a tener una relevancia considerable en los primeros siglos del islam, de hecho los exilarcas serán quienes nombren a los [**gaones**](https://es.wikipedia.org/wiki/Gueonim) (presidentes de una academia babilónica como las de Sura, Pumbedita y Nehardea) entre 589 y 1040.
 
@@ -133,17 +159,19 @@ Algunos gueonim importantes:
 - **Saadia Gaón** (✝ 942) hizo obras de traducción, gramática, halaká, filosofía... Estamos en un momento de máximo esplendor de la filosofía. Del VIII al X hay debates filosóficos interesantísimos (vid. mutazilíes: racionalistas del islam. Hoy día hay una corriente que reivindica su retorno. Consideraban que en Corán había azoras oscuras que no podían convertirse en ley. Más relativistas del valor de la palabra del Corán).
 - **Ezequías**, Exilarca y Gaón: de Pumbedita, fue ejecutado por el califa abasí en 1040.
 
-##### Heterodoxia
+#### Heterodoxia
 
 Durante este período hubo algunas corrientes de heterodoxia. Una muy interesante es la de **Abu Isa** (algo como _padre Jesús_) (700-750) Fundador de una corriente conocida como isauismo que tuvo ciertos seguidores durante el siglo VIII y que sincretizaba elementos cristianos e islámicos. Él era judío pero creía en Jesús y en Mahoma y era muy milenarista (que el fin de los tiempos era inminente). Las corrientes que se mantienen en el apocalipticismo van desapareciendo: van sobreviviendo aquellas que mantienen una creencia en el fin de los tiempos lejano y que ven el cielo como alternativa al final de los tiempos en la tierra (caso de los actuales 3 monoteísmos, que han abandonado ese milenarismo).
 
 El **caraísmo** es otra corriente heterodoxa que surge en esta época, liderada por Anán ben David (715-795), miembro de la casa de David y candidato al cargo de exilarca. No fue nombrado yc reó un cisma en el mundo de los exilarcas. Criticó al exilarca que apoyaba a los gaones en la academia talmúdica y rechazó el talmud. Consideró que era una creación tardía de los judíos de babilonia sin ningún fundamento. También rechazó la Misná y reivindicó el Tanaj como escritura principal. Algunos han querido ver en él un resurgir de los saduceos pero no es correcto: lo saduceos solo leían la Torá. Es curioso que estos caraítas, que van a tener una gran expansión en el mundo oriental, y durante siglos va a haber dos comunidades judías más o menos equivalentes en número (ss. VIII, IX, X, XI (XI menos con la llegada de Maimónides a egipto). Lo curioso es que por ejemplo en la geniza del Cairo (una especie de cementerio de textos sagrados que existía en los espacios sagrados como las sinagogas para depositar Torás deterioradas... como un punto limpio, porque destuirlo era una blasfemia, así que se almacenaban). En la GdC es donde se descubrió el documento de Damasco, uno de los documentos de Qumrán. Se descubrió antes de excavar QUmrán y luego en Qumrán se vio que era uno de los textos esenios clave. Hasta entonces se creía que era un documento caraíta y alguno defendía que Qumrán tenía un nacimiento caraíta pero no tiene sentido porque son épocas mu distintas. Lo que es interesante es que los caraítas recuperen elementos esenios, creían en la reencarnación como los judíos protocabalísticos, tenían un calendario propio, ritos diferentes... Esta corriente tuvo su relevancia. Entraría en crisis con la llegada de Maimónides como representante del judaísmo rabínico en Egipto e irán desapareciendo pero todavía existen.
 
 ![Sinagoga Caraíta en Jerusalén](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/KaraiteSynnagogOldCity.jpg/1200px-KaraiteSynnagogOldCity.jpg)
+Sinagoga Caraíta en Jerusalén
 
 ## Judíos askenazíes
 
 ![Judíos Askenazíes](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/04/19/23/web-ashkenazi-jews-2-getty.jpg)
+
 Parece poco judío según la imagen del judío que se tiene en España tradicionalmente. Ellos son los judíos de la europa central y oriental.
 
 ### Hipótesis sobre su origen
@@ -151,7 +179,7 @@ Parece poco judío según la imagen del judío que se tiene en España tradicion
  - **Hipótesis tradicional sionista**: Hipótesis central de que proceden de Israel. Llegarían desde el Imperio Romano, expulsados de Israel con las guerras de Tito, Trajano y Adriano y fueron emigrando hacia Alemania y desde allí llegaron a Polonia, Lituania.
  - **Hipótesis moderna**: Hoy día hay una hipótesis de que su procedencia es desde la estapa Rusa y Ucraniana, y que su origen es indoeuropeo. Lengua y ADN: No cabe la menor duda por los estudios genéticos. Pueden tener un pasado semita, pero solo unos pocos. La lengua, el yiddish, es una mezcla entre hebreo, alemán y lengua eslava. Se convirtió en lingua franca de los judíos de toda la región. Los judíos de polonia, alemania y ucrania se movían entre estos territorios y se comunicaban en este criollo. Esta lengua les facilitó su labor de comerciantes (una labor fundamental de los judíos medievales). 
 
-#### **El reino judío de Jazaria**
+### **El reino judío de Jazaria**
 
 La hipótesis del origen jázaro de los judíos askenazíes la defendió durante la 2GM un escritor judío y lko hizo para criticar el nazismo ("qué absurdo el nazismo, que pretende condenar a los judíos por motivos raciales cuando los judíos son de razas muy diversas: los hay negros, pelirrojos..."). De hecho, la mayoría de judíos exterminados por los nazis eran de raza germano-eslava. ¿Qué dice la historia?
 
@@ -166,7 +194,7 @@ Al norte de MP, en las montañas que separan Mesopotamia de Europa, llegó, en e
 En el 750, el territorio de expansión corresponde a la zona entre crimea y el río Don, es decir, el Dombás. Lo que hoy corresponde con la zona de conflicto en disputa entre rusia y ucrania. 
 En el 850 la zona de expansión ya llega hasta el mar de aral, al este del caspio. y por el norte hasta el territorio de los búlgaros (del volga) que todavía hay musulmanes por ahí. Por el oeste llega hasta kiev.
 
-##### El Imperio Jázaro y los Rus de Kiev
+#### El Imperio Jázaro y los Rus de Kiev
 
 ![Viaje a las tierras del frío. El itinerario de Ibn Fadlan](https://cdn1.despertaferro-ediciones.com/wp-content/uploads/2020/04/Ibn-Fadlan-Desperta-Ferro.jpg)
 
@@ -181,7 +209,7 @@ El príncipe Oleg, enviado preso a constantinopla por los jázaros en el 1079 y 
 Rus: cristianos ortodoxos.
 Jázaros: judíos.
 
-##### Invasión pechenega (ss. XI-XII)
+#### Invasión pechenega (ss. XI-XII)
 
 ![Janatos pechenegos](https://upload.wikimedia.org/wikipedia/commons/7/77/Pechenegos_y_resto.png)
 
@@ -189,7 +217,7 @@ Cuándo desaparece este imperio? Parece que luego de la derrota contra los rus l
 
 Una curiosidad del mapa es que al sur del territorio azul están los alanos. Que llegan a eHispania junto con los suevos y vándalos que eran germanos. Los alanos eran un pueblo del cáucaso, todavía hoy existen. El territorio donde viven hoy es Osetia y ellos, los osetas, son considerados los últimos descendientes de los alanos y los sármatas. Osetia del norte pertenece a Rusia, del sur pertenecía a Georgia y hoy día los rusos han invadido osetia del sur. Estos dos territoriso proyectan unirse en un estado que se va a llamar de nuevo Alania. Los alanos tienen una lengua propia (pedro dice que encontraron parentescos con el euskera xd, también dice que no son indoeuropeos pero sí que lo son).
 
-##### Invasiones cumana y mongol (ss. XII-XIII)
+#### Invasiones cumana y mongol (ss. XII-XIII)
 
 En 1121 aparecen los cumanos ayudando a Georgia contra el islam. En 1200 los cumanos crean el Kanato de Kipchak, nombre que luego los mongoles cuando lo conquistan lo mantienen.
 
@@ -197,7 +225,7 @@ Gengis Khan derrota a los cumanos en 1222 y crea el Imperio Mongol y llegó incl
 
 ![Imperio Mongol en el s. XIII](https://mundoantiguo.net/wp-content/uploads/2017/09/mapa-del-imperio-mongol.gif)
 
-##### Polonia (ss. XIII-XIV)
+### Polonia (ss. XIII-XIV)
 
 En el 1264, es decir, durante la dominación mongola del territorio de los Jázaros, el Duque Boleslao el Piadoso de Polonia promulgó el Estatuto de Kalisz. Polonia era un territorio que había tenido su reino, su ducado, estuvo bailando. nunca cayó entero en manos del imperio germánico en la EM pero tuvo sus fragmentaciones enter distintos miembros de la dinastía. Este promulgó este estatuto que concedía a los judíos: libertad, igualdad ante la ley y autonomía jurisdiccional. Como el πολίτευμα del mundo helenístico con una mejora: igualdad ante la ley. No solamente tiene el πολίτευμα iunterno en sus comunidades sino igualdad total ante la ley. Esto no ocurría en ningún territorio del mundo en la época:
 
@@ -209,7 +237,7 @@ Por qué hace esto Boleslao? POrque atrae población judía de otros territorios
 
 Se ven varios principados, el de Vladimir, el de Galitzia, también están los prusianos que habían creado un estado en aquella región del norte (hoy rusia, kaliningrado,pero durante muchos años alemana: prusia oriental) y un estado que era lituania. hata este momento, 1385 es un etado politeísta: siguen adorando a los dioses antiguos del mundo eslavo y no son cristianos. Firman un tratado polonia y lituania por el que el católico Ladislao gobernaría polonia y su primo el pagano Vitautas gobernaría lituania. Pero que a la muerte de ellos se decide que haya una única dinastía que gobierne ambos y que estén unidos como una confederación sin unión total bajo una única capital etc.
 
-##### Lituania (XIV)
+### Lituania (XIV)
 
 ![Lituania siglos XII-XV](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LithuanianHistory-es.svg/800px-LithuanianHistory-es.svg.png)
 
@@ -222,13 +250,13 @@ Van a desempeñar todo tipo de actividades, tanto agrícolas como comerciales. L
 
 En el mapa se ve lo que ocuparon los dos estados juntos, Polonia está muy reducida en este momento. Lituania grande. Se ve en verde el territorio de la orden teutónica, que dominaba no sólo la prusia oriental sino también estonia y letonia. La confederación polaco-lituana es un estado inmenso y ocupaba gran parte de lo que hoy es Ucrania, no solamente kiev sino todo lo que hay al OESTE y SUR de Kiev, todo menos el Dombás-Crimea, que sigue siendo del Canato de Crimea, mayormente musulmán con una gran población judía.
 
-##### Los hasidim askenazíes
+### Los hasidim askenazíes
 
 En Alemania también había judíos. Conocemos a una familia muy importante, la familia Kalonymos, que desarrolló en Alemania la corriente de pensamiento de los hasidim. Los hasidim de la antiguedad eran los piadosos que habían lchado contra los seléucidas contra Antíoco IV y de los hasidim de la antiguedad habían surgido los esenios, fariseos y saduceos, corrientes de pensamiento diversas pero de origen, las tres, piadoso. Ese término hasidim se había utilizado en literatura judía de la época y se conservó en la lit. talmúdica y rabínica en general para referirse a piadosos fueran fariseos o de cualquier otro tipo. Es el caso de los hasidíes galileos de época de Jesús que el trazando de círuclos y rezando en él conseguía que lloviera o Hanina que resucitaba muertos. Pues ese término lo recuperan los Kalonymos, con nombre griego probablemente llegados a Alemania desde el Imperio Bizantino pasando por el Norte de Italia. Concretamente uno de ellos, Smauel ben Kalonuymos, conocido como el hasid, presidió la Bet Midrásh (Sinagoga) de Speyer. 
 
 Le sucedió Judá ben Samuel, Ha Hasid, que fundó una yeshivá (un nombre que se empieza a difundir en el mundo askenazí como sinónimo de escuela distinguiéndola de la casa de oración del lugar de enseñanza) en Ratisbona en 1195, donde escribió el Séfer Hasidim. En este libro se hablaba de la Cábala, las Sefirot, el misticismo judío que venía de la antigüedad pero que se había expandido sobre todo en esta época por el mundo Hispánico (andalusí y cristiano) y sudfrancés. Habían llegado hasta aquí alguna de estas creencias y ellos las difunden a nivel popular. No a nivel de profundización filosófica matemática como ocurría en el mundo hispanogalo, sino más sencillamente y con un toque místico, ascético judío. esto tendrá un gran éxito en las corrientes religiosas askenazíes que se difundirán desde alemania a polonia y a europa en general. 
 
-##### Reformas del Rabino Gershom
+#### Reformas del Rabino Gershom
 
 Este rabino, nacido en Metz (Lorena, territorio del I. Germánico en la EM) hacia 980 y muerto en Maguncia hacia el 1028. Este, a principios del s. XI presidió una reunión de rabinos en la que se prohibió la poligamia por primera vez en el judaísmo. El judaísmo siempre fue polígamo. La biblia permite la poligamia, el Código Deuteronómico establece que se puede tener varias mujeres siempre y cuando se garantice a las mujeres anteriores: comida, vestido y relaciones conyugales. El Corán limita esto más, dice que: máximo cuatro y siempre que la primera dé su consentimiento.
 
@@ -241,6 +269,43 @@ Por tanto aquí está Gershom cogiendo esta línea de debate de la mishná y dic
 También suavizó el rechazo a los apóstatas. En aquella época en Alemania ya hubo bastantes movimientos antijudíos, pogromos. Sobretodo el s. XI era duro en este sentido. Acabará con las cruzadas, la predicación de la primera cruzada sería terrile para los judíos. Los cruzados matarán a miles de judíos hacia tierra santa. Cuando había gente q se hacía cristiana por coherción decía que podían volver a la sinagoga sin necesidad de torturarlos.
 
 ## Judíos sefardíes
+
+### Orígenes
+
+Los orígenes de los judíos sefardíes pueden trazarse a partir de distintas fuentes e historias. Una parte de la comunidad sefardí puede provenir de judíos expulsados de Palestina por Adriano tras la tercera guerra judeorromana, así como de expulsiones debidas a conflictos anteriores. Sin embargo, también existe la posibilidad de que algunas personas en Hispania se convirtieran al judaísmo independientemente de estas migraciones.
+
+El término "Sefarad" aparece mencionado en el texto del profeta Abdías (1:20), uno de los doce profetas menores. Este texto es objeto de debate entre los eruditos sobre si la referencia original podría haber sido una alusión a Sardes, la capital de Lidia, o si de hecho apuntaba a la península ibérica (Hispania). Aunque el texto masorético menciona "Sefarad", la precisión histórica sobre el lugar específico sigue siendo objeto de discusión.
+
+No obstante, las traducciones del hebreo al griego y al latín de los primeros siglos de la era común empezaron a asociar Sefarad con el territorio hispano, sugiriendo que podría haber habido una significativa presencia judía en Hispania ya en la antigüedad. Esta interpretación es respaldada por la hipótesis de que la presencia judía en Hispania no derivó únicamente de los exilios de los imperios asirio y babilónico, como algunos rabinos y masoretas posteriores creían, sino principalmente de los judíos hechos prisioneros y vendidos como esclavos en Hispania durante las tres guerras judías, y posiblemente incluso antes, durante la guerra de Pompeyo contra Siria que culminó con la conquista de Jerusalén. Estos esclavos fueron posteriormente vendidos en diferentes lugares, incluida la península ibérica.
+
+Las primeras pruebas arqueológicas son de los siglos III y IV, los más relevantes del siglo IV. En este siglo, a principios, precisamente por un texto cristiano muy interesante el del Concilio de Elvira (Osio de Córdoba y Félix de Guadix, ca. 300). 
+
+![Puerta de Elvira, Granada](https://granadanatural.com/imagenes/paisajes_fichas/gn_0119.jpg)
+
+Granada se fundó en el s. XI, Elvira existía ya desde la Antigüedad (un poco más hacia el valle). En íbero se llamaba "Ilíberis". 
+
+Allí se celebró el concilio este, presidido por Félix de Guadix (ciudad cercana) y por Osio de Córdoba, importantísimo obispo hispano porque fue el confesor y el líder espiritual de Constantino I, probablemente el que lo convirtió y lo aconsejó en Nicea. Esto es anterior a Nicea, probablemente unos 25 años anterior. 
+
+Lo que se nos dice en estos cánones son normas establecidas por los obispos para etar la relación entre cristianos y judíos. Lo ionteresante de estos cánones es hacer una lectura inversa,m es decir, si los obispos están ordenando en el Cánon 16 que no se case a doncellas cristianas con judíos so pena de excomunión de 5 años, significa que era común que los cristianos casaran a sus hijos cristianos con judías (según la Mishná, los hijos serían judíos). En la hispania bética del s. IV, entocnes, todavía la diferencia entre judíos y cristianos eran mínimas, tantoq ue se casaban entre ellos.
+
+Canon 49: al que permita a un judío bendecir sus frutos, excomunión total. Lectura inversa: los cristianos de la bética les pedían a los judíos que recitaran las bendiciones para sus frutos. Porque los judíos hablaban hebreo y los cristianos consideraban que la recitación de una bendición en hebreo (birkat) era más efectiva que si la recitaba un cristiano, incluso que si la recitaba un sacerdote romano en latín. Es decir, era tan cercano el cristianismo bético al mundo judío que se pedía a los judíos que hicieran las bendiciones porque se consideraba que Dios sería más benévolo con esa finca o ese campo y con los frutos que allí crecerían. Vid. Border Lines de Daniel Boyarin
+
+Canon 50: al que coma con un judío, excomunión hasta que rectifique. 
+
+Canon 78: el adulterio con una judía se condena con excomunión de 5 años. 
+
+### Los sefaríes en Al Ándalus
+
+Lo más probable es que la población judía en el s. IV estuviera bastante bien relacionada con la cristiana hispana. Esto cambiaría a partir del s. IV. Ya hemos visto cómo los visigodos incrementaron la legislación antijudía de los emperadores romanos del IV y la situación del judío se complica. Llega la conquista árabe con la leyenda de don Julían de Ceuta: se plantea una colaboración judía con los invasores. No deja de ser una leyenda, pero no sería extraño que los judíos apoyaran la invasión peusto que estaban oprimidos por la moanrquía visigoda. 
+
+De hecho hay un resto arqueológico bastante curioso que es una moneda de época de la conquista escrita en hebreo. Lo cual ha dado pie a que algún historiador haya interpretado que los invasores en un principio no tuvieran claro si iban a ser una religión árabe o judía. Es interesante que en ese momento no estuviera tan claro quiénes son los invasores, si invasores islámicos (el islam ya estaba consolidado como religión). 
+
+Recordemos la tesis de los hipercríticos de que la organización del islam y del Corán no llega hasta el 800 y la tesis intermedia entre los tradicionalistas y los hipercríticos que fue con la revolución de [Abd al-Malik](./islam.md) que se situaría más o menos en los tiempos de la conquista pero que en un momento dado, si en Damasco en 700 se está elaborando y compilando el Corán definitivo, si fuera en ese momento y la organización de una nueva religión o una nueva cultura porque eso es lo que está claro que es la revolución de este califa Abd al-malik es que impuso el árabe como lengua de la corte de Damasco, hasta entonces había siudoe l griego y juan damasceno el santo que menciona lo de Mahoma y lo de los ismaelitas (estos herejes que se estaban expandiendo) había sido un miembro de la corte, un alto funcionario de la corte omeya cuando el griego era lengua oficial, es decir, antes del 700 y luego se fue a un monasterio precisamente porque los griegos son apartados mientras que la gente que habla árabe adquiere un poder y se usa el árabe a partir de ese momento en la administración. Él hablaría de estos herejes ismaelitas que encima hablan árabe etc. Pero en realidad estaba habeidno una revolución cultural. Es la misma época de la conquista, por lo que podemos pensar que es factible no ya que no hubiera conquista, como algunos han interpretado (como Emilio González Ferrín, que defendió eso en la historia de Al-Ándalus). Pedro no asume la tesis de que no hubiera conquista, pero no entra en el debate. Pero Ferrín lo que defiende es que no hubo conquista islámica, es decir, de un estado islámico organizado, sino una conquista de pueblos bereberes, árabes, incluso hebreos (judíos...). Los que están llegando en ese momento a Hispania. Por eso, en algún momento dado el hebreo se usaría como la lengua oficial, aunque hay monedas también en árabe de época de la conquista. 
+
+De esto no interesa que el mundo hebreo y judío adquiere una relevancia ante el estado visigodo en la trasición y el cambio de cultura. Y probablemnte huno una situación enel siglo VIII de una gran tolerancia hacia los judíos.  De hecho, enttorno al 800 se produjo el destierro de un exilarca (los judíos descendientes de la casa de david que cgobernaban en mesopotamia sobre la población judía) Natronai. En el califato abasí fue exiliado a sefarad. Probablemnte porque en Sefarad  /al-ándalus la tolerancia hacia los judíos era mayor. De toda maneras el califato abasí no dsetruyó la instución del exilarca sino que nombró a otro que no era Natronai. Será más tarde cuando será expulsado el último de los exilarcas (Ezequías). Natronai escribió en Sefarad el Talmud de Babilonia recitándolo de memoria. Esto es un signo de la relevancia que tenía en al-Ándalus la población judía.
+
+Pero para nosts también es muy relevante el hechod e que este exilarca según la tadición judío traerá el Talmud de babilonia, según la leyenda recitándolo de memoria. Para nostoros es fundamental que a aprtird e este momento el judaísmo en sentido amplio (cultural, religioso) se convierte en talmúdico, el judaísmo sefardí, de al-Ándalus se convierte en talmúdico. Probablemente no antes (esto sería también un tema de investigación interesante pero faltan fuentes). Probablemtne el judaísmo de la hispania tardorromana, visigoda y de los primeros siglos de al-Ándalus no fuera un judaísmo talmúdico. 
+
 
 
 ---
