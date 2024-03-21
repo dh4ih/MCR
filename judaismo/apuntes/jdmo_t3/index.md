@@ -3,8 +3,6 @@ layout: default
 title: Judaísmo Medieval
 ---
 
-# Tema 3: O judaísmo medieval
-
 - [Tema 3: O judaísmo medieval](#tema-3-o-judaísmo-medieval)
   - [Judíos falashas y mizrajíes](#judíos-falashas-y-mizrajíes)
     - [El reino judío de Etiopía](#el-reino-judío-de-etiopía)
@@ -31,50 +29,49 @@ title: Judaísmo Medieval
       - [Biografía](#biografía)
       - [Obra](#obra)
 
-
-
+# Tema 3: El judaísmo medieval
 
 Los judíos en el Medioevo (500-1500)
 
-Tenemos un período de enorme victoria de los judíos. Muy importante para la diversificaicón de grupos étnicos judíos. CSe van a consolidar cuatro grandes grupos: falashas, mizrajíes, askenazíes y sefardíes.
+Durante este período, se observa una notable prosperidad en las comunidades judías y una significativa diversificación de grupos étnicos judíos. Se consolidan principalmente cuatro grandes grupos: los falashas, los mizrajíes, los askenazíes y los sefardíes.
 
 ## Judíos falashas y mizrajíes
 
-Falashas: proceden de Etiopía. Hoy en Etiopía ya no quedan, pero hay en Israel. 
+**Falashas (Beta Israel)**: Originarios de Etiopía, esta comunidad ha tenido una historia larga y singular. Aunque en la actualidad no quedan muchos en Etiopía debido a las migraciones masivas, muchos viven ahora en Israel. La palabra "Aliyah" se utiliza en el contexto de su migración, lo que significa "subida". Históricamente, este término se refería a la peregrinación a Jerusalén durante las festividades del Templo, considerando a Jerusalén como un lugar elevado física y espiritualmente. En el siglo XIX, "Aliyah" comenzó a utilizarse para describir la emigración de los judíos a Palestina, entonces una provincia del imperio otomano. Este término sigue siendo utilizado en el siglo XX y XXI para referirse a la inmigración de judíos de todo el mundo al Estado de Israel.
 
-```
-On your Aliyah!
-```
-En tu Aliyáh (subida). Se utilizaba para hablar de la subida a Jerusalén. Cuando se peregrinaba allí en el antiguedad, en las fiestas del Templo, se celebraba la subida (porque está en alto). Será el término utilizado por los judíos del siglo XIX para emigrar a Palestina, una provincia del imperio turco en el s. XIX. En el XX, se seguirá usando este término para hablar de las migraciones de otros judíos hacia el estado de israel. 
+**Mizrajíes**: Estos son los judíos de Oriente Medio y Asia Central, que han vivido en estas regiones desde tiempos bíblicos. A lo largo de la Edad Media, los mizrajíes vivieron principalmente bajo dominios islámicos, donde experimentaron diversos grados de tolerancia dependiendo del tiempo y el lugar. A diferencia de los falashas, los mizrajíes se han esparcido por diversos países, aunque muchos también han hecho su Aliyah a Israel en los tiempos modernos.
 
 ### El reino judío de Etiopía
 
-Estos judíos falasha/etíopes, ¿de dónde provienen?
+- Estos judíos falasha/etíopes, conocidos como Beta Israel, tienen diversas teorías sobre su origen. Una de las leyendas más extendidas entre ellos sostiene que descienden de la unión entre el rey Salomón y la reina de Saba. Según esta tradición, tras la visita de la reina de Saba a Jerusalén y su posterior regreso embarazada de Salomón, su dinastía adoptó el judaísmo.
 
 ![Mapa del Reino de Axum](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/LocationAksumiteEmpire-pt.svg/800px-LocationAksumiteEmpire-pt.svg.png)
 
-Un reino que existió en la antiguedad en áfrica. Los falasha (que a sí mismos se llaman Beta Israel), ellos defienden en su leyenda que proceden de Salomón y la reina de Saba. Cuando al reina de Saba retorna de Jerusalén, embarazada por Salomón, su dinastía se convierte al judaísmo. 
+- Otra narrativa señala que algunos clanes judíos, durante el éxodo liderado por Moisés, se desviaron hacia el sur, estableciéndose en el Reino de Punt, conocido de las fuentes egipcias. No obstante, la conexión más plausible podría ser con el grupo de judíos que, viviendo en Elefantina, buscaron refugio en los reinos del sur, actual Sudán y Etiopía, aunque no hay evidencia arqueológica definitiva que soporte esta teoría.
 
-Otra leyenda habla de algunos clanes judíos que durante el éxodo de moisés se desviaron hacia el sur y se fueron a vivir al reino de punt, que aparece en las fuentes egipcias.
+Históricamente, sabemos que para el siglo IV d.C., el rey [**Ezana de Axum**](https://pt.wikipedia.org/wiki/Ezana) se proclamaba descendiente de la dinastía salomónica y adoptó el cristianismo, influenciado posiblemente por la cristianización de Egipto y el auge del gnosticismo y otras corrientes judeocristianas en el siglo II. A pesar de la conversión del rey, se mantuvo una doble confesión religiosa entre los ciudadanos del Reino de Axum: judíos y cristianos.
 
-Más probable es que haya una vinculación con el hecho histórico de que en Elefantina hubiera un grupo de judíos que se refugiaran en los reinos del sur del actual sudán y etiopía. No sabemos porque no hay constancias arqueológicas.
+La práctica del cristianismo en Axum incluía observar el sábado (cuando celebraban misa), la circuncisión y seguir el kósher alimenticio de la Torá, evidenciando un profundo respeto por las tradiciones judías. Inversamente, los judíos de Etiopía adoptaron instituciones como el monasterio, similar pero no idéntico a los europeos, siendo más bien grandes chozas donde los monjes se dedicaban al estudio bíblico, recibían honores, respeto y tenían una función religiosa de dirección del culto. Esta interacción sugiere una posible influencia de los judíos esenios, aunque la relación exacta sigue siendo un tema de debate.
 
-Lo que sí sabemos es que en el IV d.C. el rey Ezana de Axum decía pertenecer a la dinastía salomónica. Esta cristianización estaría vinculada con la cristianización de Egipto. Probablemente empezaría en el siglo II, cuando estaba el cristianismo en plena efervescencia con el gnosticismo y otras corrientes judeocristianas también etc. Iría extendiéndose poco a poco. Dicen que en el IV, antes incluso que Constantino, se proclama cristiano el rey de Axum. Pocos datos pero alguna inscripción. Esto no supuso que la población de su reino que se proclamaba judía dejase de ser judía. Doble confesión de los ciudadanos del R. de Axum: judíos y cristianos.
+Durante los siglos subsiguientes, especialmente con la llegada del islam en el siglo VII, judíos y cristianos continuaron coexistiendo en el Reino de Axum, aunque la mayoría eran cristianos.
 
-El cristianismo de Axum cumplía el sábado, celebraban misa en sábado, celebran circuncisión, el kósher alimenticio de la Torá... En el mundo cristiano etíope hay respeto a las nromas de la Torá. También al revés: los judíos de etiopía tienen una institución, el monasterio, que tienen también los cristianos de Etiopía. El monasterio no es un monasterio al estilo europeo, sino una choza grande donde viven monjes que se dedican al estudio de la biblia y reciben honores, respeto y tienen una función religiosa de dirección del culto etc... Algunos dicen que a lo mejor heredado de os judíos esenios... no está claro. 
-
-En este reino de Axum, durante los siglos posteriores (cuando llega el islam) siguen conviviendo judíos y cristianos (mayoría cristianos). El islam llega en el s. VII. 
+En este mapa se ve que ya hay un territorio, la actual Eritrea, que se ha separado de Axum porque se ha islamizado (ya que será el territorio costero del territorio de Axum la que se islamice más rápido). Este cambio significó una separación de la región de Axum, que tradicionalmente había sido un núcleo cristiano.
 
 ![Reino_de_Simién](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Beta_Israel_in_Ethiopia_-_en.svg/1280px-Beta_Israel_in_Ethiopia_-_en.svg.png)
 
-En este mapa se ve que ya hay un territorio, la actual Eritrea, que se ha separado de Axum porque se ha islamizado (ya que será el territorio costero del territorio de Axum la que se islamice más rápido).
-En la zona roja se produce la rebelión de la reina Gudit (nombre etíope que corresponde a Judith) contra las autoridades cristianas (nombradas x el patriarca de Alejandría, cristianos de egipto. Esto continuaría desde el siglo IV, entonces los cristianos de egipto no estaban separados de los cristianos católicos. Pero poco después, en el V, se produce el conflicto del Concilio de Éfeso [monofisitas vs. nestorianos]. Nos miofisitas se separan creando la Iglesia Copta. Hasta tiempos modenros fue así (siglo XVIII, después llegan españoles y portugueses e intentan q haya una separación de las iglesias etíope y copta). Instaura un reino judío independiente,un territorio de montaña. LKas montañas de Simién. Tendrán sus propios reyes con nombres inspirados en la Biblia. Poco a poco van siendo arrinconados por los cristianos. En el s. XV son derrotados y se les establece una legislación que les prohibe poseer tierras en Etiopía. De ahí que se los denomine farashas, que es un término despectivo que utilizaban los cristianos etíopes diciendo que son como _forasteros_.
+La zona roja del mapa indica el lugar donde la reina Gudit (cf. *Judith*) lideró una rebelión contra las autoridades cristianas que estaban bajo el mando del patriarca de Alejandría (cristianos de Egipto). Este conflicto histórico subraya la tensión religiosa que existía en la región, exacerbada por las divisiones entre los cristianos coptos de Egipto y los cristianos católicos tras el [Concilio de Éfeso](https://es.wikipedia.org/wiki/Concilio_de_%C3%89feso) (monofisitas vs. nestorianos). 
 
-Otro aspecto interesante es que no siguieron el Talmud durante la E. Media. Su Tanak se parece mucho a los LXX. Incluso contenían libros que la iglesia católica y ortodoxa decretaron como apócrifos (como Enoch o Jubileos, situadas en la literatura judía esenia en Qumrán). Ambos se conservaron también en algunos monasterios. En Etiopía encontramos versiones de los 4 libros de Enoch y del L. de los Jubileos. Es decir, un judaísmo propio.
+```
+Los miofisitas se separan creando la Iglesia Copta. Esto fue así hasta tiempos modernos (siglo XVIII). Después,  llegan españoles y portugueses e intentan que haya una separación de las las Iglesias Etíope y Copta. 
+```
+
+La reina Gudit estableció un reino judío independiente en las montañas de Simién, región que se convirtió en refugio para los judíos que eran marginados y perseguidos. Tendrán sus propios reyes con nombres inspirados en la Biblia. Este reino mantuvo su independencia durante siglos, aunque con el tiempo los judíos fueron siendo arrinconados por los poderes cristianos circundantes. Para el siglo XV, los judíos falashas (un término despectivo que significa 'forasteros' en amhárico) fueron definitivamente derrotados y se les prohibió poseer tierras en Etiopía.
+
+En términos religiosos, los judíos etíopes seguían prácticas distintas a las del judaísmo rabínico predominante en otras partes del mundo. No adoptaron el Talmud, y su Tanak estaba más alineado con los LXX, incluyendo libros considerados apócrifos por la iglesia católica y ortodoxa, como Enoch y Jubileos. Estos textos, que tienen paralelos en la literatura judía esenia encontrada en Qumrán, se mantuvieron vivos en Etiopía, donde se encuentran versiones de los cuatro libros de Enoch y del Libro de los Jubileos, reflejando una forma única de judaísmo.
 
 ![Mapa de Aksum](https://upload.wikimedia.org/wikipedia/commons/6/67/Ifat.png)
 
-El de arriba es un mapa de Aksum de cuando ya pierden la costa y los estados islámicos se asientan en ella.
+Este segundo mapa muestra la extensión de Aksum después de perder su costa frente a los estados islámicos, evidenciando el aislamiento creciente del reino cristiano y su influencia decreciente en la región.
 
 ### Origen de los judíos yemeníes
 
@@ -404,6 +401,10 @@ Por ejemplo la número dos es la sabiduría, hokmá, sofía en griego. Nos recue
 El tres, el entendimiento, es la bináh. En el gnosticismo también había una hipóstasis llamada νοῦς, el entendimiento en griego.
 
 Luego hay otras, serenidad, misericordia, belleza... Recordemos que Platón hablaba de la belleza como idea emanada de la idea de Bien, una hipóstasis.
+
+
+1.07.00
+
 
 ---
 <div style="display: flex; align-items: center; float: left;">
