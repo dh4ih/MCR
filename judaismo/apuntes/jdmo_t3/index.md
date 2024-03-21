@@ -323,27 +323,87 @@ Rambám es el acrónimo con el que los judíos designan al RAbino Moisés Ben Ma
 
 También es posible que su padre, el de maimónides, fuera compañero de Judá ha Levi, es un gran autor de poesía hebrea y también de otro tipo de libros más religiosos y entre ellos está el Sefer ha Kuzarí (el libro de los jázaros del que descienden los askenazíes). Viaja mucho entre alándalus y los reinos cristianos, incluso en el toledo recién conquistado por alfonso vi esta un timepo. Acaba su vida en jerusalén. Viajó mucho y conoció la historia de la creación de un reino (en el siglo XI aun no había sido destruido del todo el reino jázaro a pesar de las invasiones pechenegas etc). Entonces lo que cuenta en este libro es a partir de noticias que le habñían lelgado la conversación entre un judío y un rey jázaro que se conveirte al judaísmo. Entonces pretende ser una demostración de superioridad del judaísmo fernte a las otras religiones, piorque ese rey jázaro pidió que le explicara a tres sabios (un cristiano un jdío y un musulmán) las bases de sus religiones y acabó convencido por el judío. En definitiva una rgumento que usa para defender la superioridad  del judaísmo.
 
-Lucena: ambiente multicultural y de todo tipo, ahí estuvo Maimónides y luego experimentó la conquista almohade en 1146. Los almohades, tenía Maimonides 8 años, son una corriente musulmana intolerante. Si el islam hasta entonces había sido tolerante y entre las bases del islam está la protección de judíos y cristianos mediante un tributo pero también está la prohibición de tratar de convertir a cristianos y judíos por la fuerza etc y hay ciertas palabras de tolerancia hacia la torá y el evangelio, esto cambiará en el mundo occidental (en el Maghreb ,marruecos y españa) cambiará con los almohades que tendrán una actitud muyy intelorante no solo contra judíos y cristianos sino también contra musulmanes que consideraban que no eran verdaderos (alomohade significa unitario uy aquellos que adoraran a santos o incluso aquellos que tuvieran doctrinas un poco platónicas con esto de la emanaciones e hipóstasis de dios o a los sufíes mismo los perseguiirán e intentarán imponer un islam rígido. No tendrán mucho éxito porque cuando se van resurge el islam sufí en alandalus y en marruecos se mantendrán cultos a los santos y cofradías de culto a los santos. Estos expulsaron a judíos (1148) y cristianos también,. Hubo deportaciones de los pocos cristianos que quedabal al norte de áfrica.
+Lucena: ambiente multicultural y de todo tipo, ahí estuvo Maimónides y luego experimentó la conquista almohade en 1146. Los almohades, tenía Maimonides 8 años, son una corriente musulmana intolerante. Si el islam hasta entonces había sido tolerante y entre las bases del islam está la protección de judíos y cristianos mediante un tributo pero también está la prohibición de tratar de convertir a cristianos y judíos por la fuerza etc y hay ciertas palabras de tolerancia hacia la torá y el evangelio, esto cambiará en el mundo occidental (en el Maghreb ,marruecos y españa) cambiará con los almohades que tendrán una actitud muyy intelorante no solo contra judíos y cristianos sino también contra musulmanes que consideraban que no eran verdaderos (alomohade significa unitario uy aquellos que adoraran a santos o incluso aquellos que tuvieran doctrinas un poco platónicas con esto de la emanaciones e hipóstasis de dios o a los sufíes mismo los perseguiirán e intentarán imponer un islam rígido. No tendrán mucho éxito porque cuando se van resurge el islam sufí en alandalus y en marruecos se mantendrán cultos a los santos y cofradías de culto a los santos. Estos expulsaron a judíos (1148) y cristianos también,. Hubo deportaciones de los pocos cristianos que quedabal al norte de África.
 
 Hgay una posible anécdota de su huida a almería en 1150 porque en esa década fue conquistada por Alfonso VII de castilla, el emperador de toda españa. Que organizó una cruzada con apoyo de reinos como el catalano-aragonés o la republica de pisa y fue una cruzada marítima para invadir almería y la ocupó y fue durante 7 años territorio cristiano pero después de la huida de Alfonso VII cuando mantener la conquista se hacía difícil y los almohades presionaban muere en la huuida hacia el norte y maimónides se desplaza a Fez de donde venía Isaac Alfasí.
 
-```json
-{
-    "timestamp": "00:46:30",
-    "recording": 8,
-    "date": "23/02/2024"
-}
-```
-
 En marruecos vivirán un tiempo, incluso es posible que simulen la conversión al islam para evitar la persecución almohade pero poco después en 1165 la familia de Maimónides viajan a Palestina. Allí no pueden con la intolerancia de los cruzados, reciben muy mal trato y al año siguiente acaban en el egipto de Saladino. Un líder de origen kurdo que da una especie de golpe de estado y crea una nueva dinastía en Egipto frente a los  fatimíes, los chiítas que habían gobernado egipto. Va a ser el que recupere Jerusalén en la lucha conra los cristianos. Allí encuentran toelrancia y reconocimiento a su sabiduría, porque no era simplemente un sabio filósofo y completamente docto el religión judía sino que también era un gran médico. Había aprendio medicina en alándalus, donde la medicin ahabía avanzado mucho. Se convierte en el médico de Saladino en la corte de Egipto y en nagid de los judíos a partir de 1171, es decir, en jefe de la población judía de egipto.
 
-La meurte de su hermano menor David, el que se dedicaba a los negocios (en egipto al tráfico de diamantes con India) le obligó a dedicarse más a la medicina. Hasta entonces se había dedicado más a la filosofía. Lo sabemos por una carta suya.
+La muerte de su hermano menor David, el que se dedicaba a los negocios (en egipto al tráfico de diamantes con India) le obligó a dedicarse más a la medicina. Hasta entonces se había dedicado más a la filosofía. Lo sabemos por una carta suya.
 
 #### Obra
 
+Sin duda, influencia de la posible obra averroísta de josé megas (no es muy conocido porq no tenemos fuentes directas) de averroes y etc, de lo que vivió en esa corte de Lucena, de Salomón ben Gabirol (muerto 1057), Bajya ben Yosef ben Pacuda (muerto 1090, un personaje interesante). Estos dos útlimos son más neoplatónicos, no sabemos si por José Mega o por Averroes hay un enfrentamiento con el neoplatonismo judío dominante.
 
+El neoplatonismo tiene mucho que ver con la Cábala, las entidades divinas emanadas de Dios. Y la cábala admite diez hipóstasis de Dios: que no son dioses, el judaísmo sigue siendo monoteísta igual que el islam sufí, pero son hipóstasis de dios y el ser humano puede alcanzar algunas y tal. Esta idea también se dio en la filosofía árabe musulmana de la época como Ibn Tufail, el filósofo andalusí anterior a Averroes.
 
+Escribió obras Talmúdicas: El luminar (1168) y Mishné Torá (1170-1180): segunda Torá. Que será un comentario y una reestructuración más clara, ordenada y fácil y didáctica de la Mishná y se convertirá en el granlibro de doctrina jurídica y religiosa judía a partir de entonces por el medievo y hoy se lee en las universidades judías
+. Explica y razona sobre los 613 mitzvot, dice que algunos no son válidos ya porque no existe el templo. Los divide en mitzvot mas éticos y mitzvot más rituales, etc.
 
+Su gran obra filosófica es la Guia de Perplejos (1190). En Egipto había también una filosofía bastante próspera. El mundo oriental no había decaído como en el mundo cristiano (los grandes debates filosóficos). 
+
+Lo que escribe Maimónides es una obra para un discípulo suyo que viene del N de África y que cuando estudia la filosofía en Egipto se queda anonadado con el racionalismo y duda sobre la religión. Entonces, Maimónides escribe la obra dedicada a este discípulo para evitar que el estudio de la filosofía racionalista o desde esta óptica aristotélica más materialista aleje al creyente judío de la religión. Es una de las lecturas que están como lectura voluntaria. 
+
+Tiene obras médicas como los Aforismos, el Régimen de la salud, el Tratado sobre el Asma... (Han sido traducidas por Antonio García del moral 2007). 
+
+Cartas se conservan 20. Una de 1161 *Sobre la apostasía* dice que en caso de que la vida peligre el judío puede simular la conversión al islam o al cristianismo. Algo parecido existe ene l mundo islámico. Otra es la carta *Al Rabí Yafet de Acre* (1169) al rabino de San Juan de Acre (de los cruzados), otra *A los judíos de Yemén* (1174) sobre el mesianismo: es crítica con el mesianismo. Le llega la noticia desde Yemén a Egipto de que hay un mesías judío en Yemén y él lo critica y dice que los signos del mesianismo deberían ser mucho más claro y que no hay que fiarse (... racioanlismo). *Sobre la resurrección de los muertos* (1191) en el que discute las visiones impuestas por la Cábala y el neoplatonismo (de la reencarnación y demás) y también de la resurrección del cuerpo y alma al final de los tiempos. concluyue que hay dos resurreciones: una en cuerpo y alma al final de los tiempos y una definitiva que será en el cielo.
+
+También escribe *A los judíos de Montpellier* (1194) condenando la atrología (el uso de los astros de forma mágica), otra a su hijo Abrahám entorno a 1204...
+
+---
+
+En las obras de religión establece 13 principios fundamentales del judaísmo:
+
+La existencia y eternidad de Dios
+la unicidad de Dios
+el carácter espiritual de Dios y su incorporeidad
+la eternidad de Dios
+que solo dios debe ser objeto de culto
+la revelación a través de los profetas de Dios (tanak)
+la preeminencia de Moisés entre todos los profetas (lo dice la torá *aunq el deuteronomio luego dice al final de los tiempos vendrá un profeta como Moisés...)
+la ley de dios fue dada en el Monte Sinaí
+la inmutabilidad de la torá (riguroso, judaísmo tradicional en que la torá no se puede cambiar)
+el conocimiento previo de dios de las acciones humanas: tema de debate entre los musulmanes (mutazilíes etc) lo que generaba discusiones en torno al libre albedrío y la predestinación
+el justo juicio x parte de dios a los vivos y muertos
+la venida del mesías
+la resurrección de los muertos
+
+Su influencia fue tremenda, hoy día todos los judíos lo estudian como uno de los padres del Judaísmo, no porque invente sino porque aclara y racionaliza.
+
+### Ramban, aka *Nahmánides*
+
+Otro gran sabio judío de Sefarad (no ya de al-andalus) es r. Moisés ben Nahman (Girona 1194 - Acre 1270).
+
+Le influye el Sefer ha Bahir de Isaac el Ciego de Provenza (1160-1235) que es uno de los primeros libros cabalísticos.
+
+Su hermano, Benveniste da Porta, fue nombrado bailío de Barcelona (es decir, tenía un cargo importante sobre el territorio municipal) y fue tesorero de Jaume I de Aragó.
+
+Momento en que los judíos de Catalunya estaban muy integrados (siglo XII-XIII), igual que en la Castilla de Alfonso VI/VII, en Toledo fueron muy bien recibidos y se les apoyó porque traían riqueza. La presencia de población judía en las grandes ciudades cristianas suponía un incremento del comercio y la riqueza, cultura, medicina, traducciones, etc.
+
+Pero Nahmánides no va a tener tanta suerte. Ya en su edad adulta se produce una disputa con el converso jud>crist Pablo Cristiani y esta disputa va a llevar a la celevbración de un debate público en 1263 con un tribunal en el que se le garantiza que tiene libertad de expresión para decir lo que opina sobre las religiones judía y cristiana porque Pablo Cristiani estaba defendiendo la sueprioridad de cristianismo. No se le respetó y se le condenó al destierro a Tierra Santa.
+
+Tiene un libro de medicina bastante interesante basado en el corpus hipocrático, en Galeno y en Plinio el Viejo. 
+Escribió un comentario de la Torá bastante literal pero con veladas alusiones cabalísticas. Algunas, influencias del cabalismo de Isaac el Ciego de Provenza. La cábala se consolidará en el s. XIII.
+
+Reflexión novedosa sobre el mal y el diablo. Dice que ni el mal ni el diablo forman parte de las emanaciones de dios, sino que serían introducidos por el pecado de adán y eva (porque nada malo puede provenir de Dios).
+
+En cualquier caso, la obra que desarrolla la Cábala más propiamente es:
+
+### El Zóhar
+
+El autor es Moisés de León (1240-1305) aunque él mismo en su obra atribuye el texto al rabí Simón ben Yohay, del siglo II, de la época de Adriano (al que se le habían atribuido otra serie de obras, en momentos anteriores sobre todo protocabalísticas etc).
+
+Habla de las sefirot (emanaciones) de Dios. Parte importante.
+Otro apartado al hombre y el mundo. El hombre como pecado, cuerpo, alma y reencarnación. La reencarnación se va consolidando como una de las doctrinas principales del judaísmo talmúdico. Y el mundo: los cielos, los siete cielos, las distintas tierras, infiernos y paraísos, ángeles... Acaba hablando de Israel y el Mesías.
+
+![Sefirot](https://i.pinimg.com/originals/52/db/70/52db70262ac28239669a45d8884bf788.jpg)
+
+Tiene una organización de mayor a menor. El hombre, a través de la sabiduría, puede alcanzar primero las sefirot inferiores y luego llegar a las superiores. La superior del todo sería la corona.
+
+Por ejemplo la número dos es la sabiduría, hokmá, sofía en griego. Nos recuerda al gnosticismo cristiano... Lo vimos en el Evangelio de María, por ejemplo.
+El tres, el entendimiento, es la bináh. En el gnosticismo también había una hipóstasis llamada νοῦς, el entendimiento en griego.
+
+Luego hay otras, serenidad, misericordia, belleza... Recordemos que Platón hablaba de la belleza como idea emanada de la idea de Bien, una hipóstasis.
 
 ---
 <div style="display: flex; align-items: center; float: left;">
