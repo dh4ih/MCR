@@ -3,7 +3,9 @@ layout: default
 title: Judaísmo Medieval
 ---
 
-- [Tema 3: O judaísmo medieval](#tema-3-o-judaísmo-medieval)
+# Tema 3: El judaísmo medieval
+
+- [Tema 3: El judaísmo medieval](#tema-3-el-judaísmo-medieval)
   - [Judíos falashas y mizrajíes](#judíos-falashas-y-mizrajíes)
     - [El reino judío de Etiopía](#el-reino-judío-de-etiopía)
     - [Origen de los judíos yemeníes](#origen-de-los-judíos-yemeníes)
@@ -28,8 +30,10 @@ title: Judaísmo Medieval
     - [Rambam, aka *Maimónides*](#rambam-aka-maimónides)
       - [Biografía](#biografía)
       - [Obra](#obra)
-
-# Tema 3: El judaísmo medieval
+    - [Ramban, aka *Nahmánides*](#ramban-aka-nahmánides)
+    - [El Zóhar](#el-zóhar)
+    - [La difusión de la Cábala](#la-difusión-de-la-cábala)
+    - [Los judíos en Castilla](#los-judíos-en-castilla)
 
 Los judíos en el Medioevo (500-1500)
 
@@ -179,7 +183,7 @@ Parece poco judío según la imagen del judío que se tiene en España tradicion
  - **Hipótesis tradicional sionista**: Hipótesis central de que proceden de Israel. Llegarían desde el Imperio Romano, expulsados de Israel con las guerras de Tito, Trajano y Adriano y fueron emigrando hacia Alemania y desde allí llegaron a Polonia, Lituania.
  - **Hipótesis moderna**: Hoy día hay una hipótesis de que su procedencia es desde la estapa Rusa y Ucraniana, y que su origen es indoeuropeo. Lengua y ADN: No cabe la menor duda por los estudios genéticos. Pueden tener un pasado semita, pero solo unos pocos. La lengua, el yiddish, es una mezcla entre hebreo, alemán y lengua eslava. Se convirtió en lingua franca de los judíos de toda la región. Los judíos de polonia, alemania y ucrania se movían entre estos territorios y se comunicaban en este criollo. Esta lengua les facilitó su labor de comerciantes (una labor fundamental de los judíos medievales). 
 
-### **El reino judío de Jazaria**
+### El reino judío de Jazaria
 
 La hipótesis del origen jázaro de los judíos askenazíes la defendió durante la 2GM un escritor judío y lko hizo para criticar el nazismo ("qué absurdo el nazismo, que pretende condenar a los judíos por motivos raciales cuando los judíos son de razas muy diversas: los hay negros, pelirrojos..."). De hecho, la mayoría de judíos exterminados por los nazis eran de raza germano-eslava. ¿Qué dice la historia?
 
@@ -310,7 +314,7 @@ Huida a Sefarad del hijo de Ezequías, en el s. XI, este si fue el último exila
 
 Algunos van a refugiarse en otra ciudad. unos van a venir a sevilla, otros se van a ir a Lucena. Lucena es una ciudad de córdoba cuyo nombre en hebreo era Eliossanna (alabado sea dios): una ciudad completamente judía. En el medievo esta ciudad, en estos siglos hasta los almoades, era plenamente judía, con sus autoridades judías etc. El cementerio fue restaurado con dinero del Rockefeller, uno de los pocos cemenerios judíos conservados. El castillo tiene algunos restos arqueológicos de época judía y posteriores, almoade y cristiana. Alli fue desterrado Ibn Rushd (Averroes) el gran filósofo y me´dico andalusí en torno al 1095. Es interesante porque entraría en contacto con los sabios judíos que había en Lucena, entre ellos el padre de Maimónides. 
 
-### Rambam, aka *Maimónides*
+### Rambám, aka *Maimónides*
 
 #### Biografía 
 
@@ -367,7 +371,7 @@ la resurrección de los muertos
 
 Su influencia fue tremenda, hoy día todos los judíos lo estudian como uno de los padres del Judaísmo, no porque invente sino porque aclara y racionaliza.
 
-### Ramban, aka *Nahmánides*
+### Rambán, aka *Nahmánides*
 
 Otro gran sabio judío de Sefarad (no ya de al-andalus) es r. Moisés ben Nahman (Girona 1194 - Acre 1270).
 
@@ -402,9 +406,16 @@ El tres, el entendimiento, es la bináh. En el gnosticismo también había una h
 
 Luego hay otras, serenidad, misericordia, belleza... Recordemos que Platón hablaba de la belleza como idea emanada de la idea de Bien, una hipóstasis.
 
+### La difusión de la Cábala
 
-1.07.00
+- Sem Tob ben Sem Tom (1390-1460) escribe el Sefer ha Emunot (El libro de las creencias), es otro de los grandes libros cabalísticos. Vive en Sefarad y ataca la filosofía racionalista de Maimónides y defiende la cábala.
+- Otro gran cabalista sefardí, José Caro, nacido en Toledo en 1488 es decir poco antes de la expulsión de los judíos y murió en Safed, Galilea, en 1575. En Galilea fundará una escuela que será influyente. Galilea se convierte de nuevo en un lugar de refugiados judíos, sobre todo sefardíes, y va a crear una cultura sefardí en el "Israel" del siglo XVI. Escribió sobre halaká y cábala.
 
+### Los judíos en Castilla
+
+Aunque la tradición fuera negativa (vid. Cid) también hubo cierta tradición positiva. Por ejemplo, Alfonso VI y VII quisieron implantar un Imperio (el Imperio de toda Hispania) que, subordinando a los monarcas de Cataluña, Aragón, Portugal etc a un cierto vasallaje y que fuera a su vez el imperio de las tres religiones, intentando subordinar también a monarcas andalusías. Quería un imperio tolerante con las 3 religiones. Esta tolerancia (sobre todo hacia los judíos - también musulmanes...) tuvo su apogeo en esta época.
+
+Hasta el s. XIV esto continúa hasta cierto punto. En Castilla todavía en el XIV, Pedro I el Justiciero 1.11.10
 
 ---
 <div style="display: flex; align-items: center; float: left;">
