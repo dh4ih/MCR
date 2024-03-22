@@ -3,7 +3,7 @@ layout: default
 title: Judaísmo Medieval
 ---
 
-# Tema 3: El judaísmo medieval
+# Tema 3: El judaísmo medieval (500-1500)
 
 - [Tema 3: El judaísmo medieval](#tema-3-el-judaísmo-medieval)
   - [Judíos falashas y mizrajíes](#judíos-falashas-y-mizrajíes)
@@ -16,7 +16,7 @@ title: Judaísmo Medieval
       - [Heterodoxia](#heterodoxia)
   - [Judíos askenazíes](#judíos-askenazíes)
     - [Hipótesis sobre su origen](#hipótesis-sobre-su-origen)
-    - [**El reino judío de Jazaria**](#el-reino-judío-de-jazaria)
+    - [El reino judío de Jazaria](#el-reino-judío-de-jazaria)
       - [El Imperio Jázaro y los Rus de Kiev](#el-imperio-jázaro-y-los-rus-de-kiev)
       - [Invasión pechenega (ss. XI-XII)](#invasión-pechenega-ss-xi-xii)
       - [Invasiones cumana y mongol (ss. XII-XIII)](#invasiones-cumana-y-mongol-ss-xii-xiii)
@@ -27,15 +27,13 @@ title: Judaísmo Medieval
   - [Judíos sefardíes](#judíos-sefardíes)
     - [Orígenes](#orígenes)
     - [Los sefaríes en Al Ándalus](#los-sefaríes-en-al-ándalus)
-    - [Rambam, aka *Maimónides*](#rambam-aka-maimónides)
+    - [Rambám, aka *Maimónides*](#rambám-aka-maimónides)
       - [Biografía](#biografía)
       - [Obra](#obra)
-    - [Ramban, aka *Nahmánides*](#ramban-aka-nahmánides)
+    - [Rambán, aka *Nahmánides*](#rambán-aka-nahmánides)
     - [El Zóhar](#el-zóhar)
     - [La difusión de la Cábala](#la-difusión-de-la-cábala)
     - [Los judíos en Castilla](#los-judíos-en-castilla)
-
-Los judíos en el Medioevo (500-1500)
 
 Durante este período, se observa una notable prosperidad en las comunidades judías y una significativa diversificación de grupos étnicos judíos. Se consolidan principalmente cuatro grandes grupos: los falashas, los mizrajíes, los askenazíes y los sefardíes.
 
