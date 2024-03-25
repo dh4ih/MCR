@@ -411,9 +411,30 @@ Luego hay otras, serenidad, misericordia, belleza... Recordemos que Platón habl
 
 ### Los judíos en Castilla
 
+- Tradición negativa
+
 Aunque la tradición fuera negativa (vid. Cid) también hubo cierta tradición positiva. Por ejemplo, Alfonso VI y VII quisieron implantar un Imperio (el Imperio de toda Hispania) que, subordinando a los monarcas de Cataluña, Aragón, Portugal etc a un cierto vasallaje y que fuera a su vez el imperio de las tres religiones, intentando subordinar también a monarcas andalusías. Quería un imperio tolerante con las 3 religiones. Esta tolerancia (sobre todo hacia los judíos - también musulmanes...) tuvo su apogeo en esta época.
 
-Hasta el s. XIV esto continúa hasta cierto punto. En Castilla todavía en el XIV, Pedro I el Justiciero 1.11.10
+Hasta el s. XIV esto continúa hasta cierto punto. En Castilla todavía en el XIV, Pedro I el Justiciero (llamado así por parte de sus partidarios, entre ellos los judíos, las clases inferiores y los mudéjares de castilla (el tercer estado)...
+
+El "Cruel" lo llama la nobleza castellana, especialmente los partidarios de su hermano, Enrique I de Trastámara, que lo matará en un duelo tras una batalla. Con Pedro I tenemos la construcción de las dos grandes sinagogas de Toledo y la sinagoga de Sevilla (hoy Iglesia de Santa María la Blanca). En Toledo la Sinagoga del Tránsito etc. Muestra del apoyo de la monarquía  ala población judía y también la presencia de judíos en la corte,como médicos, ministros de Hacienda, etc. Esto cambia con la llegada de los Trastámara el poder. De hecho, Enrique I de Trastámara, el hermano bastardo de Pedro, utilizará la propaganda antijudía para luchar contra el rey diciendo que en realidad era hijo de un judío llamado Per Ojil. Entonces, los partidarios de Ernqieu llamarán emperejilados a los de Pedro I. POco después de Enrique, con su dinastía se produce la predicación de Vicente Ferrer contra los judíos y el [pogromo de 1391](https://es.wikipedia.org/wiki/Masacre_antisemita_de_1391) en Sevilla. Empiezan las matanzas de judíos en el Reino de Castilla. Esta violencia, robos, asesinatos, violaciones, en las juderías castellanas produce el efecto de los conversos. Muchas veces los conversos van a ser gente que simula la conversión. Y la inquisición empezará a perseguir este fenómeno a partir de los Reyes Católicos. Finalmente, en 1492, los RRCC deciden la expulsión de todos los judíos (unos 100 mil exiliados aunque la cifra se discute).
+
+No sería la primera expulsión de judíos de territorios cristianos.
+
+![Mapa de expulsiones de 1100-1600](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Expulsi%C3%B3n_jud%C3%ADos.svg/1200px-Expulsi%C3%B3n_jud%C3%ADos.svg.png)
+
+Aquí tenemos las múltiples expulsiones que se dieron a lo largo de la Edad Media. En Francia, por ejemplo, ya en e siglo XII hubo una expulsión, luego 3 más en el XIV... En Inglaterra, por ejemplo, la de 1290 fue definitiva, no quedó ni uno. Habrá que esperar al siglo XVII para que se permita su retorno. La de España fue la más numerosa: el lugar a donde más emigraron fue Portugal porque había tolerancia, pero 5 años después los echaron de allí también. 
+
+## Conclusiones
+
+- En el Medievo no existía ya una raza judía, aunque los mecanismos de introversión social (matrimonio, normas de pureza, etc), unidos al antijudaísmo fomentado por instituciones cristianas y musulmanas, fomentara una cerrazón física y social que contribuyó a su supervivencia. Ya se han mezclado, con la población hispana en Sefarad; con la eslava en Jazaria, Polonia y Lituania y con otras poblaciones en el Yemén, Etiopía, etc.
+- En el Medievo hubo cuatro grupos étnicos, bastante separados entre sí: el más abundante es el askenazí, seguido del sefardí. Menores son el mizrají y el falasha.
+- La cultura judía sí ha fluido a lo largo de los siglos entre los diferentes grupos, especialmente los dos grandes exponentes andalusíes: Rambám y la Cábala, pero también literatura, música, cultura culinaria, etc.
+- El carácter de minoría étnica unido a la gran solidaridad interna de un pueblo de esclavos liberados, así como la normativa sobre la usura de los tres monoteísmos, permitió a los judíos desempeñar a lo largo de los siglos un papel fundamental no sólo en las finanzas, sino también en el comercio y la artesanía, factor clave en su supervivencia.
+
+(Aunque hay una gran resiliencia judía y hay múltiples factores por los que sobrevive el judaísmo y no otros grupos, como maniqueos u otras culturas religiosas, hay que tener en cuenta que estos factores como no prestar con interés a tu hermano, los judíos no prestan con interés a otrs judíos, lo mismo cristianos con cristianos y musulmanes con musulmanes. Los judíos imponen la doctrina de la condena de la usura. Pero qué ocurre? Que la doctrina de la usura es "no prestarás con interés a tu hermano", según la Torá. Los préstamos con interés se hacen a gente de otras religiones. ¿Quién es la minoría que está tanto en el mundo musulmán como en el mundo cristiano representada en un volumen significativo como para tener capital y poder prestarlo con interés? El judaísmo. Esto lo convierte en una entidad financiera relevante en el mundo cristiano y musulmán, pero también el comercio (más). En el fondo las finanzas son un factor que afecta a un porcentaje mínimo de la población judía. Algunas personas que habían conseguido acumular riqueza suficiente como para prestarla y enriquecerse más = crear grandes bancos, en el fondo, entidades financieras protocapitalistas que son las que han generado el capitalismo. Nadie se le ocurre discutir la existencia de la banca. Pero el comercio era una actividad mucho más numerosa de mucha más población judía. Puesto que se les prohibían actividades gremiales (salvo excepciones como la óptica o el trabajo con cosas de lujo como diamantes), pues muchas veces se veían abocados al comercio en los lugares donde estaban más perseguidos. Recordemos que en Polonia y Lituania, como teienen libertad, se dedican a la agricultura. En cuanto al comercio, esos favores mutuos, la confianza sin conocerse... eso permitió crear una red comercial que los hizo prósperos. Tras la expulsión de los judíos de Sefarad hubo recesión económica.
+
+)
 
 ---
 <div style="display: flex; align-items: center; float: left;">
